@@ -22,15 +22,18 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>趣味小蛋魚</span>
+			<span class='recipe_title'>趣味小蛋鱼</span>
 			<p class='title_body'>
-				這款雞蛋小魚是小孩和大人都會喜歡的有趣小菜。煮熟的雞蛋作為小魚的身體，切成薄片的青瓜和白蘿蔔組成魚鱗，再點綴以紅椒做出魚尾，您就會迎來一片稱讚聲！
+
+			这款鸡蛋小鱼是小孩和大人都会喜欢的有趣小菜。煮熟的鸡蛋作为小鱼的身体，切成薄片的黄瓜和白萝卜组成鱼鳞，再点缀以红椒做出鱼尾，您就能畅游在一片称赞声当中
+				
+
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +62,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 : 4位用</li>
+					<li class='recipe_worlds'>份量 : 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10分鐘</li>
+					<li class='recipe_worlds'>准备时间: 10分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 20分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 20分钟</li>
 				</ul>
 			</div>
 
@@ -72,29 +75,29 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>4隻 </span>
-	                	<span>1個</span>
-	                	<span>2個 </span>
-	                	<span>1條</span>
+	                	<span>4个 </span>
+	                	<span>1个</span>
+	                	<span>2个 </span>
+	                	<span>1条</span>
 	                	<span>¼杯(60毫升)</span>
-	                	<span>2個</span>
+	                	<span>2个</span>
 	                	<span>1杯(250毫升)</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>全熟烚雞蛋 (剝殼)</span>
-	                	<span>小紅椒</span>
-	                	<span>白蘿蔔 (切成非常薄的薄片)</span>
-	                	<span>小青瓜 (切成非常薄的薄片)</span>
-	                	<span>低脂蛋黃醬</span>
-	                	<span>去核黑橄欖</span>
-	                	<span>生菜絲</span>
+	                	<span>全熟水煮鸡蛋 (剥壳)</span>
+	                	<span>小红椒</span>
+	                	<span>白萝卜 (切成非常薄的薄片)</span>
+	                	<span>小黄瓜 (切成非常薄的薄片)</span>
+	                	<span>低脂蛋黄酱</span>
+	                	<span>去核黑橄榄</span>
+	                	<span>生菜丝</span>
 	                </div>
                 </div>
 
@@ -107,24 +110,24 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">製作魚身：沿著每隻雞蛋的一條長邊切走一小片，令魚身可以立起</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">制作鱼身：沿着每个鸡蛋的一条长边切走一小片，令鱼身可以立起</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">從紅椒切4個1吋(2.5厘米)長的「V」型做成魚尾。將白蘿蔔和青瓜薄片對半切或切成四瓣來模仿魚鱗
+						<div class="col-xs-10 col-xs-offset-1 step_body">从红椒切4个1英寸(2.5厘米)长的“V”型做成鱼尾。将白萝卜和黄瓜薄片对半切或切成四瓣来模仿鱼鳞
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用蛋黃醬當膠水，將青瓜和蘿蔔魚鱗貼在每隻蛋上，覆蓋魚背的三分之二，並在較窄的一端留出空間作為面部。從黑橄欖切出小方塊放在面部做眼。在雞蛋的另一端切個小口插入紅椒尾
+						<div class="col-xs-10 col-xs-offset-1 step_body">用蛋黄酱当胶水，将黄瓜和萝卜鱼鳞贴在每个蛋上，覆盖鱼背的三分之二，并在较窄的一端留出空间作为脸部。从黑橄榄切出小方块放在脸部做眼。在鸡蛋的另一端切个小口插入红椒尾
 
 </div>
 						<hr class='hr1'>
@@ -133,7 +136,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在雞蛋周圍放一圈生菜絲做出海草的效果
+						<div class="col-xs-10 col-xs-offset-1 step_body">在鸡蛋周围放一圈生菜丝做出海草的效果
 
 </div>
 						<hr class='hr1'>
@@ -146,8 +149,8 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">全熟烚蛋的基本做法：在單層湯鍋中放入凍雞蛋。倒入凍水，水面至少在雞蛋以上1吋(2.5厘米)。蓋上鍋蓋，用大火快速將水煮滾。立即離火令水停止滾沸。讓雞蛋留在水裏18至23分鐘。撈出雞蛋並馬上用涼開水沖至變涼。</div>
+						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">全熟水煮蛋的基本做法：在单层汤锅中放入凉鸡蛋。倒入凉水，水面至少在鸡蛋以上1英寸(2.5厘米)。盖上锅盖，用大火快速将水烧开。立即离火使水停止沸腾。让鸡蛋留在水里18至23分钟。捞出鸡蛋并马上用凉开水冲至变凉。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -198,7 +201,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -211,7 +214,7 @@
         		<td class='text-right'>10克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>2克</td>
         	</tr>
         	<tr>
@@ -219,7 +222,7 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>186毫克</td>
         	</tr>
         	<tr>
@@ -227,11 +230,11 @@
         		<td class='text-right'>3克</td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>7克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>1克</td>
         	</tr>
         	<tr>

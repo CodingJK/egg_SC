@@ -26,15 +26,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>番茄煙肉煎蛋早餐三文治</span>
+			<span class='recipe_title'>番茄培根煎蛋早餐三明治</span>
 			<p class='title_body'>
-				全麥英式鬆餅為這道美味充實的早餐添加了健康元素。用牛油紙包起三文治您就可在路上享用早餐了！
+				全麦英式松饼为这道美味充实的早餐添加了健康元素。用牛油纸包起三明治您就可以在路上享用早餐了！
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -65,11 +65,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 2</li>
+					<li class='recipe_worlds'>份量: 2人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間:: 5 min</li>
+					<li class='recipe_worlds'>准备时间： 5分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間:: 5 min</li>
+					<li class='recipe_worlds'>烹调时间： 5分钟</li>
 				</ul>
 			</div>
 
@@ -78,45 +78,45 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2塊</span>
+	                	<span>2个</span>
 	                	<span>2茶匙(30毫升) </span>
 	                	<span>4片 </span>
 	                	<span>4片 </span>
-	                	<span>4隻</span>
+	                	<span>4个</span>
 	                	<span>¼茶匙(1.25毫升)</span>
 	                	<span>¼茶匙(1.25毫升)</span>
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>全麥英式鬆餅 (或您喜歡的麵包)</span>
+	                	<span>全麦英式松饼(或您喜欢的面包)</span>
 	                	<span>牛油</span>
 	                	<span>番茄</span>
-	                	<span>熟煙肉</span>
-	                	<span>雞蛋</span>
-	                	<span>鹽</span>
+	                	<span>熟培根</span>
+	                	<span>鸡蛋</span>
+	                	<span>盐</span>
 	                	<span>胡椒粉</span>
 	                </div>
                 </div>
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">烤英式鬆餅，在每塊的其中一個半邊搽上牛油½茶匙(2.5毫升)，並鋪上番茄和熟煙肉</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">烤英式松饼，在每个的其中一个半边涂上黄油½茶匙(2.5毫升)，并铺上番茄和熟培根</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用平底鍋以中火煮融剩餘的牛油，打入雞蛋。用鹽和胡椒粉調味；煎3至4分鐘至蛋白凝結(如果要兩面煎，翻轉雞蛋煎2分鐘)。將蛋置於煙肉之上即可食用 
-						Set aside.
+						<div class="col-xs-10 col-xs-offset-1 step_body">用平底锅以中火煮融剩余的黄油，打入鸡蛋。用盐和胡椒粉调味；煎3至4分钟至蛋白凝结(如果要两面煎，翻转鸡蛋煎2分钟)。将蛋置于培根之上即可食用
+						
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -127,7 +127,7 @@
 			</div>
 			
 			<div class="col-xs-12 text-center related">
-				<h1>相關</h1>
+				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Scrambled-Eggs">
@@ -182,7 +182,7 @@
         		<td class='text-right'>30克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
@@ -190,7 +190,7 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>1120毫克</td>
         	</tr>
         	<tr>
@@ -202,7 +202,7 @@
         		<td class='text-right'>26克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>8克</td>
         	</tr>
         	<tr>

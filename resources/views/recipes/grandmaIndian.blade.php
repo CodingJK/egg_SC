@@ -124,7 +124,7 @@
 	                </div>
                 </div>
 				<div class="container-fuild step">
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"><b>Garam masala ketchup: </b> In a small bowl, add tomato ketchep and mix in garam masala (and chili powder). Set aside. </div>

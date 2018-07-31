@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>鳳凰奶露 </span>
+			<span class='recipe_title'>凤凰奶露 </span>
 			<p class='title_body'>
-				此款傳統的糖水最適合作為飯後甜點享用。
+				此款传统的糖水最适合作为饭后甜点享用。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4</li>
+					<li class='recipe_worlds'>份量 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間:5-7分鐘</li>
+					<li class='recipe_worlds'>准备时间：5-7分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 5分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 5分钟</li>
 				</ul>
 			</div>
 
@@ -72,7 +72,7 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
@@ -80,7 +80,7 @@
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
 	                	
-	                	<span>2隻</span>
+	                	<span>2个</span>
 	                	<span>170毫升</span>
 	                	<span>1茶匙</span>
 	                	
@@ -99,7 +99,7 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
-						<span>雞蛋</span>
+						<span>鸡蛋</span>
 						<span>奶</span>
 						<span>糖</span>
 
@@ -114,31 +114,33 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個小碗中攪勻蛋黃備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个小碗中搅匀蛋黄备用</div>
 						<hr class='hr1'>
 					</div>
 
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋以慢火熱奶1分鐘，加糖1茶匙再熱1分鐘，切勿滾起
-						</div>
-							<hr class='hr1'>
-					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">離火，慢慢將⅓熱奶倒入蛋黃碗中
+						<div class="step_title col-xs-12">Step 2</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅以慢火热奶1分钟，加糖1茶匙再热1分钟，切勿烧开
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
+						<div class="step_title col-xs-12">Step 3</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">离火，慢慢将⅓热奶倒入蛋黄碗中
+						</div>
+							<hr class='hr1'>
+					</div>
+
+
+					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">再將奶和蛋黃反注入鍋中，不斷攪拌1分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">再将奶和蛋黄反注入锅中，不断搅拌1分钟
 </div>
 						<hr class='hr1'>
 					</div>
@@ -146,7 +148,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">可立即享用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -157,9 +159,9 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小貼士:</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">  如您喜歡，可使用高脂奶。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body"> 如您希望奶糊更粘稠，可加熱更長時間。</div>
+						<h1 class="col-xs-12"><b>小贴士:</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">  如果您喜欢，可使用高脂奶。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body"> 如果您希望奶糊更粘稠，可加热更长时间。</div>
 
 						<hr class='hr1'>
 						
@@ -212,7 +214,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -225,7 +227,7 @@
         		<td class='text-right'>3.5 g</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>1.5 g</td>
         	</tr>
         	<tr>
@@ -233,7 +235,7 @@
         		<td class='text-right'>0.1 g</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>338 mg</td>
         	</tr>
         	<tr>
@@ -241,11 +243,11 @@
         		<td class='text-right'>24 g  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>3 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>3 g</td>
         	</tr>
         	<tr>

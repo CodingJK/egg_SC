@@ -15,15 +15,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>紫菜鵝肝蛋皮卷Rice </span>
+			<span class='recipe_title'>紫菜鹅肝蛋皮卷 </span>
 			<p class='title_body'>
-				您可在下次宴會時準備這款極具創意的精緻前菜。雞蛋令味道濃郁的鵝肝添上細滑口感。您可能需要去一趟高級食品商場，但您肯定會享受整個過程。美味前菜再與甜酒配搭，讓精彩的夜晚有個美好開始！
+				您可以在下次宴会时准备这款极具创意的精致前菜。鸡蛋令味道浓郁的鹅肝添上细滑口感。您可能需要去一趟高级食品商场，但您肯定会享受整个过程。美味前菜与甜酒搭配，让精彩的夜晚有个美好开始！
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -52,11 +52,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4位用 (每位1件)</li>
+					<li class='recipe_worlds'>份量 4人份 (每人1块)</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 25分鐘</li>
+					<li class='recipe_worlds'>准备时间: 25分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 烹煮15分鐘+變涼30分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 烹煮15分钟+变凉30分钟</li>
 				</ul>
 			</div>
 
@@ -65,15 +65,15 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2隻 </span>
+	                	<span>2个 </span>
 	                	<span>2茶匙</span>
-	                	<span>1張(20厘米乘20厘米)</span>
+	                	<span>1张(20厘米乘20厘米)</span>
 	                	<span>170克</span>
 	                	<span>¼茶匙</span>
 	                	<span>¼茶匙</span>
@@ -82,11 +82,11 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>雞蛋</span>
-	                	<span>您喜歡的食用油</span>
-	                	<span>壽司紫菜</span>
-	                	<span>鵝肝</span>
-	                	<span>鹽</span>
+	                	<span>鸡蛋</span>
+	                	<span>您喜欢的食用油</span>
+	                	<span>寿司紫菜</span>
+	                	<span>鹅肝</span>
+	                	<span>盐</span>
 	                	<span>黑胡椒粉</span>
 	                </div>
                 </div>
@@ -100,24 +100,24 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在碗內輕輕將雞蛋打散</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在碗内轻轻将鸡蛋打散</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">製作蛋皮——使用一個大平底鍋，用中到大火加熱2-3分鐘，加油2茶匙。倒入蛋液，使之在鍋面平均攤開，形成大小與壽司紫菜相若的薄皮，煎3分鐘後待其變涼。共做2張蛋皮，備用 
+						<div class="col-xs-10 col-xs-offset-1 step_body">制作蛋皮——使用一个大平底锅，用中到大火加热2-3分钟，加油2茶匙。倒入蛋液，使之在锅面平均摊开，形成大小与寿司紫菜相似的薄皮，煎3分钟后待其变凉。共做2张蛋皮，备用 
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將鵝肝切成小條狀，撒上鹽和黑胡椒粉各¼茶匙調味
+						<div class="col-xs-10 col-xs-offset-1 step_body">将鹅肝切成小条状，撒上盐和黑胡椒粉各¼茶匙调味
 
 </div>
 						<hr class='hr1'>
@@ -126,7 +126,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用中火熱平底鍋，煎鵝肝1分鐘，再將其放在一張廚紙上吸走多餘的油，待其變涼備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用中火热平底锅，煎鹅肝1分钟，再将其放在一张厨纸上吸走多余的油，待其变凉备用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -134,7 +134,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放平一張蛋皮，鋪上一張紫菜，再一張蛋皮
+						<div class="col-xs-10 col-xs-offset-1 step_body">放平一张蛋皮，铺上一张紫菜，再一张蛋皮
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -142,7 +142,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將鵝肝排在蛋皮的一端，輕輕壓緊捲成卷，再以保鮮紙包裹
+						<div class="col-xs-10 col-xs-offset-1 step_body">将鹅肝排在蛋皮的一端，轻轻压紧卷成卷，再以保鲜膜包裹
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -150,7 +150,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">待其變涼至室溫 (約30分鐘)，去除保鮮紙後再切成小塊，即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">待其变凉至室温(约30分钟)，去除保鲜膜后再切成小块即可享用
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -210,7 +210,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -223,7 +223,7 @@
         		<td class='text-right'>24克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>7克</td>
         	</tr>
         	<tr>
@@ -231,19 +231,19 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>489毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>390 mg  </td>
+        		<td class='text-right'>390 毫克  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>8克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>

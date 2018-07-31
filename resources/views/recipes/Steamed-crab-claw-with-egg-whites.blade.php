@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>白玉蒸蟹鉗</span>
+			<span class='recipe_title'>白玉蒸蟹钳</span>
 			<p class='title_body'>
-				這道菜結合了蒸蟹的鮮美和蛋白的嫩滑。一些人認為蛋白才是這道菜的精髓，若其烹調時間恰到好處，將帶來無「蟹」可擊的細膩口感。
+				这道菜结合了蒸蟹的鲜美和蛋白的嫩滑。一些人认为蛋白才是这道菜的精髓，若其烹调时间恰到好处，将带来无“蟹”可击的细腻口感。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 1位用</li>
+					<li class='recipe_worlds'>份量: 1人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 5分鐘</li>
+					<li class='recipe_worlds'>准备时间: 5分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 10-12分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 10-12分钟</li>
 				</ul>
 			</div>
 
@@ -72,29 +72,29 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2隻</span>
+	                	<span>2个</span>
 	                	<span>70 毫升</span>
-	                	<span>½茶匙或適量</span>
+	                	<span>½茶匙或适量</span>
 	                	<span>½茶匙</span>
 	                	<span>¼茶匙</span>
-	                	<span>1隻</span>
+	                	<span>1个</span>
 	                	
 	                	
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>雞蛋(只用蛋白)</span>
-	                	<span>清雞湯</span>
-	                	<span>鹽</span>
+	                	<span>鸡蛋(只用蛋白)</span>
+	                	<span>清鸡汤</span>
+	                	<span>盐</span>
 	                	<span>糖</span>
 	                	<span>白胡椒粉</span>
-	                	<span>去殼蟹鉗</span>
+	                	<span>去壳蟹钳</span>
 	                	
 	                </div>
                 </div>
@@ -108,24 +108,24 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋白與清雞湯70亳升，鹽、糖各½茶匙，和白胡椒粉¼茶匙攪勻</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋白与清鸡汤70亳升，盐、糖各½茶匙，和白胡椒粉¼茶匙搅匀</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將已攪勻的蛋白倒入小碗中，放入蟹鉗
+						<div class="col-xs-10 col-xs-offset-1 step_body">把已搅匀的蛋白倒入小碗中，放入蟹钳
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">鍋中加水煮滾，放入小碗，水位應稍低於碗口，再以小至中火蒸8至9分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">锅中加水烧开，放入小碗，水位应稍低于碗口，再以中火蒸8至9分钟
 
 </div>
 						<hr class='hr1'>
@@ -134,7 +134,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">可立即享用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -144,10 +144,9 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">使用無鹽清雞湯。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如您使用從超市購得的冰凍蟹鉗，很可能已含一定鹽分，因此在烹煮時可減少鹽的份量。
-						</div>
+						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body"> 使用无盐清鸡汤。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">如果您使用从超市购得的冰冻蟹钳，很可能已含一定盐分，因此在烹煮时可减少盐的份量。
 
 						<hr class='hr1'>
 						
@@ -199,7 +198,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -212,7 +211,7 @@
         		<td class='text-right'>1克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>0.2克</td>
         	</tr>
         	<tr>
@@ -220,7 +219,7 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>2431毫克</td>
         	</tr>
         	<tr>
@@ -228,11 +227,11 @@
         		<td class='text-right'>2克 </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>28克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>

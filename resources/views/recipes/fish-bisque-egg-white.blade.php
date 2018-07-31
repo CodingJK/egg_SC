@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>芙蓉斑片羮</span>
+			<span class='recipe_title'>芙蓉斑片羹</span>
 			<p class='title_body'>
-				這個是有名的蛋花湯的精心改良版，準備簡單，蛋白花令魚湯更有光澤。
+				这个是有名的蛋花汤的精心改良版，准备简单，蛋白花令鱼汤更有光泽。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 4位用</li>
+					<li class='recipe_worlds'>份量: 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間:: 10 分鐘</li>
+					<li class='recipe_worlds'>准备时间：10 分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間:: 5 分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 5 分钟</li>
 				</ul>
 			</div>
 
@@ -72,7 +72,7 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
@@ -85,20 +85,20 @@
 	                	<span>½茶匙</span>
 	                	<span>¼茶匙</span>
 	                	<span>57克</span>
-	                	<span>4隻</span>
+	                	<span>4个</span>
 	                	<span>28克</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>鮮斑肉</span>
-	                	<span>鮮蘑菇</span>
-	                	<span>清雞湯</span>
+	                	<span>鲜斑肉</span>
+	                	<span>鲜蘑菇</span>
+	                	<span>清鸡汤</span>
 	                	<span>糖</span>
-	                	<span>鹽</span>
+	                	<span>盐</span>
 	                	<span>白胡椒粉</span>
 	                	<span>生粉</span>
-	                	<span>雞蛋 (只用蛋白)</span>
-	                	<span>芫茜 (切碎粒)</span>
+	                	<span>鸡蛋 (只用蛋白)</span>
+	                	<span>香菜 (切碎粒)</span>
 	                </div>
                 </div>
 
@@ -109,43 +109,43 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">斑肉切成薄片，每片厚度約3至5毫米，大小約5厘米乘5厘米。蘑菇亦切成薄片，備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">斑肉切成薄片，每片厚度约3至5毫米，大小约5厘米乘5厘米。蘑菇亦切成薄片备用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個小鍋內將清雞湯850毫升加蓋煮滾3分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个小锅内将清鸡汤850毫升加盖煮沸3分钟
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">3分鐘後在滾沸的湯內放入斑肉、蘑菇，加入糖、鹽各½茶匙和白胡椒粉¼茶匙攪勻調味</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">3分钟后在沸腾的汤内放入斑肉、蘑菇，加入糖、盐各½茶匙和白胡椒粉¼茶匙搅匀调味</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用生粉57克勾芡使湯變稠</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用生粉57克勾芡使汤变稠</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">關火後倒入蛋白打圈輕攪</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">关火后倒入蛋白打圈轻搅</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將湯倒入4個碗中，加芫茜點綴即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将汤倒入4个碗中，加香菜点缀即可享用</div>
 						<hr class='hr1'>
 					</div>
 					

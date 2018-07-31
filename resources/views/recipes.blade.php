@@ -16,11 +16,9 @@
       	<div class='big_screen_only'>
 	      	<div class='container-fuild header'>
 		      	<div class='header_artical'>
-		      		<div class='title'>食譜</div>
+		      		<div class='title'>食谱</div>
 		      		<div class='sub_title'>
-						瀏覽我們的多款雞蛋食譜，用雞蛋烹調出多姿多彩的菜式！無論是平日的美味早餐，週末的悠閒午餐，
-						還是款待客人的精緻美食，甚至是為孩子製作點心，您都能在這裏找到心儀食譜，為每一餐找到美味「煮」意！
-		      		</div>
+						浏览我们的多款鸡蛋食谱，用鸡蛋烹调出多姿多彩的菜式！无论是平日的美味早餐，周末的悠闲午餐，还是款待客人的精致美食，甚至是为孩子制作点心，您都能在这里找到心仪食谱，为每一餐找到美味“煮”意！
 		      	</div>	
 		    </div>
 		    <hr />
@@ -38,14 +36,14 @@
 		     			<div class='col-lg-4'>
 		     				<a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-			     				<div class='name'>番茄煙肉煎蛋早餐三文治</div>
+			     				<div class='name'>番茄培根煎蛋早餐三明治</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-lg-4'>
 		     				<a href="/Scrambled-Eggs">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
-			     				<div class='name'>粟米煙肉炒蛋</div>
+			     				<div class='name'>玉米培根炒蛋</div>
 			     			</a>
 		     			</div>
 
@@ -61,19 +59,19 @@
 		     		
 		     		<hr>
 
-		     		<div id='title_com'>湯</div>
+		     		<div id='title_com'>汤</div>
 		     		<div class='row'>
 		     			<div class='col-lg-4'>
 		     				<a href="/fish-bisque-egg-white">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-06-Final-web.jpg' />
-			     				<div class='name'>芙蓉斑片羮</div>
+			     				<div class='name'>芙蓉斑片羹</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-lg-4'>
 		     				<a href="/mushroom-truffle-and-egg">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
+			     				<div class='name'>蘑菇蛋花松露清汤</div>
 			     			</a>
 		     			</div>
 
@@ -81,7 +79,7 @@
 		     				<a href="/Birds-Nest-Egg-Peral">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
 			     				<div class='name'>
-			     					紅燒燕液盞 	
+			     					红烧燕液盏	
 								</div>
 			     			</a>
 		     			</div>
@@ -95,14 +93,14 @@
 		     			<div class='col-lg-4'>
 		     				<a href="/Funny-Egg-Fish">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小蛋魚</div>
+			     				<div class='name'>趣味小蛋鱼</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-lg-4'>
 		     				<a href="/Boiled-Egg-Oolong-Tea">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>烏龍茶葉蛋</div>
+			     				<div class='name'>乌龙茶叶蛋</div>
 			     			</a>
 		     			</div>
 
@@ -110,7 +108,7 @@
 		     				<a href="/Moo-Shu-pork-wok-fried">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
 			     				<div class='name'>
-			     					金絲木須肉夾餅
+			     					金丝木须肉夹饼
 								</div>
 			     			</a>
 		     			</div>
@@ -124,7 +122,7 @@
 		     			<div class='col-lg-4'>
 		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>紫菜鵝肝蛋皮卷</div>
+			     				<div class='name'>紫菜鹅肝蛋皮卷</div>
 			     			</a>
 		     			</div>
 		     			<div class='col-lg-4'>
@@ -143,7 +141,7 @@
 		     			<div class='col-lg-4'>
 		     				<a href="/Steamed-crab-claw-with-egg-whites">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
-			     				<div class='name ' >白玉蒸蟹鉗</div>
+			     				<div class='name ' >白玉蒸蟹钳</div>
 			     			</a>
 		     			</div>
 
@@ -157,14 +155,14 @@
 		     			<div class='col-lg-4'>
 		     				<a href="/St-Egg-Mncd-Pork">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
-			     				<div class='name ' >瑤柱肉末蒸滑蛋</div>
+			     				<div class='name ' >瑶柱肉末蒸滑蛋</div>
 			     			</a>
 		     			</div>
 		     			<div class='row'>
 		     			<div class='col-lg-4'>
 		     				<a href="/Scrmbld-Egg-Fish-Maw">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-21-Final-web.jpg' />
-			     				<div class='name ' >桂花雲腿炒魚肚</div>
+			     				<div class='name ' >桂花云腿炒鱼肚</div>
 			     			</a>
 		     			</div>
 		     		</div>
@@ -178,20 +176,20 @@
 						<div class='col-lg-4'>
 							<a href="/Bld-Swtnd-Milk">
 								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
-								     				<div class='name ' >鳳凰奶露</div>
+								     				<div class='name ' >凤凰奶露</div>
 								     			</a>
 						</div>
 					
 						<div class='col-lg-4'>
 							<a href="/Syrup-Lts-Seed">
 								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-23-Final-web.jpg' />
-								     				<div class='name ' >蓮子蛋茶</div>
+								     				<div class='name ' >莲子蛋茶</div>
 								     			</a>
 						</div>
 						<div class='col-lg-4'>
 							<a href="/Egg-Tart">
 								     				<img class='recipes_img' src='/images/recipes/Eggs-SA-24-Final-web.jpg' />
-								     				<div class='name ' >酥皮蛋撻</div>
+								     				<div class='name ' >酥皮蛋挞</div>
 								     			</a>
 						</div>
 					

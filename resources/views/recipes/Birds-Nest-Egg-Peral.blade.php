@@ -20,10 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>紅燒燕液盞</span>
+			<span class='recipe_title'>红烧燕液盏</span>
 			<p class='title_body'>
-				燕窩在我們的文化當中是人盡皆知的名貴食品。如果您想在宴請賓客時端出驚艷四座的佳餚，
-				做這一款湯就最適合了。按照我們的食譜您就可做出賣相一流的湯品，盡顯尊貴。
+				燕窝在我们的文化当中是人尽皆知的名贵食品。如果您想在宴请宾客时端出惊艳四座的佳肴，做这一款汤就最适合了。按照我们的食谱您就可做出卖相一流的汤品，尽显尊贵。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -52,11 +51,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 : 4位用</li>
+					<li class='recipe_worlds'>份量 : 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10 分鐘</li>
+					<li class='recipe_worlds'>准备时间: 10 分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 8 分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 8 分钟</li>
 				</ul>
 			</div>
 
@@ -65,7 +64,7 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
@@ -75,12 +74,12 @@
                 <div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	<span>1茶匙</span>
-	                	<span>4隻</span>
+	                	<span>4个</span>
 	                	<span>240克</span>
 	                	<span>8片</span>
 	                	<span>850亳升</span>
 	                	<span>½茶匙</span>
-	                	<span>½茶匙或適量</span>
+	                	<span>½茶匙或适量</span>
 	                	<span>56克</span>
 	                	<span>28克</span>
 	                	
@@ -88,11 +87,11 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>生油</span>
-	                	<span>雞蛋(只用蛋白)</span>
-	                	<span>燕窩(建議使用樽裝即食燕窩)</span>
-	                	<span>芫茜葉</span>
-	                	<span>清雞湯</span>
-	                	<span>鹽</span>
+	                	<span>鸡蛋(只用蛋白)</span>
+	                	<span>燕窝(建议使用瓶裝即食燕窝)</span>
+	                	<span>香菜叶</span>
+	                	<span>清鸡汤</span>
+	                	<span>盐</span>
 	                	<span>糖</span>
 	                	<span>生粉</span>
 	                	<span>火腿茸</span>
@@ -106,49 +105,49 @@
 
 
 				<div class="step">
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在8隻中式湯匙內搽上生油</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在8只中式汤匙内刷上生油</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋白在一個碗內攪勻，再倒入湯匙，每隻湯匙加入燕窩14克，和芫茜葉1片
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋白在一个碗内搅匀，再倒入汤匙，每只汤匙加入燕窝14克，和香菜叶1片
 						</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大鍋中煮滾2升水，放入蒸架，在上面排放湯匙，用中到大火加蓋隔水蒸5分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大锅中煮沸2升水，放入蒸架，在上面排放汤匙，用中到大火加盖隔水蒸5分钟</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液會結成蛋盞，從湯匙取出放一碟子上備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液会结成蛋盏，从汤匙取出放一碟子上备用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將清雞湯850毫升在鍋內煮滾3分鐘，加入燕窩226克(區別於第2步用到的燕窩)</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将清鸡汤850毫升在锅内煮沸3分钟，加入燕窝226克(区别于第2步用到的燕窝)</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入鹽、糖各½茶匙，再滾半分鐘，用生粉56克勾芡攪1分鐘，湯就此完成</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入盐、糖各½茶匙，再煮半分钟，用生粉56克勾芡搅1分钟，汤就此完成</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將完成的湯倒入4個湯碟，每湯碟放第4步完成的蛋白燕盞2隻，撒上火腿茸即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将完成的汤倒入4个汤碟，每汤碟放第4步完成的蛋白燕盏2个，撒上火腿茸即可享用</div>
 						<hr class='hr1'>
 					</div>
 
@@ -157,8 +156,8 @@
 					
 
 					<div class="steps col-xs-12  text-center">
-						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">檢查樽裝燕窩是否含糖，如果是，則使用較食譜建議份量少的糖。</div>
+						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">检查瓶装燕窝是否含糖，如果是，则使用比食谱建议份量少的糖。</div>
 						<hr class='hr1'>
 					</div>
 				</div>
@@ -221,7 +220,7 @@
         		<td class='text-right'>1.5克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>0.3克</td>
         	</tr>
         	<tr>
@@ -229,7 +228,7 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>775毫克</td>
         	</tr>
         	<tr>
@@ -237,11 +236,11 @@
         		<td class='text-right'>9克  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>9克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>1克</td>
         	</tr>
         	<tr>

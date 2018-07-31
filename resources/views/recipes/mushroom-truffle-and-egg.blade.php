@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>蘑菇蛋花松露清湯</span>
+			<span class='recipe_title'>蘑菇蛋花松露清汤</span>
 			<p class='title_body'>
-				這一款湯結合了中西特色。松露濃郁的味道加強了清雞湯的鮮味，而蛋白花使湯的口感更清爽豐富。
+			这一款汤结合了中西特色。松露浓郁的味道加强了清鸡汤的鲜味，而蛋白花使汤的口感更清爽丰富。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 4位用</li>
+					<li class='recipe_worlds'>份量: 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 35 分鐘</li>
+					<li class='recipe_worlds'>准备时间: 35 分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 20 分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 20 分钟</li>
 				</ul>
 			</div>
 
@@ -72,13 +72,13 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>2隻</span>
+	                	<span>2个</span>
 	                	<span>113克</span>
 	                	<span>850亳升</span>
 	                	<span>½茶匙</span>
@@ -89,11 +89,11 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>雞蛋 (只用蛋白)</span>
-	                	<span>鮮蘑菇</span>
-	                	<span>清雞湯</span>
+	                	<span>鸡蛋 (只用蛋白)</span>
+	                	<span>鲜蘑菇</span>
+	                	<span>清鸡汤</span>
 	                	<span>糖</span>
-	                	<span>鹽</span>
+	                	<span>盐</span>
 	                	<span>松露油</span>
 	                	<span>葱花</span>
 	                	<span>松露薄片</span>
@@ -102,45 +102,45 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">取蛋白在碗內攪勻備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">取蛋白在碗里搅匀备用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蘑菇切成薄片備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">蘑菇切成薄片备用
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個小鍋內將清雞湯850毫升加蓋煮滾3分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个小锅内将清鸡汤850毫升加盖煮沸3分钟</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放入蘑菇片，用糖、鹽各½茶匙調味，再滾1分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">放入蘑菇片，用糖、盐各½茶匙调味，再煮1分钟
 </div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">離火後倒入蛋白打圈輕攪
+						<div class="col-xs-10 col-xs-offset-1 step_body">离火后倒入蛋白打圈轻搅
 						</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將湯倒入4個碗中
+						<div class="col-xs-10 col-xs-offset-1 step_body">将汤倒入4个碗中
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -197,7 +197,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -210,7 +210,7 @@
         		<td class='text-right'>2.5克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>0.4克</td>
         	</tr>
         	<tr>
@@ -218,7 +218,7 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>673毫克</td>
         	</tr>
         	<tr>
@@ -226,11 +226,11 @@
         		<td class='text-right'>1克  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>11克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>1克</td>
         	</tr>
         	<tr>

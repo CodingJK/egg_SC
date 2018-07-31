@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>烏龍茶葉蛋</span>
+			<span class='recipe_title'>乌龙茶叶蛋</span>
 			<p class='title_body'>
-				這款傳統小食可根據您的喜好選用不同茶葉，而烏龍茶的芳香正是我們的至愛。剝殼後雞蛋表面呈現大理石一般的紋路，讓您更垂涎欲滴！
+				这款传统小吃可根据您的喜好选用不同茶叶，而乌龙茶的芳香正是我们的最爱。剥壳后鸡蛋表面呈现大理石一般的纹路，让您更垂涎欲滴！
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4位用 (每位1隻)</li>
+					<li class='recipe_worlds'>份量 4人份 (每位1个)</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 10分鐘</li>
+					<li class='recipe_worlds'>准备时间: 10分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 烹煮35分鐘+浸泡5小時</li>
+					<li class='recipe_worlds'>烹调时间: 烹煮35分钟+浸泡5小时</li>
 				</ul>
 			</div>
 
@@ -72,12 +72,12 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>4 隻</span>
+	                	<span>4 个</span>
 	                	<span>70 毫升</span>
 	                	<span>14 克</span>
 	                	<span>4 片</span>
@@ -90,37 +90,37 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>雞蛋</span>
-	                	<span>醬油</span>
-	                	<span>烏龍茶葉</span>
-	                	<span>香葉</span>
+	                	<span>鸡蛋</span>
+	                	<span>酱油</span>
+	                	<span>乌龙茶叶</span>
+	                	<span>香叶</span>
 	                	<span>八角</span>
 	                	<span>桂皮</span>
-	                	<span>鹽</span>
+	                	<span>盐</span>
 	                	<span>糖</span>
 	                </div>
                 </div>
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將雞蛋放入鍋內，倒進凍水浸過雞蛋至少1吋(2.5厘米)。加蓋，大火煮滾後轉中火煮15分鐘</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将鸡蛋放入锅内，倒进凉水浸过鸡蛋至少1英寸(2.5厘米)。加盖，大火烧开后转中火煮15分钟</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">撈出雞蛋並放在砧板上
+						<div class="col-xs-10 col-xs-offset-1 step_body">捞出鸡蛋并放在砧板上
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用匙羹背敲裂蛋殼，但不要剝掉，備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用勺子背敲裂蛋壳，但不要剥掉，待用
 
 </div>
 						<hr class='hr1'>
@@ -129,7 +129,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用另一隻鍋準備茶湯。將550毫升水倒入鍋內，加入醬油70毫升、烏龍茶葉14克、香葉4片、八角4粒和桂皮2片，中火煮20分鐘，落糖和鹽各1茶匙
+						<div class="col-xs-10 col-xs-offset-1 step_body">用另一个锅准备茶汤。将550毫升水倒入锅内，加入酱油70毫升、乌龙茶叶14克、香叶4片、八角4个和桂皮2片，中火煮20分钟，下糖和盐各1茶匙
 
 </div>
 						<hr class='hr1'>
@@ -138,7 +138,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">離火後將雞蛋放入茶湯內浸泡5小時
+						<div class="col-xs-10 col-xs-offset-1 step_body">离火后将鸡蛋放入茶汤内浸泡5小时
 
 </div>
 						<hr class='hr1'>
@@ -147,7 +147,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放至室溫，剝殼即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">放至室温，剥壳即可享用
 
 </div>
 						<hr class='hr1'>
@@ -203,7 +203,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -216,7 +216,7 @@
         		<td class='text-right'>5克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>1.5克</td>
         	</tr>
         	<tr>
@@ -224,7 +224,7 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>235毫克</td>
         	</tr>
         	<tr>
@@ -232,11 +232,11 @@
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>6克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
@@ -245,7 +245,7 @@
         	</tr>
         	
         </table>
-        <i>每隻蛋</i>
+        <i>每个蛋</i>
       </div>
      
     </div>

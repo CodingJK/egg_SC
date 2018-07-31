@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>瑤柱肉末蒸滑蛋 </span>
+			<span class='recipe_title'>瑶柱肉末蒸滑蛋 </span>
 			<p class='title_body'>
-				瑤柱濃郁的味道帶出了蒸蛋的鮮味。您可用碎牛肉代替豬肉。
+				瑶柱香浓的味道带出了蒸蛋的鲜味。您可用碎牛肉代替猪肉。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4</li>
+					<li class='recipe_worlds'>份量 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 35-40 min</li>
+					<li class='recipe_worlds'>准备时间: 35-40 分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 準備瑤柱60分鐘+烹煮30分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 准备瑶柱60分钟+烹煮30分钟</li>
 				</ul>
 			</div>
 
@@ -72,7 +72,7 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
@@ -81,12 +81,12 @@
 	                	<span>4粒</span>
 	                	<span>113克</span>
 	                	<span>380亳升</span>
-	                	<span>1茶匙或適量</span>
+	                	<span>1茶匙或适量</span>
 	                	<span>1茶匙</span>
 	                	<span>1茶匙</span>
 	                	<span>¼茶匙</span>
 	                	<span>½茶匙</span>
-	                	<span>28克或適量</span>
+	                	<span>28克或适量</span>
 
 
 	                
@@ -100,13 +100,13 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>瑤柱</span>
-						<span>豬肉碎</span>
-						<span>雞蛋</span>
-						<span>清雞湯</span>
-						<span>鹽</span>
+	                	<span>瑶柱</span>
+						<span>猪肉碎</span>
+						<span>鸡蛋</span>
+						<span>清鸡汤</span>
+						<span>盐</span>
 						<span>糖</span>
-						<span>您喜歡的食用油</span>
+						<span>您喜欢的食用油</span>
 						<span>白胡椒粉</span>
 						<span>生粉</span>
 						<span>葱花</span>
@@ -121,24 +121,24 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">置瑤柱於一碗滾水中</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">置瑶柱于一碗开水中</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾2升水，水滾後小心放入裝有瑤柱的碗，加蓋隔水蒸60分鐘，令瑤柱變軟
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅烧开2升水，水开后小心放入装有瑶柱的碗，加盖隔水蒸60分钟，令瑶柱变软
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">待瑤柱變涼後拆絲備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">待瑶柱变凉后拆丝备用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -146,7 +146,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用另一個較小的鍋煮滾1升水，放入豬肉碎灼3分鐘，撈出備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用另一个较小的锅烧开1升水，放入猪肉碎烫3分钟，捞出备用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -154,7 +154,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗內將雞蛋4隻、清雞湯280毫升，和鹽、糖各½茶匙攪勻，將蛋湯注入淺瓷碟，包上保鮮紙
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗内将鸡蛋4个、清鸡汤280毫升，和盐、糖各½茶匙搅匀，将蛋汤注入浅瓷盘，包上保鲜膜
 </div>
 						<hr class='hr1'>
 					</div>
@@ -162,7 +162,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將凍水2升倒入大鍋，放入淺瓷碟，用中火隔水蒸20分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">将凉水2升倒入大锅，放入浅瓷盘，用中火隔水蒸20分钟
 </div>
 						<hr class='hr1'>
 					</div>
@@ -170,7 +170,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊熱油1茶匙，落入第4步中灼熟的豬肉碎、第3步的瑤柱絲、清雞湯100毫升，用鹽、糖各½茶匙和白胡椒粉¼茶匙調味，煮1分鐘，用生粉½茶匙慢慢攪拌勾芡
+						<div class="col-xs-10 col-xs-offset-1 step_body">起锅热油1茶匙，放入第4步烫熟的猪肉碎、第3步的瑶柱丝、清鸡汤100毫升，用盐、糖各½茶匙和白胡椒粉¼茶匙调味，煮1分钟，用生粉½茶匙慢慢搅拌勾芡
 </div>
 						<hr class='hr1'>
 					</div>
@@ -178,7 +178,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 8</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋應已完成，去除保鮮紙，往蒸蛋上淋上第7步準備好的湯汁，撒上蔥花即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋应已完成，去除保鲜膜，往蒸蛋上倒入第7步准备好的汤汁，撒上葱花即可享用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -187,8 +187,8 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小貼士:</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body"> 瑤柱除了可以蒸軟，亦可以用水浸過夜。</div>
+						<h1 class="col-xs-12"><b>小贴士:</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">  瑶柱除了可以蒸软，也可以用水泡过夜</div>
 
 						<hr class='hr1'>
 						
@@ -241,7 +241,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -254,7 +254,7 @@
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>4 g</td>
         	</tr>
         	<tr>
@@ -262,7 +262,7 @@
         		<td class='text-right'>0 g</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>837 mg</td>
         	</tr>
         	<tr>
@@ -270,11 +270,11 @@
         		<td class='text-right'>1g  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>1 g</td>
         	</tr>
         	<tr>

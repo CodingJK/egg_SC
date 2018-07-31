@@ -118,9 +118,9 @@
 
     
     <style>
-      @import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
+      @import url('https://fonts.googleapis.com/earlyaccess/notosanssc.css');
       * {
-      font-family: 'Noto Sans TC', sans-serif !important; }
+      font-family: 'Noto Sans SC', sans-serif !important; }
     </style>
   
     {{-- jquery --}}
@@ -152,19 +152,19 @@
             <div class='container col-lg-10'>
               <div class='nav-link '>
                 <div>
-                  <a href='/Recipes' class='reciptes_link'>食譜</a>
+                  <a href='/Recipes' class='reciptes_link'>食谱</a>
                 </div>
                 <div>
-                  <a href='/Eggs101' class='eggs101_link'>雞蛋小知識</a>
+                  <a href='/Eggs101' class='eggs101_link'>鸡蛋小知识</a>
                 </div>
                 <div class='text-center'>
-                  <a href='/Nutrition' class='nutrition_link '>營養價值</a>
+                  <a href='/Nutrition' class='nutrition_link '>营养价值</a>
                 </div>
                 <div class='text-center' style='min-width: 150px;'>
-                  <a href='/Eggforbabies' class='eggforbabies_link'>寶寶與雞蛋</a>
+                  <a href='/Eggforbabies' class='eggforbabies_link'>宝宝与鸡蛋</a>
                 </div>
                 <div>
-                  <a href='/Apps' class='apps_link'>推廣</a>
+                  <a href='/Apps' class='apps_link'>推广</a>
                 </div>
                 <div >
                   <a href='http://www.lesoeufs.ca/' class='france'><b> Fr </b></a>
@@ -186,22 +186,22 @@
             </div>
             <div class='col-sm-10 nav-link'>
               <div>
-                <a href='/Recipes' class='reciptes_link'>食譜</a>
+                <a href='/Recipes' class='reciptes_link'>食谱</a>
               </div>
               
               <div >
-                <a href='/Nutrition' class='nutrition_link text-right'>營養價值</a>
+                <a href='/Nutrition' class='nutrition_link text-right'>营养价值</a>
               </div>
 
               <div >
-                <a href='/Apps' class='apps_link text-right'>推廣</a>
+                <a href='/Apps' class='apps_link text-right'>推广</a>
               </div>
             
               <div >
-                <a href='/Eggforbabies' class='eggforbabies_link '>寶寶與雞蛋</a>
+                <a href='/Eggforbabies' class='eggforbabies_link '>宝宝与鸡蛋</a>
               </div>
               <div>
-                <a href='/Eggs101' class='eggs101_link'>雞蛋小知識</a>
+                <a href='/Eggs101' class='eggs101_link'>鸡蛋小知识</a>
               </div>
               <div>
                 <a href='http://www.lesoeufs.ca/' class='france'>Fr</a>
@@ -230,11 +230,11 @@
           <div class='navbar-fixed-top' id='alert_layer'>
               <div class="col-xs-2 text-center" ><button class="btn btn-clear" id='close-alert'>X</button></div>
               <div class="col-xs-8">
-                <div class="col-xs-6 text-center alert-link"><a href="/Recipes">食譜</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Eggforbabies">寶寶與雞蛋</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Eggs101">雞蛋小知識</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Apps">推廣</a></div>
-                <div class="col-xs-6 text-center alert-link"><a href="/Nutrition">營養價值</a></div>
+                <div class="col-xs-6 text-center alert-link"><a href="/Recipes">食谱</a></div>
+                <div class="col-xs-6 text-center alert-link"><a href="/Eggforbabies">宝宝与鸡蛋</a></div>
+                <div class="col-xs-6 text-center alert-link"><a href="/Eggs101">鸡蛋小知识</a></div>
+                <div class="col-xs-6 text-center alert-link"><a href="/Apps">推广</a></div>
+                <div class="col-xs-6 text-center alert-link"><a href="/Nutrition">营养价值</a></div>
                 <div class="col-xs-6 text-center "></div>
               </div>
               <div class="col-xs-2">

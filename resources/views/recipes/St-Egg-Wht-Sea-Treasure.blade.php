@@ -22,7 +22,7 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
@@ -30,7 +30,7 @@
 			
 			<span class='recipe_title'>海皇扒蒸蛋白</span>
 			<p class='title_body'>
-				  這款美味的海鮮扒蒸蛋可選用各種各樣的海鮮，例如任何魚類、龍蝦、蟹肉或貝類，是一道能快速做好的佳餚。
+				  这款美味的海鲜扒蒸蛋可选用各种各样的海鲜，例如任何鱼类、龙虾、蟹肉或贝类，是一道能快速做好的佳肴。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'> 份量: 4位用</li>
+					<li class='recipe_worlds'> 份量: 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 20 分鐘</li>
+					<li class='recipe_worlds'>准备时间: 20 分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 30 分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 30 分钟</li>
 				</ul>
 			</div>
 
@@ -72,13 +72,13 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>8隻</span>
+	                	<span>8个</span>
 	                	<span>320亳升 </span>
 	                	<span>1茶匙</span>
 	                	<span>¾茶匙</span>
@@ -95,16 +95,16 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>雞蛋 (只用蛋白)</span>
-	                	<span>清雞湯</span>
-	                	<span>鹽</span>
+	                	<span>鸡蛋 (只用蛋白)</span>
+	                	<span>清鸡汤</span>
+	                	<span>盐</span>
 	                	<span>糖</span>
-	                	<span>蝦仁</span>
-	                	<span>帶子</span>
+	                	<span>虾仁</span>
+	                	<span>带子</span>
 	                	<span>冬菇</span>
 	                	<span>白胡椒粉</span>
 	                	<span>生粉</span>
-	                	<span>魚子</span>
+	                	<span>鱼子</span>
 	                	<span>葱花</span>
 	                	
 	                	
@@ -121,24 +121,24 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個碗內將蛋白8份和清雞湯180毫升攪勻，加鹽½茶匙和糖¼茶匙調味，將蛋湯注入淺瓷碟，包上保鮮紙</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个碗内将蛋白8份和清鸡汤180毫升搅匀，加盐½茶匙和糖¼茶匙调味，将蛋汤注入浅瓷盘，包上保鲜膜</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋煮滾1升水，放入蝦仁、帶子和冬菇灼3分鐘，撈出均切粒備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅烧开1升水，放入虾仁、带子和冬菇烫3分钟，捞出均切粒备用
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將凍水2升倒入大鍋，放入第1步的淺瓷碟，用中火隔水蒸20分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">将凉水2升倒入大锅，放入第1步的浅瓷盘，用中火隔水蒸20分钟
 
 </div>
 						<hr class='hr1'>
@@ -147,7 +147,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在鑊中倒入清雞湯140毫升，加熱2分鐘，放入第2步中的蝦仁粒、帶子粒和冬菇粒，再煮2分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">在炒锅中倒入清鸡汤140毫升，加热2分钟，放入第2步中的虾仁粒、带子粒和冬菇粒，再煮2分钟
 </div>
 						<hr class='hr1'>
 					</div>
@@ -155,7 +155,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將用剩餘的鹽、糖，和白胡椒粉¼茶匙調味，加生粉½茶匙慢慢攪拌勾芡
+						<div class="col-xs-10 col-xs-offset-1 step_body">用剩余的盐、糖，白胡椒粉¼茶匙调味，加生粉½茶匙慢慢搅拌勾芡
 
 </div>
 						<hr class='hr1'>
@@ -164,7 +164,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">關火後落魚子1茶匙、葱花輕輕攪匀，您的海皇湯汁準備就緒
+						<div class="col-xs-10 col-xs-offset-1 step_body">关火后下鱼子1茶匙、葱花轻轻搅匀，您的海皇汤汁准备就绪
 
 </div>
 						<hr class='hr1'>
@@ -174,7 +174,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">第3步的蒸蛋應已完成，去除保鮮紙，往碟內淋上海皇湯汁即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">第3步的蒸蛋应已完成，去除保鲜膜，往盘内浇上海皇汤汁即可享用
 
 </div>
 						<hr class='hr1'>
@@ -235,7 +235,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -248,7 +248,7 @@
         		<td class='text-right'>5 g</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>2.5 g</td>
         	</tr>
         	<tr>
@@ -256,7 +256,7 @@
         		<td class='text-right'>0 g</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>31 mg</td>
         	</tr>
         	<tr>
@@ -264,11 +264,11 @@
         		<td class='text-right'>26 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>9 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>0 g</td>
         	</tr>
         	<tr>

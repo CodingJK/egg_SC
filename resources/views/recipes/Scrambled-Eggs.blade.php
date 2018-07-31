@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>粟米煙肉炒蛋</span>
+			<span class='recipe_title'>玉米培根炒蛋</span>
 			<p class='title_body'>
-				火雞煙肉與奶油粟米和炒蛋配搭出好滋味。這款食譜簡單快捷，讓您能在匆忙的早上輕鬆準備美味早餐，從容自信地開始新的一天。
+				火鸡培根与奶油玉米和炒蛋搭配出好滋味。这款食谱简单快捷，让您能在匆忙的早上轻松准备美味早餐，从容自信地开始新的一天。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 6位用</li>
+					<li class='recipe_worlds'>份量: 6人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間:: 5 min</li>
+					<li class='recipe_worlds'>准备时间：5 分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間:: 12 min</li>
+					<li class='recipe_worlds'>烹调时间：12 分钟</li>
 				</ul>
 			</div>
 
@@ -72,24 +72,24 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	<span>6片</span>
-	                	<span>8隻</span>
+	                	<span>8个</span>
 	                	<span>1杯(250毫升)</span>
 	                	<span>½茶匙(2.5毫升)</span>
 	                	<span>¼茶匙(1.25毫升)</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>火雞煙肉</span>
-	                	<span>雞蛋</span>
-	                	<span>奶油粟米</span>
-	                	<span>洋蔥粉</span>
+	                	<span>火鸡培根</span>
+	                	<span>鸡蛋</span>
+	                	<span>奶油玉米</span>
+	                	<span>洋葱粉</span>
 	                	<span>胡椒粉</span>
 	                </div>
                 </div>
@@ -99,31 +99,30 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用一個大的平底鍋或用微波爐煮熟煙肉</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用一个大的平底锅或用微波炉煮熟培根</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在煮煙肉的同時，在一個中碗內將雞蛋打散攪勻，然後加粟米、洋蔥粉和胡椒粉繼續攪拌 
-						</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在煮培根的同时，在一个中碗内将鸡蛋打散搅匀，然后加玉米、洋葱粉和胡椒粉继续搅拌
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">從鍋中取出煙肉，快速切碎，加到蛋液中</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">从锅中取出培根，快速切碎，加到蛋液中</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蛋液倒入熱平底鍋，隨著蛋液凝固，輕輕用小鏟貼著鍋底及從邊緣推拌，形成大片鬆軟的蛋凝乳，炒至蛋液變粘稠但仍然鬆軟為止</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋液倒入热平底锅，随着蛋液凝固，轻轻用小铲贴着锅底及从边缘推拌，形成大片松软的蛋凝乳，炒至蛋液变粘稠但仍然松软为止</div>
 						<hr class='hr1'>
 					</div>
 
@@ -131,8 +130,8 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小貼士：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">除了火雞煙肉，也可使用一般煙肉。
+						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body"> 除了火鸡培根，也可使用一般培根。
  
 </div>
 						<hr class='hr1'>

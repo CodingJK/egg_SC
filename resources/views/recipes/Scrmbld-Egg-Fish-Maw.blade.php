@@ -22,15 +22,15 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>桂花雲腿炒魚肚 </span>
+			<span class='recipe_title'>桂花云腿炒鱼肚 </span>
 			<p class='title_body'>
-				魚肚可能需要一些準備時間，但肯定是值得的，因為您可品嘗到雞蛋與軟綿魚肚結合的香滑口感。點綴火腿茸則更添滋味。
+				鱼肚可能需要一些准备时间，但肯定是值得的，因为您可品尝到鸡蛋与绵软鱼肚结合的香滑口感。点缀火腿茸则更添滋味。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量 4</li>
+					<li class='recipe_worlds'>份量 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 提前一天浸發魚肚</li>
+					<li class='recipe_worlds'>准备时间：提前一天泡发鱼肚</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 10分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 10分钟</li>
 				</ul>
 			</div>
 
@@ -72,7 +72,7 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
@@ -80,7 +80,7 @@
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
 	                	<span>113克</span>
-	                	<span>4隻</span>
+	                	<span>4个人</span>
 	                	<span>56克</span>
 	                	<span>⅓茶匙</span>
 	                	<span>⅓茶匙</span>
@@ -100,10 +100,10 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>乾魚肚</span>
-						<span>雞蛋</span>
-						<span>銀芽</span>
-						<span>鹽</span>
+	                	<span>干鱼肚</span>
+						<span>鸡蛋</span>
+						<span>银芽</span>
+						<span>盐</span>
 						<span>糖</span>
 						<span>生油</span>
 						<span>火腿茸</span>
@@ -118,24 +118,24 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>步驟:</div>
+					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">魚肚在室溫下浸泡過夜使其變軟，軟後切細粒備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">鱼肚在室温下浸泡过夜使其变软，软后切细粒备用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋入一個大碗，加魚肚粒、銀芽，鹽、糖各⅓茶匙攪勻
+						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋入一个大碗，加鱼肚粒、银芽，盐、糖各⅓茶匙搅匀
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起鑊熱油2茶匙，倒入上個步驟的蛋液輕攪，以慢火炒3分鐘
+						<div class="col-xs-10 col-xs-offset-1 step_body">起锅热油2茶匙，倒入上一步骤的蛋液轻搅，以慢火炒3分钟
 </div>
 						<hr class='hr1'>
 					</div>
@@ -143,7 +143,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">Step 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟後撒上火腿茸即可
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟后撒上火腿茸即可
 </div>
 						<hr class='hr1'>
 					</div>
@@ -155,9 +155,9 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小貼士:</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">  如果您想炒蛋的比例更大，可減少魚肚的份量。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">   較薄的魚肚更易炒熟，而且不需浸泡太久。用滾水灼過的魚肚據說更易消化。</div>
+						<h1 class="col-xs-12"><b>小贴士:</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">  如果您想炒蛋的比例更大，可减少鱼肚的份量。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">较薄的鱼肚更易炒熟，而且不需浸泡太久。用开水烫过的鱼肚据说更易消化。</div>
 
 						<hr class='hr1'>
 						
@@ -210,7 +210,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -223,7 +223,7 @@
         		<td class='text-right'>8 g</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>2 g</td>
         	</tr>
         	<tr>
@@ -231,7 +231,7 @@
         		<td class='text-right'>0 g</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>338 mg</td>
         	</tr>
         	<tr>
@@ -239,11 +239,11 @@
         		<td class='text-right'>4 g  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>2 g</td>
         	</tr>
         	<tr>
