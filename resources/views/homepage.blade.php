@@ -191,12 +191,12 @@
                 <div class='title'>Featured Recipe<br><br></div>
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
-                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-                            <img src='/images/recipes/Eggs-SA-01-Final-web.jpg' />
+                        <a href="/Funny-Egg-Fish">
+                            <img src='/images/recipes/Eggs-SA-13-Final_home.jpg' />
                         </a>
                     </div>
                     <div class='col-sm-6 right_des'>
-                        <a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
+                        <a href="/Funny-Egg-Fish">
                             <div class='sub_title'>番茄煙肉煎蛋早餐三文治</div>
                             <div class='right_body'>
                                 全麥英式鬆餅為這道美味充實的早餐添加了健康元素。用牛油紙包起三文治您就可在路上享用早餐了！
