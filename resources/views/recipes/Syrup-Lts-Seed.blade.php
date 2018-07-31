@@ -96,32 +96,32 @@
 					<div class='recipes_subtitle'>步骤：</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将鸡蛋置于锅内，倒入凉水至少没过鸡蛋1英寸(2.5厘米)。加盖用大火烧开，然后立刻转用中火继续煮15分钟</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">捞起鸡蛋用凉开水冲，剥壳备用
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">往锅内倒入420毫升清水，加盖煮5分钟，在开水中加入莲子、黄糖，用慢火再煮10分钟成糖水</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将剥壳蛋放在糖水中，用中火再煮10分钟</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步骤 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">可立即享用</div>
 						<hr class='hr1'>
 					</div>

@@ -108,13 +108,13 @@
 					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">烤英式松饼，在每个的其中一个半边涂上黄油½茶匙(2.5毫升)，并铺上番茄和熟培根</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用平底锅以中火煮融剩余的黄油，打入鸡蛋。用盐和胡椒粉调味；煎3至4分钟至蛋白凝结(如果要两面煎，翻转鸡蛋煎2分钟)。将蛋置于培根之上即可食用
 						
 						</div>

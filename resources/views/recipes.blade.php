@@ -36,7 +36,7 @@
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-									<div class='name'>番茄煙肉煎蛋早餐三文治</div>
+									<div class='name'>番茄培根煎蛋早餐三明治</div>
 								</a>
 							</div>
 

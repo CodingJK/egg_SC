@@ -97,26 +97,26 @@
 					<div class='recipes_subtitle'>步骤:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">从酥皮切出8个小圆块，压入蛋挞模中</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗中将蛋、奶、砂糖85克和100毫升清水搅匀成蛋浆
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋浆注入蛋挞模中，用350华氏度烤8分钟</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">退出蛋挞模即可享用</div>
 						<hr class='hr1'>
 					</div>

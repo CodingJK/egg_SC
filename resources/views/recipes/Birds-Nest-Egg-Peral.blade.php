@@ -108,45 +108,45 @@
 					<div class='recipes_subtitle'>步骤:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在8只中式汤匙内刷上生油</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋白在一个碗内搅匀，再倒入汤匙，每只汤匙加入燕窝14克，和香菜叶1片
 						</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大锅中煮沸2升水，放入蒸架，在上面排放汤匙，用中到大火加盖隔水蒸5分钟</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液会结成蛋盏，从汤匙取出放一碟子上备用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步骤 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将清鸡汤850毫升在锅内煮沸3分钟，加入燕窝226克(区别于第2步用到的燕窝)</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步骤 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">加入盐、糖各½茶匙，再煮半分钟，用生粉56克勾芡搅1分钟，汤就此完成</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
+						<div class="step_title col-xs-12">步骤 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将完成的汤倒入4个汤碟，每汤碟放第4步完成的蛋白燕盏2个，撒上火腿茸即可享用</div>
 						<hr class='hr1'>
 					</div>

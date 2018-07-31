@@ -124,20 +124,20 @@
 					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在一个碗内将蛋白8份和清鸡汤180毫升搅匀，加盐½茶匙和糖¼茶匙调味，将蛋汤注入浅瓷盘，包上保鲜膜</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用锅烧开1升水，放入虾仁、带子和冬菇烫3分钟，捞出均切粒备用
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将凉水2升倒入大锅，放入第1步的浅瓷盘，用中火隔水蒸20分钟
 
 </div>
@@ -146,7 +146,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在炒锅中倒入清鸡汤140毫升，加热2分钟，放入第2步中的虾仁粒、带子粒和冬菇粒，再煮2分钟
 </div>
 						<hr class='hr1'>
@@ -154,7 +154,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步骤 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用剩余的盐、糖，白胡椒粉¼茶匙调味，加生粉½茶匙慢慢搅拌勾芡
 
 </div>
@@ -163,7 +163,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步骤 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">关火后下鱼子1茶匙、葱花轻轻搅匀，您的海皇汤汁准备就绪
 
 </div>
@@ -173,7 +173,7 @@
 
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
+						<div class="step_title col-xs-12">步骤 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">第3步的蒸蛋应已完成，去除保鲜膜，往盘内浇上海皇汤汁即可享用
 
 </div>

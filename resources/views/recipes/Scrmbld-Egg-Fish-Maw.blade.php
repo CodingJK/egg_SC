@@ -121,20 +121,20 @@
 					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">鱼肚在室温下浸泡过夜使其变软，软后切细粒备用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋入一个大碗，加鱼肚粒、银芽，盐、糖各⅓茶匙搅匀
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">起锅热油2茶匙，倒入上一步骤的蛋液轻搅，以慢火炒3分钟
 </div>
 						<hr class='hr1'>
@@ -142,7 +142,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">上碟后撒上火腿茸即可
 </div>
 						<hr class='hr1'>

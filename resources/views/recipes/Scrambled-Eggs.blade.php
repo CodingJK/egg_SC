@@ -102,26 +102,26 @@
 					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用一个大的平底锅或用微波炉煮熟培根</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在煮培根的同时，在一个中碗内将鸡蛋打散搅匀，然后加玉米、洋葱粉和胡椒粉继续搅拌
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">从锅中取出培根，快速切碎，加到蛋液中</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋液倒入热平底锅，随着蛋液凝固，轻轻用小铲贴着锅底及从边缘推拌，形成大片松软的蛋凝乳，炒至蛋液变粘稠但仍然松软为止</div>
 						<hr class='hr1'>
 					</div>

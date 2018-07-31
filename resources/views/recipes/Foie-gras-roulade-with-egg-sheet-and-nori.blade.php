@@ -103,20 +103,20 @@
 					<div class='recipes_subtitle'>步骤 :</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在碗内轻轻将鸡蛋打散</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">制作蛋皮——使用一个大平底锅，用中到大火加热2-3分钟，加油2茶匙。倒入蛋液，使之在锅面平均摊开，形成大小与寿司紫菜相似的薄皮，煎3分钟后待其变凉。共做2张蛋皮，备用 
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将鹅肝切成小条状，撒上盐和黑胡椒粉各¼茶匙调味
 
 </div>
@@ -125,7 +125,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用中火热平底锅，煎鹅肝1分钟，再将其放在一张厨纸上吸走多余的油，待其变凉备用
 </div>
 						<hr class='hr1'>
@@ -133,7 +133,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步骤 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">放平一张蛋皮，铺上一张紫菜，再一张蛋皮
 						</div>
 						<hr class='hr1'>
@@ -141,7 +141,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 6</div>
+						<div class="step_title col-xs-12">步骤 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将鹅肝排在蛋皮的一端，轻轻压紧卷成卷，再以保鲜膜包裹
 						</div>
 						<hr class='hr1'>
@@ -149,7 +149,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 7</div>
+						<div class="step_title col-xs-12">步骤 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">待其变凉至室温(约30分钟)，去除保鲜膜后再切成小块即可享用
 						</div>
 						<hr class='hr1'>

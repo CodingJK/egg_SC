@@ -117,21 +117,21 @@
 					<div class='recipes_subtitle'>步骤:</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 1</div>
+						<div class="step_title col-xs-12">步骤 1</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在一个小碗中搅匀蛋黄备用</div>
 						<hr class='hr1'>
 					</div>
 
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 2</div>
+						<div class="step_title col-xs-12">步骤 2</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">用锅以慢火热奶1分钟，加糖1茶匙再热1分钟，切勿烧开
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 3</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">离火，慢慢将⅓热奶倒入蛋黄碗中
 						</div>
 							<hr class='hr1'>
@@ -139,7 +139,7 @@
 
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 4</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">再将奶和蛋黄反注入锅中，不断搅拌1分钟
 </div>
 						<hr class='hr1'>
@@ -147,7 +147,7 @@
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">Step 5</div>
+						<div class="step_title col-xs-12">步骤 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">可立即享用
 </div>
 						<hr class='hr1'>
