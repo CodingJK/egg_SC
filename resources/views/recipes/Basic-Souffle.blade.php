@@ -131,13 +131,13 @@
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 6</div>
+						<div class="step_title col-xs-12">步驟 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把面糊4杯(1升)倒入舒芙蕾烤模或烘盘中</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 7</div>
+						<div class="step_title col-xs-12">步驟 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在预热至375华氏度(190摄氏度)的烤箱中烤20至25分钟，至膨胀及稍微变黄即可享用</div>
 						<hr class='hr1'>
 					</div>

@@ -28,9 +28,9 @@
 			
 				
 			
-			<span class='recipe_title'>猪骨浓汤菜苗伴鸳鸯蛋</span>
+			<span class='recipe_title'>广东蛋花虾龙糊</span>
 			<p class='title_body'>
-				这是“火锅”的新煮法。其中我们介绍到熬制美味浓汤的方法，也可用在其他丰富的菜式当中。您可以用豆苗代替白菜。
+此食谱据认为是起源于美国而非中国。从60年代后期开始，它就开始逐渐出现在美国中餐馆的菜谱上。黑豉汁的味道能取悦每个人的口味。它的做法简单，搭配炒饭食用最佳。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -53,7 +53,7 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-009-Final-large.jpg" alt="">
+				<img src="/images/recipes/Eggs-SA-008-Final-large.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
@@ -61,9 +61,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量：4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间: 25分钟</li>
+					<li class='recipe_worlds'>准备时间: 10分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间: 准备浓汤2小时05分钟+20分钟</li>
+					<li class='recipe_worlds'>烹调时间: 10分钟</li>
 				</ul>
 			</div>
 
@@ -78,27 +78,34 @@
                 
  				<div class="ingredients" style='clear: both'>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>453克</span>
-	                	<span>453克</span>
-	                	<span>56克</span>
 	                	<span>3个</span>
-	                	<span>1茶匙</span>
 	                	<span>227克</span>
+	                	<span>2茶匙</span>
+	                	<span>113克</span>
+	                	<span>½茶匙</span>
+	                	<span>½茶匙</span>
+	                	<span>1½茶匙</span>
+	                	<span>200亳升</span>
+	                	<span>½茶匙</span>
+	                	<span>½茶匙</span>
 	                	<span>28克</span>
-	                	<span>½茶匙</span>
-	                	<span>½茶匙</span>
+	                	<span>28克</span>
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>鸡骨</span>
-	                	<span>猪骨</span>
-	                	<span>姜</span>
-	                	<span>白胡椒粒</span>
-	                	<span>生油</span>
-	                	<span>白菜苗</span>
-	                	<span>杞子</span>
+	                	<span>鸡蛋</span>
+	                	<span>虾仁</span>
+	                	<span>您喜欢的食用油</span>
+	                	<span>猪肉碎</span>
+	                	<span>蒜蓉</span>
+	                	<span>姜蓉</span>
+	                	<span>黑豉汁</span>
+	                	<span>清鸡汤</span>
 	                	<span>盐</span>
 	                	<span>糖</span>
+	                	<span>生粉</span>
+	                	<span>葱花
+</span>
 	                </div>
                 </div>
 
@@ -117,20 +124,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用大锅煮沸2升水，放入鸡骨和猪骨煮5分钟，捞出沥干水分</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋到碗中，搅匀备用</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用同一个锅重新装2升水，放入上一步骤的鸡骨和猪骨，加姜、白胡椒粒，加盖用中火煲90分钟，再换大火烧30分钟，成500毫升浓汤。使用汤隔隔渣滤得清汤，备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅煮沸1升水，放入虾仁烫1至2分钟，捞出备用
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">分离蛋白和蛋黄进2个碗中
+						<div class="col-xs-10 col-xs-offset-1 step_body">烧炒锅下油1茶匙，放入猪肉碎炒2分钟备用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -138,7 +145,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">分别搅匀蛋白和蛋黄
+						<div class="col-xs-10 col-xs-offset-1 step_body">烧热同一个炒锅，下油1茶匙，加蒜蓉、姜蓉各½茶匙，黑豉汁1½茶匙爆香
 </div>
 						<hr class='hr1'>
 					</div>
@@ -146,7 +153,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">向8只中式汤匙内刷上生油
+						<div class="col-xs-10 col-xs-offset-1 step_body">倒入清鸡汤200毫升至炒锅中，加入第2步煮熟的虾仁、第3步的炒猪肉，用盐、糖各½茶匙调味，煮1分钟，再用生粉28克勾芡
 </div>
 						<hr class='hr1'>
 					</div>
@@ -154,7 +161,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">往4只刷好油的汤匙注入蛋白，另外4只注入蛋黄
+						<div class="col-xs-10 col-xs-offset-1 step_body">离火，慢慢绕圈倒入第1步的蛋液，轻轻搅成蛋花
 </div>
 						<hr class='hr1'>
 					</div>
@@ -169,39 +176,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用大锅煮沸2升水，置入蒸架再放入汤匙，加盖隔水蒸5分钟</div>
-						<hr class='hr1'>
-						
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-
-						<div class="step_title col-xs-12">步骤 8</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液会结成蛋盏，从汤匙取出备用</div>
-						<hr class='hr1'>
-						
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-
-						<div class="step_title col-xs-12">步骤 9</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用锅煮沸1升水，放入白菜苗烫3分钟取出</div>
-						<hr class='hr1'>
-						
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-
-						<div class="step_title col-xs-12">步骤 10</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将第9步的白菜苗放入砂锅中，放入第8步的蛋盏，加枸杞，再注入第2步的500毫升浓汤，用盐、糖各½茶匙调味</div>
-						<hr class='hr1'>
-						
-					</div>
-
-					<div class="steps col-xs-12  text-center">
-
-						<div class="step_title col-xs-12">步骤 11</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将砂锅置于炉上煮沸(约3分钟)即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟下葱花即可享用</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -258,45 +233,52 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>209 </td>
+        		<td class='text-right'>228 </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>6克</td>
+        		<td class='text-right'>13克
+</td>
         	</tr>
         	<tr>
         		<td><b>饱和脂肪</b></td>
-        		<td class='text-right'>1.5克
+        		<td class='text-right'>3.5克
+
 </td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0.1克
+        		<td class='text-right'>0克
+
 </td>
         	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>858毫克
+        		<td class='text-right'>780毫克
+
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>3克
+        		<td class='text-right'>1克
+
   </td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>32克
+        		<td class='text-right'>18克
+
 </td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
-        		<td class='text-right'>2克
+        		<td class='text-right'>1克
+
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>8克</td>
+        		<td class='text-right'>9克</td>
         	</tr>
         	
         </table>

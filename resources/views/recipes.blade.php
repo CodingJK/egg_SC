@@ -102,7 +102,7 @@
 
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/Moo-Shu-pork-wok-fried">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-27-Final-web.jpg' />
 									<div class='name'>
 										金丝木须肉夹饼
 									</div>
