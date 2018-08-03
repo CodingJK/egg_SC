@@ -33,8 +33,7 @@
 				<div class="babys_words clear-both" >
 					<div class="babys_title_sm_2">您知道吗？ </div>
 					<p>现在您可以从宝宝6个月大开始喂食全蛋，可有助预防鸡蛋过敏。</p>
-					<p>由加拿大卫生部(Health Canada)、加拿大儿科学会(Canadian Pediatric Society)、加拿大营养师协会(Dietitians of Canada)和加拿大母乳喂养委员会(Breastfeeding Committee for Canada)联合推出的最新婴儿喂食指南指出，建议在宝宝满6个月或刚开始进食固体食物时，引入全蛋喂食。
-					<br><br>
+					<br>
 					</p>
 					<p>专家不再推荐等到宝宝满12个月时，才引进常见的引起过敏的食物。而实际上，研究表明尽早开始喂食全蛋能有效降低婴儿对鸡蛋产生过敏的风险。</p>
 
@@ -73,7 +72,7 @@
 						<li class='steps_words'>母乳或配方奶2茶匙</li>
 					</ul>
 
-					<p><b>Prep and Cook:</b></p>
+					<p><b>准备和烹调:</b></p>
 
 					<ol>
 						<li class='steps_words'>将鸡蛋打入碗中搅匀，加入母乳或配方奶搅拌至完全混合</li>

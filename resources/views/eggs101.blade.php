@@ -36,16 +36,16 @@
 				<a href='https://www.pinterest.ca/eggs/' style='padding-left:15px'>
 					<img id='pinterest'  src='./images/social/eggs101/egg_socialMediaIconSet_pinterest.png' />
 				</a> --}}
-				<h4>
+				<h3>
 					您在选购鸡蛋时可能并无多加考虑。但读完这篇简介后，您肯定会想为什么没有早点多了解鸡蛋！
-				</h4>
+				</h3>
 			</div>
 			<div class="col-xs-2">
 				
 			</div>
 
 			<div class='col-xs-12 eggs_img'>
-				<img src='/images/eggs101/eggs-white.jpg'/>
+				<img style="width:56%;" src='/images/eggs101/eggs-white.jpg' class="img-responsive center-block"/>
 			</div>
 			
 		</div>
@@ -80,7 +80,7 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img">
-					<img src="./images/eggs101/egg-anatomy-EN.jpg" alt="">
+					<img src="./images/eggs101/egg-sizes2.jpg" alt="">
 				</div>
 				<div class="col-md-1"> </div>
 			</div>
@@ -108,9 +108,11 @@
 				</div>
 				<div class="col-md-1"> </div>
 			</div>
-
+			<div class="col-md-auto">
+				
+			</div>
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_img">
+				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-60px;'>
 					<h3>鸡蛋的计量方式：</h3>
 					<ul class='eggs101_details'>
 						<li>1个大蛋=3茶匙(45毫升)</li>
@@ -145,8 +147,8 @@
 
 				<div class="col-md-10 col-md-offset-1 eggs101_body" >蛋盒能保护鸡蛋，还能防止它们经蛋壳上数千个小气孔吸收冰箱中其他食物的强烈气味。再之，蛋盒上印有的“最佳食用日期”可提醒您注意新鲜度。除此之外，鸡蛋较大的一端应保持朝上放置，如同最初包装在盒内一样。这样能让蛋黄一直处于中心位置。</div>
 				<div class="col-md-1"></div>
-				<br>
-				<br>
+			</div>
+			<div class="col-xs-12 col-md-8 col-md-offset-2 " style='margin-top:10px;'>
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">食品科学</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
@@ -161,8 +163,9 @@
 				<div class="col-md-1"></div>
 
 				<div class="col-md-10 col-md-offset-1 eggs101_body">展开的蛋白质露出疏水及亲水两种属性的端口，继而重新排列，组成新的键结，以使疏水端抓住空气，亲水端抓住水，于是形成附着气泡的蛋白质分子网状结构。若过度加热蛋白质或打入过多空气，键结将收紧并挤出水分，令鸡蛋变干、变硬及有弹性。</div>
+				<br><br>
 				<div class="col-md-1"></div>
-
+			</div>
 
 				{{-- <div class="col-md-10 col-md-offset-1 eggs101_body">
 					<div class="table-1 col-xs-5">
