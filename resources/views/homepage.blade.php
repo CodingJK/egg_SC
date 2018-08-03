@@ -131,7 +131,7 @@
                     </div>
                     <div class='col-sm-6 right_img'>
                         <a href="/Scrambled-Eggs">
-                            <img src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
+                            <img src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
                             
                             <div class='left_sub_title'>玉米培根炒蛋</div>
                         </a>
