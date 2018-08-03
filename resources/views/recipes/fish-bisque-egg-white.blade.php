@@ -237,6 +237,7 @@
         		<td class='text-right'>15克</td>
         	</tr>
         </table>
+        <i>每食用份量</i>
       </div>
      
     </div>
