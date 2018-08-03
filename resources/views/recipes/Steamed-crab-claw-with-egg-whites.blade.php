@@ -156,7 +156,7 @@
 			</div>
 			
 			<div class="col-xs-12 text-center related">
-				<h1>相關</h1>
+				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/andayKi">

@@ -22,7 +22,7 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食譜</li>
+					<li class='recipes_back'>食谱</li>
 				</ul>
 			</a>
 			
@@ -61,9 +61,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>Serves: 2</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 15 min</li>
+					<li class='recipe_worlds'>准备时间: 15 min</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 5 min</li>
+					<li class='recipe_worlds'>烹调时间: 5 min</li>
 				</ul>
 			</div>
 
@@ -72,7 +72,7 @@
 				<div class='recipes_subtitle'>材料</div>
 
 				<div style='margin-bottom: 50px;'>
-                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 營養成分 </a>
+                    <a href='#' class='recipe_nutrition' data-toggle="modal" data-target="#myModal"> 营养成分 </a>
                 </div>
            
                 
@@ -190,7 +190,7 @@
 			</div>
 			
 			<div class="col-xs-12 text-center related">
-				<h1>相關</h1>
+				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/mushroom-truffle-and-egg">
@@ -232,7 +232,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -245,7 +245,7 @@
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>2 g</td>
         	</tr>
         	<tr>
@@ -253,7 +253,7 @@
         		<td class='text-right'>0 g</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>193 mg</td>
         	</tr>
         	<tr>
@@ -261,11 +261,11 @@
         		<td class='text-right'>670 mg  </td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質/b>  </td>
+        		<td><b>蛋白质/b>  </td>
         		<td class='text-right'>13 g</td>
         	</tr>
         	<tr>
-        		<td><b>纖維/b>  </td>
+        		<td><b>纤维/b>  </td>
         		<td class='text-right'>2 g</td>
         	</tr>
         	<tr>

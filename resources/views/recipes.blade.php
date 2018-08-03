@@ -8,7 +8,6 @@
 				$(".reciptes_link").css('color','#ffcd32');
 
 			});
-			
 		</script>
 	</script>
 	<div id='recipes'>
@@ -21,9 +20,6 @@
 		      		</div>
 		      	</div>	
 		    </div>
-		    
-
-
 	    	<div class='container-fluid Picnic_parent'>
 
 				<div class='complete_parent'>
@@ -59,7 +55,7 @@
 						
 						<hr>
 
-						<div id='title_com'>汤</div>
+						<div id='title_com'>湯</div>
 						<div class='row'>
 							<div class=' col-sm-6 col-lg-4'>
 								<a href="/fish-bisque-egg-white">
@@ -152,11 +148,69 @@
 									<div class='name ' >瑶柱肉末蒸滑蛋</div>
 								</a>
 							</div>
-							
+
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/Scrmbld-Egg-Fish-Maw">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-21-Final-web.jpg' />
 									<div class='name ' >桂花云腿炒鱼肚</div>
+								</a>
+							</div>
+							{{-- 1 --}}
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Wk-Frd-Lbstr-Egg-Rainbow">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-007-Final-web.jpg' />
+									<div class='name ' >鸳鸯芙蓉龙虾球</div>
+								</a>
+							</div>
+
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Chiu-Chow-Omeletd">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+									<div class='name ' >潮式煎蚝饼</div>
+								</a>
+							</div>
+
+							{{-- 2 --}}
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Blck-Bn-Shrmp-Egg-White">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-008-Final-web.jpg' />
+									<div class='name ' >广东蛋花虾龙糊</div>
+								</a>
+							</div>
+							{{-- 3 --}}
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Duo-Egg-Pearl">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-009-Final-web.jpg' />
+									<div class='name ' >猪骨浓汤菜苗伴鸳鸯蛋</div>
+								</a>
+							</div>
+							{{-- 4 --}}
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Billnr-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
+									<div class='name ' >阔佬炒饭</div>
+								</a>
+							</div>
+
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Gldn-Omlet">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
+									<div class='name ' >黄金虾仁蛋包饭</div>
+								</a>
+							</div>
+
+							{{-- 5 --}}
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Sclp-Egg-Wht-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
+									<div class='name ' >姜蓉带子蛋白炒饭</div>
+								</a>
+							</div>
+
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/Basic-Souffle">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-013-Final-web.jpg' />
+									<div class='name ' >基本舒芙蕾</div>
 								</a>
 							</div>
 						</div>
@@ -188,7 +242,7 @@
 						</div>
 						<br /><br /><br />
 						<div class='row viewAll_center'>
-							<a href="http://www.eggs.ca/recipes" id='ViewAll'> View All </a>
+							<a href="http://www.eggs.ca/recipes" id='ViewAll'> 浏览食谱 </a>
 						</div>
 						<br /><br /><br />
 					</div>
@@ -196,17 +250,6 @@
 				</div>
 	    	</div>
 		</div>
-
-	
-
-	   
-
-
-
-	     	
-
-			
-	      
     </div>
 	
 	

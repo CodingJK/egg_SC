@@ -142,12 +142,12 @@
 			</div>
 			
 			<div class="col-xs-12 text-center related">
-				<h1>相關</h1>
+				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-01-Final-web.jpg' />
-			     				<div class='name'>番茄煙肉煎蛋早餐三文治</div>
+			     				<div class='name'>番茄培根煎蛋早餐三明治</div>
 			     			</a>
 		     			</div>
 
@@ -184,7 +184,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>
@@ -197,7 +197,7 @@
         		<td class='text-right'>10克</td>
         	</tr>
         	<tr>
-        		<td><b>飽和脂肪</b></td>
+        		<td><b>饱和脂肪</b></td>
         		<td class='text-right'>3克</td>
         	</tr>
         	<tr>
@@ -205,7 +205,7 @@
         		<td class='text-right'>0.1克</td>
         	</tr>
         	<tr>
-        		<td><b>鈉</b></td>
+        		<td><b>钠</b></td>
         		<td class='text-right'>360毫克</td>
         	</tr>
         	<tr>
@@ -213,11 +213,11 @@
         		<td class='text-right'>1克</td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>11克</td>
         	</tr>
         	<tr>
-        		<td><b>纖維</b>  </td>
+        		<td><b>纤维</b>  </td>
         		<td class='text-right'>1克</td>
         	</tr>
         	<tr>

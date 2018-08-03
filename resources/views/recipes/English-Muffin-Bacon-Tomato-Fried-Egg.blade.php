@@ -132,7 +132,7 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Scrambled-Eggs">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
-			     				<div class='name'>粟米煙肉炒蛋</div>
+			     				<div class='name'>玉米培根炒蛋</div>
 			     			</a>
 		     			</div>
 
@@ -198,7 +198,7 @@
         		<td class='text-right'>6克</td>
         	</tr>
         	<tr>
-        		<td><b>蛋白質</b>  </td>
+        		<td><b>蛋白质</b>  </td>
         		<td class='text-right'>26克</td>
         	</tr>
         	<tr>

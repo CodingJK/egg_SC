@@ -7,22 +7,21 @@
 
 				$(".eggs101_link").css('color','#ffcd32');
 
-
 			});
 		</script>
 		<style>
 			
 		</style>
 		<div class='container-fuild eggs101_header'>
-				<div class='eggs101_title'>雞蛋小知識</div>
+				<div class='eggs101_title'>鸡蛋小知识</div>
 				<div class='eggs101_title_body'>
-					想知道有關雞蛋的常識？以下將介紹一些非常實用的雞蛋小知識。齊來更了解雞蛋吧！
+					想知道有关鸡蛋的常识？以下将介绍一些非常实用的鸡蛋小知识。一起来更了解鸡蛋吧！
 				</div>
 		</div>
 		
 		<div class='container-fuild '>
 			
-			<div class='eggs101_subtitle text-center'>雞蛋簡介</div>
+			<div class='eggs101_subtitle text-center'>鸡蛋简介</div>
 
 
 
@@ -38,7 +37,7 @@
 					<img id='pinterest'  src='./images/social/eggs101/egg_socialMediaIconSet_pinterest.png' />
 				</a> --}}
 				<h4>
-					您在選購雞蛋時可能並無多加考慮。但讀完這篇簡介後，您肯定會想為什麼沒有早點多了解雞蛋！
+					您在选购鸡蛋时可能并无多加考虑。但读完这篇简介后，您肯定会想为什么没有早点多了解鸡蛋！
 				</h4>
 			</div>
 			<div class="col-xs-2">
@@ -58,24 +57,24 @@
 
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle text-left">紅殼蛋和白殼蛋有何分別？</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle text-left">红壳蛋和白壳蛋有何区别？</div>
 				<div class="col-md-1"></div>
 			</div>
 			<div class="col-md-auto"></div>
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_body">紅殼雞蛋和白殼雞蛋的不同取決於母雞的品種。這似乎也有點顯而易見，簡單來說，就是紅色蛋產自紅毛母雞，白色蛋則產自白毛母雞。而在營養和味道方面，兩種蛋完全一樣，如何挑選實屬個人喜好。</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body">红壳鸡蛋和白壳鸡蛋的不同取决于母鸡的品种。这似乎也有点显而易见，简单来说，就是红色蛋产自红毛母鸡，白色蛋则产自白毛母鸡。而在营养和味道方面，两种蛋完全一样，如何挑选实属个人喜好。</div>
 			</div>
 			<div class="col-md-auto"></div>
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle text-left">大中小號：我應選擇甚麼大小？</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle text-left">大中小号：我应选择什么大小？</div>
 				<div class="col-md-1"></div>
 			</div>
 			<div class="col-md-auto"></div>
 			
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_body">您可能留意到超市的雞蛋有多種大小可供選擇，由特小到特大不等。在加拿大，所有A級雞蛋都按重量分類，而非大小或形狀，因此有時同一個盒中的蛋可能看上去大小不一，但它們的重量總在相似範圍內。</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body">您可能留意到超市的鸡蛋有多种大小可选，由特小到特大不等。在加拿大，所有A级鸡蛋都按重量分类，而非大小或形状，因此有时同一个盒中的蛋可能看上去大小不一，但它们的重量总在相似范围内。</div>
 			</div>
 			<div class="col-md-auto"></div>
 
@@ -92,9 +91,9 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img">
-					<h3>以下是加拿大用於雞蛋分類的重量標準：</h3>
+					<h3>以下是加拿大用于鸡蛋分类的重量标准：</h3>
 					<ul class='eggs101_details' >
-						<li>特小(Peewee) – 少於42克</li>
+						<li>特小(Peewee) – 少于42克</li>
 
 						<li>小(Small) – 至少42克</li>
 
@@ -112,19 +111,19 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img">
-					<h3>雞蛋的計量方式：</h3>
+					<h3>鸡蛋的计量方式：</h3>
 					<ul class='eggs101_details'>
-						<li>1隻大蛋=3茶匙(45毫升)</li>
+						<li>1个大蛋=3茶匙(45毫升)</li>
 			
-						<li>5隻大全蛋=1杯(250毫升)</li>
+						<li>5个大全蛋=1杯(250毫升)</li>
 			
-						<li>1隻大蛋白=2茶匙(30毫升)</li>
+						<li>1个大蛋白=2茶匙(30毫升)</li>
 			
-						<li>8至10隻大蛋白=1杯(250毫升)</li>
+						<li>8至10个大蛋白=1杯(250毫升)</li>
 			
-						<li>1隻大蛋黃=1茶匙(15毫升)</li>
+						<li>1个大蛋黄=1茶匙(15毫升)</li>
 			
-						<li style='padding-bottom:0px'>12至16隻大蛋黃=1杯(250毫升)</li>
+						<li style='padding-bottom:0px'>12至16个大蛋黄=1杯(250毫升))</li>
 					</ul>
 				</div>
 				<div class="col-md-1"> </div>
@@ -137,30 +136,31 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				
-				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">如何存放雞蛋</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">如何存放鸡蛋</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
-					<h3>經常存放於蛋盒內</h3>
+					<h3>始终存放于蛋盒内</h3>
 				</div>
 				<div class="col-md-1"></div>
 
-				<div class="col-md-10 col-md-offset-1 eggs101_body" >蛋盒能保護雞蛋，還能防止它們經蛋殼上數千個小氣孔吸收雪櫃中其他食物的強烈氣味。而且，蛋盒上印有的「最佳食用日期」可提醒您留心新鮮度。除此之外，雞蛋較大的一端應保持朝上放置，如同最初包裝在盒內一樣。這樣能令蛋黃一直處於中心位置。</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body" >蛋盒能保护鸡蛋，还能防止它们经蛋壳上数千个小气孔吸收冰箱中其他食物的强烈气味。再之，蛋盒上印有的“最佳食用日期”可提醒您注意新鲜度。除此之外，鸡蛋较大的一端应保持朝上放置，如同最初包装在盒内一样。这样能让蛋黄一直处于中心位置。</div>
 				<div class="col-md-1"></div>
-
-				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">食品科學</div>
+				<br>
+				<br>
+				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">食品科学</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
-					<h3>雞蛋是廚房中不可或缺的食材</h3>
+					<h3>鸡蛋是厨房中不可或缺的食材</h3>
 				</div>
 				<div class="col-md-1"></div>
 				
-				<div class="col-md-10 col-md-offset-1 eggs101_body">雞蛋可能是您雪櫃中最重要的一員！它營養豐富、美味，其物理屬性和成分令它成為廚房中不可或缺的食材。雞蛋更是許多烹飪技巧和食譜的基礎。</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body">鸡蛋可能是您冰箱中最重要的一员！ 它营养丰富、美味，其物理属性和成分让它成为厨房中不可或缺的食材。鸡蛋更是许多烹饪技巧和食谱的基础。</div>
 				<div class="col-md-1"></div>
 
-				<div class="col-md-10 col-md-offset-1 eggs101_body">蛋白質和水是蛋黃和蛋白的主要成分。蛋白質是由長鏈的氨基酸透過弱鍵緊密纏繞而成。當蛋白質經加熱或打入空氣後，其弱鍵將斷裂，部分鏈條隨即解開，蛋白質的性質就此改變，或改變了其自然狀態。</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body">蛋白质和水是蛋黄和蛋白的主要成分。蛋白质是由长链的氨基酸通过弱键紧密缠绕而成。当蛋白质经加热或打入空气后，其弱键将断裂，部分链条随即解开，蛋白质的性质就此改变，或改变了其自然状态。</div>
 				<div class="col-md-1"></div>
 
-				<div class="col-md-10 col-md-offset-1 eggs101_body">展開的蛋白質露出疏水及親水兩種屬性的端口，繼而重新排列，組成新的鍵結，以使疏水端抓住空氣，親水端抓住水，於是形成附著氣泡的蛋白質分子網狀結構。若過度加熱蛋白質或打入過多空氣，鍵結將收緊並擠出水分，令雞蛋變乾、變硬及有彈性。</div>
+				<div class="col-md-10 col-md-offset-1 eggs101_body">展开的蛋白质露出疏水及亲水两种属性的端口，继而重新排列，组成新的键结，以使疏水端抓住空气，亲水端抓住水，于是形成附着气泡的蛋白质分子网状结构。若过度加热蛋白质或打入过多空气，键结将收紧并挤出水分，令鸡蛋变干、变硬及有弹性。</div>
 				<div class="col-md-1"></div>
 
 

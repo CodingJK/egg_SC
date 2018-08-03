@@ -30,7 +30,7 @@
 	    	<div class='timer'>
 
 	    		<div class='timer_title'>
-	    			煮蛋計時器APP
+	    			煮蛋计时器APP
 	    		</div>
 
 	    		<div class='img'>
