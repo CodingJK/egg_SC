@@ -85,7 +85,7 @@
 	                	<span>盐</span>
 	                	<span>胡椒粉 </span>
 	                	<span>牛奶(1%)</span>
-	                	<span>鸡蛋 (只用蛋白)</span>
+	                	<span>鸡蛋</span>
 	                	<span>塔塔粉
 </span>
 	                	

@@ -81,6 +81,7 @@
 	                	<span>453克</span>
 	                	<span>453克</span>
 	                	<span>56克</span>
+	                	<span>28克</span>
 	                	<span>3个</span>
 	                	<span>1茶匙</span>
 	                	<span>227克</span>
@@ -94,6 +95,7 @@
 	                	<span>猪骨</span>
 	                	<span>姜</span>
 	                	<span>白胡椒粒</span>
+	                	<span>鸡蛋</span>
 	                	<span>生油</span>
 	                	<span>白菜苗</span>
 	                	<span>杞子</span>
@@ -258,7 +260,7 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>209 </td>
+        		<td class='text-right'>160 </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
@@ -271,32 +273,32 @@
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0.1克
+        		<td class='text-right'>0克
 </td>
         	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>858毫克
+        		<td class='text-right'>413毫克
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>3克
+        		<td class='text-right'>5克
   </td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>32克
+        		<td class='text-right'>8克
 </td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
-        		<td class='text-right'>2克
+        		<td class='text-right'>4克
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>8克</td>
+        		<td class='text-right'>20克</td>
         	</tr>
         	
         </table>

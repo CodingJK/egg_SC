@@ -99,7 +99,7 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
-						<span>鸡蛋</span>
+						<span>鸡蛋（只用蛋黄）</span>
 						<span>奶</span>
 						<span>糖</span>
 
