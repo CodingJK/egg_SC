@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：4人份</li>
+					<li class='recipe_worlds'>份量:4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间: 25分钟</li>
+					<li class='recipe_worlds'>准备时间:25分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间: 准备浓汤2小时05分钟+20分钟</li>
+					<li class='recipe_worlds'>烹调时间:准备浓汤2小时05分钟+20分钟</li>
 				</ul>
 			</div>
 

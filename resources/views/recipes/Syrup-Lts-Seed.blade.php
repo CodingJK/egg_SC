@@ -53,7 +53,7 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量 : 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间：15 分钟</li>
+					<li class='recipe_worlds'>准备时间:15 分钟</li>
 					<li class='recipe_worlds'>烹调时间: 20 分钟</li>
 				</ul>
 			</div>
