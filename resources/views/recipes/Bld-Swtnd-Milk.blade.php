@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 4人份</li>
+					<li class='recipe_worlds'>份量：4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间:5-7分钟</li>
+					<li class='recipe_worlds'>准备时间：5-7分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间: 5分钟</li>
+					<li class='recipe_worlds'>烹调时间： 5分钟</li>
 				</ul>
 			</div>
 
@@ -224,35 +224,35 @@
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>3.5 g</td>
+        		<td class='text-right'>3.5 克</td>
         	</tr>
         	<tr>
         		<td><b>饱和脂肪</b></td>
-        		<td class='text-right'>1.5 g</td>
+        		<td class='text-right'>1.5 克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0.1 g</td>
+        		<td class='text-right'>0.1 克</td>
         	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>338 mg</td>
+        		<td class='text-right'>24 毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>24 g  </td>
+        		<td class='text-right'>3 克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td class='text-right'>3 克</td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td class='text-right'>0 克</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>3 g</td>
+        		<td class='text-right'>3 克</td>
         	</tr>
         	
         </table>

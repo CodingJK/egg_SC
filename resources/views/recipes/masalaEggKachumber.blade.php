@@ -61,9 +61,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>Serves: 2</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间: 15 min</li>
+					<li class='recipe_worlds'>准备时间： 15 min</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间: 5 min</li>
+					<li class='recipe_worlds'>烹调时间： 5 min</li>
 				</ul>
 			</div>
 

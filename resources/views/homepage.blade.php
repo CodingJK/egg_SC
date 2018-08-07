@@ -66,7 +66,7 @@
                 <div class='row Header1'>
                     <div class='header_nutrition_title'>营养价值</div>
                     <div class='header_nutrition_sub_title'>
-                      鸡蛋不仅美味，而且营养十分丰富，是蛋白质的极佳来源，能提供人体所需的重要营养物质。现在就来了解为什么您应把鸡蛋作为膳食的一部分，以及了解如何为您自己、小孩甚至家中长者保持健康的生活方式。
+                      鸡蛋是营养最丰富的天然食品之一。一个大号鸡蛋仅含70卡路里，却饱含大量营养。
                     </div>
                 </div>
             </a>
@@ -76,7 +76,7 @@
                     <div class='row Header2'>
                         <div class='header_nutrition_title'>宝宝与鸡蛋</div>
                         <div class='header_nutrition_sub_title'>
-                            由加拿大卫生部(Health Canada)、加拿大儿科学会(Canadian Pediatric Society)、加拿大营养师协会(Dietitians of Canada)和加拿大母乳喂养委员会(Breastfeeding Committee for Canada)联合推出的最新婴儿喂食指南指出，建议在宝宝满6个月或刚开始进食固体食物时，引入全蛋喂食。所以您可放心地在宝宝吃的食物泥和粥里加入鸡蛋了！
+                            现在您可以从宝宝6个月大开始喂食全蛋，可有助预防鸡蛋过敏。
                         </div>
                     </div>
                 </a>
