@@ -17,7 +17,7 @@
 		<div class='babys_header'>
 				<div class='babys_title'>您知道吗？</div>
 				<div class='babys_title_body'>
-					Now it’s ok to feed your baby the whole egg starting at 6 months. It could help prevent an egg allergy.
+					现在您可以从宝宝6个月大开始喂食全蛋，可有助预防鸡蛋过敏。
 				</div>
 		</div>
 		<div class="babys_content">

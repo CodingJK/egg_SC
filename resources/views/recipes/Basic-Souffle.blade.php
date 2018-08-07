@@ -1,10 +1,12 @@
 @extends('layouts.app')
 
 @section('content')
+	  
 		<script>
 			$(window).ready(function(){
 				$(".nav_parent").css('background-color','white');
 				$("#nav").css('background-color','white');
+
 			});
 		</script>
 
@@ -26,8 +28,9 @@
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
+
 				
-				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.EggHiSuperstar.com%2FdevilledEggs&src=sdkpreparse' style='padding-right:15px'>
+				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.EggHiSuperstar.com%2FEggsMakhani&src=sdkpreparse' style='padding-right:15px'>
 					<img id='fb' src='./images/social/eggs101/egg_socialMediaIconSet_facebook.png' />
 				</a>
 				<a target="_blank" href='https://twitter.com/intent/tweet?text={{url()->current()}}' >

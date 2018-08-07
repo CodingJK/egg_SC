@@ -55,7 +55,7 @@
 						
 						<hr>
 
-						<div id='title_com'>湯</div>
+						<div id='title_com'>汤</div>
 						<div class='row'>
 							<div class=' col-sm-6 col-lg-4'>
 								<a href="/fish-bisque-egg-white">
@@ -83,7 +83,7 @@
 						</div>
 
 						<hr>
-						<div id='title_com'>小食/前菜</div>
+						<div id='title_com'>小吃/前菜</div>
 						
 						<div class='row'>
 							<div class='col-sm-6 col-lg-4'>

@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
+		
+
 		<script>
 			$(window).ready(function(){
 				$(".nav_parent").css('background-color','white');
@@ -35,7 +37,7 @@
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
 				
-				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.EggHiSuperstar.com%2FBoiled-Egg-Oolong-Tea&src=sdkpreparse' style='padding-right:15px'>
+				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.eggsaregood.ca/SC/recipes/Boiled-Egg-Oolong-Tea.php%2FBoiled-Egg-Oolong-Tea&src=sdkpreparse' style='padding-right:15px'>
 					<img id='fb' src='./images/social/eggs101/egg_socialMediaIconSet_facebook.png' />
 				</a>
 				<a target="_blank" href='https://twitter.com/intent/tweet?text={{url()->current()}}' >
@@ -59,7 +61,7 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 4人份 (每位1个)</li>
+					<li class='recipe_worlds'>份量: 4人份 (每人)</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>准备时间: 10分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
@@ -154,7 +156,15 @@
 					</div>
 					<hr>
 
+					<div class="steps col-xs-12  text-center">
 
+						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">若泡在茶汤里的时间比5小时长，鸡蛋的味道和香味会更浓，颜色也会更深。</div>
+						
+						<div class="col-xs-10 col-xs-offset-1 step_body">若在敲裂煮熟的鸡蛋时不易操作，可垫一条毛巾。</div>
+						<hr class='hr1'>
+						
+					</div>
 					
 				</div>
                 

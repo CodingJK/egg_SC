@@ -71,6 +71,12 @@
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle text-left">大中小号：我应选择什么大小？</div>
 				<div class="col-md-1"></div>
 			</div>
+			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
+				<div class="col-md-10 col-md-offset-1 eggs101_img">
+					<img src="./images/eggs101/egg-sizes2.jpg" alt="">
+				</div>
+				<div class="col-md-1"> </div>
+			</div>
 			<div class="col-md-auto"></div>
 			
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
@@ -78,12 +84,7 @@
 			</div>
 			<div class="col-md-auto"></div>
 
-			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_img">
-					<img src="./images/eggs101/egg-sizes2.jpg" alt="">
-				</div>
-				<div class="col-md-1"> </div>
-			</div>
+			
 				
 			<div class="col-md-auto">
 				

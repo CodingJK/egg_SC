@@ -13,7 +13,7 @@
 			<div class='nutrition_header_artical'>
 				<div class='nutrition_title'>营养价值</div>
 				<div class='nutrition_sub_title'>
-					鸡蛋不仅美味，而且营养十分丰富，是蛋白质的极佳来源，能提供人体所需的重要营养物质。现在就来了解为什么您应把鸡蛋作为膳食的一部分，以及了解如何为您自己、小孩甚至家中长者保持健康的生活方式。
+					鸡蛋是营养最丰富的天然食品之一。一个大号鸡蛋仅含70卡路里，却饱含大量营养。
 				 </div>
 			</div>	
 		</div>

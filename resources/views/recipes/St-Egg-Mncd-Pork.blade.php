@@ -80,6 +80,7 @@
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	<span>4粒</span>
 	                	<span>113克</span>
+	                	<span>4个</span>
 	                	<span>380亳升</span>
 	                	<span>1茶匙或适量</span>
 	                	<span>1茶匙</span>
@@ -251,35 +252,35 @@
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>13 g</td>
+        		<td class='text-right'>13 克</td>
         	</tr>
         	<tr>
         		<td><b>饱和脂肪</b></td>
-        		<td class='text-right'>4 g</td>
+        		<td class='text-right'>4 克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>0 克</td>
         	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>837 mg</td>
+        		<td class='text-right'>837 毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>1g  </td>
+        		<td class='text-right'>1 克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>13 g</td>
+        		<td class='text-right'>13 克</td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
-        		<td class='text-right'>1 g</td>
+        		<td class='text-right'>1 克</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>4 g</td>
+        		<td class='text-right'>4 克</td>
         	</tr>
         	
         </table>

@@ -241,39 +241,39 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>85  </td>
+        		<td class='text-right'>108 </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>5 g</td>
+        		<td class='text-right'>1 克</td>
         	</tr>
         	<tr>
         		<td><b>饱和脂肪</b></td>
-        		<td class='text-right'>2.5 g</td>
+        		<td class='text-right'>0.1 克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>0 克</td>
         	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>31 mg</td>
+        		<td class='text-right'>1020 毫克</td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>26 mg  </td>
+        		<td class='text-right'>2 克</td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>9 g</td>
+        		<td class='text-right'>18 克</td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
-        		<td class='text-right'>0 g</td>
+        		<td class='text-right'>1 克</td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>6 g</td>
+        		<td class='text-right'>5 克</td>
         	</tr>
         	
         </table>

@@ -236,7 +236,7 @@
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>390 毫克  </td>
+        		<td class='text-right'>0 克  </td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
