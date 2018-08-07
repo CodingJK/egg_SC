@@ -72,14 +72,14 @@
 				<div class="col-md-1"></div>
 			</div>
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_img">
+				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-20px;'>
 					<img src="./images/eggs101/egg-sizes2.jpg" alt="">
 				</div>
 				<div class="col-md-1"> </div>
 			</div>
 			<div class="col-md-auto"></div>
 			
-			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
+			<div class="col-xs-12 col-md-8 col-md-offset-2 " style='margin-top:-20px;'>
 				<div class="col-md-10 col-md-offset-1 eggs101_body">您可能留意到超市的鸡蛋有多种大小可选，由特小到特大不等。在加拿大，所有A级鸡蛋都按重量分类，而非大小或形状，因此有时同一个盒中的蛋可能看上去大小不一，但它们的重量总在相似范围内。</div>
 			</div>
 			<div class="col-md-auto"></div>
@@ -91,7 +91,7 @@
 			</div>
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_img">
+				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-25px;'>
 					<h3>以下是加拿大用于鸡蛋分类的重量标准：</h3>
 					<ul class='eggs101_details' >
 						<li>特小(Peewee) – 少于42克</li>
@@ -113,7 +113,7 @@
 				
 			</div>
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
-				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-60px;'>
+				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-80px;'>
 					<h3>鸡蛋的计量方式：</h3>
 					<ul class='eggs101_details'>
 						<li>1个大蛋=3茶匙(45毫升)</li>
@@ -137,7 +137,7 @@
 			</div>
 
 
-			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
+			<div class="col-xs-12 col-md-8 col-md-offset-2 " style='margin-top:-15px'>
 				
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">如何存放鸡蛋</div>
 				<div class="col-md-1"></div>
@@ -149,7 +149,12 @@
 				<div class="col-md-10 col-md-offset-1 eggs101_body" >蛋盒能保护鸡蛋，还能防止它们经蛋壳上数千个小气孔吸收冰箱中其他食物的强烈气味。再之，蛋盒上印有的“最佳食用日期”可提醒您注意新鲜度。除此之外，鸡蛋较大的一端应保持朝上放置，如同最初包装在盒内一样。这样能让蛋黄一直处于中心位置。</div>
 				<div class="col-md-1"></div>
 			</div>
-			<div class="col-xs-12 col-md-8 col-md-offset-2 " style='margin-top:10px;'>
+
+			<div class="col-md-auto">
+				
+			</div>
+
+			<div class="col-xs-12 col-md-8 col-md-offset-2 " style='margin-top:40px;'>
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">食品科学</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
