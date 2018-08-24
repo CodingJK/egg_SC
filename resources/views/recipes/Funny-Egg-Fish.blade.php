@@ -149,7 +149,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">全熟水煮蛋的基本做法：在单层汤锅中放入凉鸡蛋。倒入凉水，水面至少在鸡蛋以上1英寸(2.5厘米)。盖上锅盖，用大火快速将水烧开。立即离火使水停止沸腾。让鸡蛋留在水里18至23分钟。捞出鸡蛋并马上用凉开水冲至变凉。</div>
 						<hr class='hr1'>
 						
@@ -164,14 +164,17 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Boiled-Egg-Oolong-Tea">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>烏龍茶葉蛋</div>
+			     				<div class='name'>乌龙茶叶蛋
+</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Moo-Shu-pork-wok-fried">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
-			     				<div class='name'>金絲木須肉夾餅 Rice</div>
+			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-27-Final-web.jpg' />
+									<div class='name'>
+										金丝木须肉夹饼
+									</div>
 			     			</a>
 		     			</div>
 
@@ -179,7 +182,7 @@
 		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
 			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
+			     					紫菜鹅肝蛋皮卷
 								</div>
 			     			</a>
 		     			</div>

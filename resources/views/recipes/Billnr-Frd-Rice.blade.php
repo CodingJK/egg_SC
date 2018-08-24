@@ -149,7 +149,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">如果您有453克冷饭可直接使用。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">米和水的比例根据您所使用的米而有所不同。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">瑶柱除了可以蒸软，也可以用水泡过夜。</div>

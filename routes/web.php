@@ -149,7 +149,101 @@ Route::get('Duo-Egg-Pearl', function () {
         return view('recipes.Basic-Souffle');
     });
 
+     Route::get('breakfast-in-a-mug', function () {
+        return view('recipes.breakfast-in-a-mug');
+    });
+     Route::get('spicy-avocado-eggs-on-toast', function () {
+        return view('recipes.spicy-avocado-eggs-on-toast');
+    });
+     Route::get('ham-and-cheese-omelette-roll-ups', function () {
+        return view('recipes.ham-and-cheese-omelette-roll-ups');
+    });
+     Route::get('banana-oat-pancakes', function () {
+        return view('recipes.banana-oat-pancakes');
+    });
+      Route::get('Make-ahead breakfast bowls', function () {
+        return view('recipes.Make-ahead breakfast bowls');
+    });
+  Route::get('egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce', function () {
+        return view('recipes.egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce');
+    });
+   Route::get('curried-egg-and-potato-salad', function () {
+        return view('recipes.curried-egg-and-potato-salad');
+    });
+   Route::get('scallion-and-corn-pancake', function () {
+        return view('recipes.scallion-and-corn-pancake');
+    });
+    Route::get('smoked-salmon-fritters-with-dill-cream-cheese', function () {
+        return view('recipes.smoked-salmon-fritters-with-dill-cream-cheese');
+    });
+    Route::get('lobster-devilled-eggs', function () {
+        return view('recipes.lobster-devilled-eggs');
+    });
+    Route::get('maple-walnut-tarts', function () {
+        return view('recipes.maple-walnut-tarts');
+    });
+    Route::get('creme-caramel', function () {
+        return view('recipes.creme-caramel');
+    });
+    Route::get('blueberry-cake', function () {
+        return view('recipes.blueberry-cake');
+    });
+    Route::get('tiramisu-crepe-cake', function () {
+        return view('recipes.tiramisu-crepe-cake');
+    });
+    Route::get('chinese-crepes', function () {
+        return view('recipes.chinese-crepes');
+    });
+     Route::get('shrimp-and-egg-fried-rice', function () {
+        return view('recipes.shrimp-and-egg-fried-rice');
+    });
+     Route::get('classic-pad-thai', function () {
+        return view('recipes.classic-pad-thai');
+    });
+      Route::get('spinach-and-mushroom-soba-noodle-soup', function () {
+        return view('recipes.spinach-and-mushroom-soba-noodle-soup');
+    });
+    Route::get('okonomiyaki', function () {
+        return view('recipes.okonomiyaki');
+    });
+    Route::get('mushroom-fried-rice-with-crispy-egg', function () {
+        return view('recipes.mushroom-fried-rice-with-crispy-egg');
+    });
+    Route::get('spaghetti-carbonara', function () {
+        return view('recipes.spaghetti-carbonara');
+    });
+    Route::get('cedar-plank-salmon-with-nicoise-relish', function () {
+        return view('recipes.cedar-plank-salmon-with-nicoise-relish');
+    });
+    Route::get('poached-egg-over-roasted-asparagus', function () {
+        return view('recipes.poached-egg-over-roasted-asparagus');
+    });
+    Route::get('grilled-eggs-in-portobello-mushrooms', function () {
+        return view('recipes.grilled-eggs-in-portobello-mushrooms');
+    });
+    Route::get('baked-eggs-extraordinaire', function () {
+        return view('recipes.baked-eggs-extraordinaire');
+    });
+   
+   
+    
+
+    // campaign admin panel
+    Route::get('/login','CampaignController@admin');
+
+    Route::get('allCandidates','CampaignController@allCandidates');
+
+    // campaign stage 1
+    Route::get('/campaign','CampaignController@index');
+
+    Route::post('/newCandidate','CampaignController@newCandidate');
+
+    
 
 
 
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

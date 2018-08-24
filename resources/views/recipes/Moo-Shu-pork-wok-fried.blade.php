@@ -180,7 +180,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">鸡蛋除了炸成丝外，也可以煎成蛋皮再切成丝。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">蔬菜和猪肉分开烫熟(第3步)出来的效果会更佳，但需要更长时间。</div>
 						<hr class='hr1'>
@@ -196,24 +196,22 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Funny-Egg-Fish">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
-			     			</a>
-		     			</div>
-
-		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
+			     				<div class='name'>趣味小蛋鱼</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
-								</div>
-			     			</a>
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
+									<div class='name'>紫菜鹅肝蛋皮卷</div>
+								</a>
+		     			</div>
+
+		     			<div class='col-sm-4 col-xs-12'>
+		     				<a href="/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce">
+									<img class='recipes_img' src='/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce-small_r.jpg' />
+									<div class='name'>越式鸡蛋生菜沙拉卷配甜辣酱</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

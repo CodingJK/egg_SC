@@ -4,6 +4,7 @@
             $(window).ready(function(){
                 $('.links a').css('border','2px solid #fbbb27');  
                 $("#nav").css('background-color','#fbbb27');
+                $("#nav").css('border-color','transparent');
                 $('.links a').hover(function(){
                     $(this).css('border','2px solid white');
                     $(this).css('color','white');
@@ -22,6 +23,7 @@
             var pixs = $(document).scrollTop();
             if(pixs>50){
                 $("#nav").css('background-color','white');
+                $("#nav").css('border-color','#f3f5f6');
                 $('.links a').css('border','2px solid white');  
                 $('.links a').hover(function(){
                     $(this).css('border','2px solid #fbbb27');
@@ -34,6 +36,7 @@
                 $('.lang').css('border','2px solid black');
             }else{
               $("#nav").css('background-color','#fbbb27');
+              $("#nav").css('border-color','transparent');
                 $('.links a').css('border','2px solid #fbbb27');  
                 $('.links a').hover(function(){
                     $(this).css('border','2px solid white');

@@ -160,23 +160,23 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/devilledEggs">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-09-Final-web.jpg' />
-			     				<div class='name'>Indian-style Devilled Eggs</div>
-			     			</a>
+		     				<a href="/St-Egg-Mncd-Pork">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
+									<div class='name ' >瑶柱肉末蒸滑蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Birds-Nest-Egg-Peral">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
+			     				<div class='name'>红烧燕液盏</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/fish-bisque-egg-white">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-06-Final-web.jpg' />
-			     				<div class='name'>芙蓉斑片羮</div>
+			     				<div class='name'>芙蓉斑片羹</div>
 			     			</a>
 		     			</div>
 				</div>		

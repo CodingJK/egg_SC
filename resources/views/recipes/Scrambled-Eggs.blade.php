@@ -130,7 +130,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body"> 除了火鸡培根，也可使用一般培根。
  
 </div>

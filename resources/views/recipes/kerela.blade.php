@@ -146,7 +146,9 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用另一個較小的鍋煮滾1升水，放入豬肉碎灼3分钟，撈出備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用另一
+个
+較小的鍋煮滾1升水，放入豬肉碎灼3分钟，撈出備用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -154,7 +156,9 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一個大碗內將鸡蛋4个、清鸡湯280毫升，和盐、糖各½茶匙攪勻，將蛋湯注入淺瓷碟，包上保鮮紙
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一
+个
+大碗內將鸡蛋4个、清鸡湯280毫升，和盐、糖各½茶匙攪勻，將蛋湯注入淺瓷碟，包上保鮮紙
 </div>
 						<hr class='hr1'>
 					</div>
@@ -178,7 +182,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 8</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋應已完成，去除保鮮紙，往蒸蛋上淋上第7步準備好的湯汁，撒上蔥花即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋應已完成，去除保鮮紙，往蒸蛋上淋上第7步準備好的湯汁，撒上葱花即可享用
 </div>
 						<hr class='hr1'>
 					</div>
@@ -187,7 +191,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士:</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍:</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body"> 瑤柱除了可以蒸軟，亦可以用水浸過夜。</div>
 						
 						<hr class='hr1'>

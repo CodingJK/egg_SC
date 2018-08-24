@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：4人份</li>
+					<li class='recipe_worlds'>份量: 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间：10分钟</li>
+					<li class='recipe_worlds'>准备时间: 10分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间：5分钟</li>
+					<li class='recipe_worlds'>烹调时间: 5分钟</li>
 				</ul>
 			</div>
 
@@ -159,24 +159,22 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/mushroom-truffle-and-egg">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
+			     				<div class='name'>蘑菇蛋花松露清汤</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Birds-Nest-Egg-Peral">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
+			     				<div class='name'>红烧燕液盏</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/devilledEggs">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-09-Final-web.jpg' />
-			     				<div class='name'>
-			     					Indian-style Devilled Eggs 
-								</div>
-			     			</a>
+		     				<a href="/St-Egg-Wht-Sea-Treasure">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
+									<div class='name ' >海皇扒蒸蛋白</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

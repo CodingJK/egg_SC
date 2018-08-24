@@ -156,7 +156,7 @@
 					
 
 					<div class="steps col-xs-12  text-center">
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">检查瓶装燕窝是否含糖，如果是，则使用比食谱建议份量少的糖。</div>
 						<hr class='hr1'>
 					</div>
@@ -170,24 +170,22 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/mushroom-truffle-and-egg">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
+			     				<div class='name'>蘑菇蛋花松露清汤</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/fish-bisque-egg-white">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-06-Final-web.jpg' />
-			     				<div class='name'>芙蓉斑片羮</div>
+			     				<div class='name'>芙蓉斑片羹</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/devilledEggs">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-09-Final-web.jpg' />
-			     				<div class='name'>
-			     					Indian-style Devilled Eggs 
-								</div>
-			     			</a>
+		     				<a href="/Duo-Egg-Pearl">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-009-Final-web.jpg' />
+									<div class='name ' >猪骨浓汤菜苗伴鸳鸯蛋</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

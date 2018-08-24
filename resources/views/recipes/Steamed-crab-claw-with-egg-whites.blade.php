@@ -144,7 +144,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body"> 使用无盐清鸡汤。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">如果您使用从超市购得的冰冻蟹钳，很可能已含一定盐分，因此在烹煮时可减少盐的份量。
 
@@ -176,7 +176,8 @@
 		     				<a href="/Boiled-Egg-Oolong-Tea">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
 			     				<div class='name'>
-			     					烏龍茶葉蛋
+			     					乌龙茶叶蛋
+
 								</div>
 			     			</a>
 		     			</div>

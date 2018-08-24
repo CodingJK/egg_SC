@@ -155,7 +155,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士:</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍:</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">  如果您想炒蛋的比例更大，可减少鱼肚的份量。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">较薄的鱼肚更易炒熟，而且不需浸泡太久。用开水烫过的鱼肚据说更易消化。</div>
 

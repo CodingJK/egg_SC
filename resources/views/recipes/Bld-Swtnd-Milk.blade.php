@@ -159,7 +159,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士:</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍:</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">  如果您喜欢，可使用高脂奶。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body"> 如果您希望奶糊更粘稠，可加热更长时间。</div>
 
@@ -175,26 +175,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
-			     			</a>
+		     				<a href="/Syrup-Lts-Seed">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-23-Final-web.jpg' />
+														<div class='name ' >莲子蛋茶</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/Egg-Tart">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-24-Final-web.jpg' />
+														<div class='name ' >酥皮蛋挞</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
-								</div>
-			     			</a>
+		     				<a href="/maple-walnut-tarts">
+														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
+														<div class='name ' >枫糖核桃馅饼</div>
+													</a>
 		     			</div>
 				</div>		
 			</div>

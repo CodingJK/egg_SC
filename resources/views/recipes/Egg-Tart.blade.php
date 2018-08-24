@@ -128,7 +128,7 @@
 					
 
 					<div class="steps col-xs-12  text-center">
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">您可在蛋挞模涂上少许油。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱可节省时间。</div>
 						<hr class='hr1'>
@@ -141,26 +141,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
-								<div class='name ' >鳳凰奶露</div>
-			     			</a>
+		     				<a href="/Bld-Swtnd-Milk">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
+														<div class='name ' >凤凰奶露</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/fish-bisque-egg-white">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-06-Final-web.jpg' />
-			     				<div class='name'>芙蓉斑片羮</div>
-			     			</a>
+		     				<a href="/creme-caramel">
+														<img class='recipes_img' src='/images/recipes/Creme-Caramel-small_r.jpg' />
+														<div class='name ' >法式焦糖炖蛋</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/devilledEggs">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-09-Final-web.jpg' />
-			     				<div class='name'>
-			     					Indian-style Devilled Eggs 
-								</div>
-			     			</a>
+		     				<a href="/maple-walnut-tarts">
+														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
+														<div class='name ' >枫糖核桃馅饼</div>
+													</a>
 		     			</div>
 				</div>		
 			</div>

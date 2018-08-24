@@ -134,13 +134,13 @@
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 6</div>
+						<div class="step_title col-xs-12">步骤 6</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把面糊4杯(1升)倒入舒芙蕾烤模或烘盘中</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步驟 7</div>
+						<div class="step_title col-xs-12">步骤 7</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在预热至375华氏度(190摄氏度)的烤箱中烤20至25分钟，至膨胀及稍微变黄即可享用</div>
 						<hr class='hr1'>
 					</div>
@@ -161,7 +161,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">不要将蛋黄一次过加入到热的面糊中，因为可能会因凝结得太快而结块。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">冷鸡蛋的蛋白和蛋黄更易分离。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">可使用小漏斗分开蛋白和蛋黄。在一个量杯上放漏斗。打蛋入漏斗，蛋白将流到量杯而蛋黄会留在漏斗内。</div>

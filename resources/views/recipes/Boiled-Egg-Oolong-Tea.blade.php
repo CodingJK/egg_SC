@@ -158,7 +158,7 @@
 
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小贴士：</b></h1>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
 						<div class="col-xs-10 col-xs-offset-1 step_body">若泡在茶汤里的时间比5小时长，鸡蛋的味道和香味会更浓，颜色也会更深。</div>
 						
 						<div class="col-xs-10 col-xs-offset-1 step_body">若在敲裂煮熟的鸡蛋时不易操作，可垫一条毛巾。</div>
@@ -176,14 +176,14 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Funny-Egg-Fish">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
+			     				<div class='name'>趣味小蛋鱼</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Moo-Shu-pork-wok-fried">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
-			     				<div class='name'>金絲木須肉夾餅 Rice</div>
+			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-27-Final-web.jpg' />
+			     				<div class='name'>金丝木须肉夹饼</div>
 			     			</a>
 		     			</div>
 
@@ -191,7 +191,7 @@
 		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
 			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
 			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
+			     					紫菜鹅肝蛋皮卷
 								</div>
 			     			</a>
 		     			</div>
