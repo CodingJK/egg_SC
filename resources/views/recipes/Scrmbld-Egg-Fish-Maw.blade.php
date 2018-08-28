@@ -122,20 +122,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">鱼肚在室温下浸泡过夜使其变软，软后切细粒备用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">鱼肚在室温下浸泡过夜使其变软，软后切细粒备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋入一个大碗，加鱼肚粒、银芽，盐、糖各⅓茶匙搅匀
+						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋入一个大碗，加鱼肚粒、银芽，盐、糖各⅓茶匙搅匀。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起锅热油2茶匙，倒入上一步骤的蛋液轻搅，以慢火炒3分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">起锅热油2茶匙，倒入上一步骤的蛋液轻搅，以慢火炒3分钟。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -143,7 +143,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟后撒上火腿茸即可
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟后撒上火腿茸即可。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -171,26 +171,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
-			     			</a>
+		     				<a href="/Wk-Frd-Lbstr-Egg-Rainbow">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-007-Final-web.jpg' />
+									<div class='name ' >鸳鸯芙蓉龙虾球</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/Billnr-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
+									<div class='name ' >阔佬炒饭</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
-								</div>
-			     			</a>
+		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
+									<div class='name ' >姜蓉带子蛋白炒饭</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

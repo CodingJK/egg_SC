@@ -22,9 +22,7 @@
 			
 			<span class='recipe_title'>大阪烧</span>
 			<p class='title_body'>
-					大阪烧其實就是用椰菜、香蔥和煙肉快速煎成的日式鹹薄餅。大阪烧的意思就是隨意把喜歡的東西燒來吃，所以你可用這
-个
-食谱做基礎，加入任何喜歡的配料，炮製出屬於你自己的大阪烧！
+					大阪烧其实就是用椰菜、香葱和培根快速煎成的日式咸薄饼。大阪烧的意思就是随意把喜欢的东西烧来吃，所以你可用这个食谱做基础，加入任何喜欢的配料，炮制出属于你自己的大阪烧！
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -96,12 +94,12 @@
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>多用途面粉
 </span>
-	                	<span>鹽</span>
-	                	<span>雞湯或水</span>
+	                	<span>盐</span>
+	                	<span>鸡汤或水</span>
 	                	<span>鸡蛋</span>
-	                	<span>椰菜(切絲)</span>
-	                	<span>香蔥(切碎)</span>
-	                	<span>煙肉(煮熟後壓碎)</span>
+	                	<span>椰菜(切丝)</span>
+	                	<span>香香葱(切碎))</span>
+	                	<span>培根(煮熟后压碎)</span>
 	                	<span>(60毫升)芥花籽油</span>
 
 	                </div>
@@ -131,14 +129,14 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>芽菜</span>
-	                	<span>香蔥(打斜切片)</span>
-	                	<span>鰹魚碎</span>
-	                	<span>醃薑</span>
+	                	<span>豆芽</span>
+	                	<span>香葱(打斜切片)</span>
+	                	<span>鲣鱼碎</span>
+	                	<span>腌姜</span>
 	                	<span>烘煎芝麻</span>
-	                	<span>豉油</span>
-	                	<span>喼汁</span>
-	                	<span>亞洲風味辣醬</span>
+	                	<span>酱油</span>
+	                	<span>伍斯特辣酱油</span>
+	                	<span>亚洲风味辣酱</span>
 	                </div>
                 </div>
 
@@ -150,10 +148,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在碗中攪勻面粉
-和鹽。在另一
-个
-碗，打蛋後加雞湯，倒入麵糊混合。加入椰菜、洋蔥和煙肉。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在碗中搅匀面粉和盐。在另一个碗，打蛋后加鸡汤，倒入面糊混合。加入椰菜、洋葱和培根。
 
 
 
@@ -164,7 +159,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在防黏平底鍋中，中高溫燒熱1汤匙(15毫升)油。倒入1/2杯(125毫升)麵糊，用鍋鏟輕輕按下壓平。煮3-4分钟或至底部變啡色，翻轉煎多3-4分钟。用剩餘麵糊重複以上步骤，按需加更多油。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在防黏平底锅中，中高温烧热1汤匙（15毫升）油。倒入1/2杯（125毫升）面糊，用锅铲轻轻按下压平。煮3-4分钟或至底部变啡色，翻转煎多3-4分钟。用剩余面糊重复以上步骤，按需加更多油。
 
 						</div>
 							<hr class='hr1'>
@@ -173,14 +168,14 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">配料：放上芽菜、葱花、鰹魚碎、薑、芝麻、豉油、喼汁和辣醬。
+						<div class="col-xs-10 col-xs-offset-1 step_body">配料：放上豆芽、葱花、鲣鱼碎、姜、芝麻、酱油、伍斯特辣酱油和辣酱。
 
 						</div>
 							<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">重複以上步骤，可煎多5份。
+						<div class="col-xs-10 col-xs-offset-1 step_body">重复以上步骤，可煎多5份。
 
 						</div>
 							<hr class='hr1'>
@@ -191,8 +186,8 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用大阪烧醬代替喼汁，更具日式風味。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用低钠雞湯代替雞湯。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可选用大阪烧酱代替喼汁，更具日式风味。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可选用低钠鸡汤代替鸡汤。</div>
 						
 
 						<hr class='hr1'>

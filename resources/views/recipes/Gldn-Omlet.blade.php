@@ -105,7 +105,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用量杯量¾杯米入电饭锅，米和水的比例为1:2，用同一只量杯量2倍的水倒入电饭锅。饭煮熟后待其变凉放过夜
+						<div class="col-xs-10 col-xs-offset-1 step_body">用量杯量¾杯米入电饭锅，米和水的比例为1:2，用同一只量杯量2倍的水倒入电饭锅。饭煮熟后待其变凉放过夜。
 
 </div>
 						<hr class='hr1'>
@@ -113,38 +113,38 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用锅烧开1升水，放入虾仁、西兰花和芥兰粒烫3分钟，捞出备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅烧开1升水，放入虾仁、西兰花和芥兰粒烫3分钟，捞出备用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋打进一个大碗搅匀，蛋液分两等份倒入两个较小的碗备用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋打进一个大碗搅匀，蛋液分两等份倒入两个较小的碗备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起锅下2茶匙生油，放一碗第3步的蛋液、第1步的饭、第2步煮熟的虾仁和芥兰粒，慢火炒5分钟</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">起锅下2茶匙生油，放一碗第3步的蛋液、第1步的饭、第2步煮熟的虾仁和芥兰粒，慢火炒5分钟。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用盐、糖各½茶匙为上一步骤的炒饭调味，下葱花，再炒1分钟充分混合，取出备用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用盐、糖各½茶匙为上一步骤的炒饭调味，下葱花，再炒1分钟充分混合，取出备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起锅下2茶匙生油，放入第3步的另一碗蛋液，煎2分钟成蛋饼，慢慢在上面加进第5步的炒饭，加完后将蛋饼翻转，使饭被蛋饼包裹</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">起锅下2茶匙生油，放入第3步的另一碗蛋液，煎2分钟成蛋饼，慢慢在上面加进第5步的炒饭，加完后将蛋饼翻转，使饭被蛋饼包裹。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟后伴上西兰花即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟后伴上西兰花即可享用。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
@@ -166,26 +166,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/shrimp-and-egg-fried-rice">
+									<img class='recipes_img' src='/images/recipes/Shrimp-and-Egg-Fried-Rice-small_r.jpg' />
+									<div class='name ' >虾仁滑蛋炒饭</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
+									<div class='name ' >姜蓉带子蛋白炒饭</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Billnr-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
+									<div class='name ' >阔佬炒饭</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

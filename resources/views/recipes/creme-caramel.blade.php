@@ -110,7 +110,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在平底锅用中火炖煮牛奶、剩余的砂糖、香草精和盐，直至微沸。同一时间，用大碗搅拌混合鸡蛋和蛋黄。不断搅拌，加入1/2杯（125毫升）热牛奶，继续搅拌直至均匀。慢慢拌入剩余的奶糊，用细网筛过滤。倒入甜品碗中，覆盖焦糖。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在平底锅用中火炖煮牛奶、剩余的砂糖、香草精和盐，直至微沸。同一时间，用大碗搅拌混合鸡蛋和蛋黄。不断搅拌，加入1/2杯(125毫升)热牛奶，继续搅拌直至均匀。慢慢拌入剩余的奶糊，用细网筛过滤。倒入甜品碗中，覆盖焦糖。
 
 						</div>
 							<hr class='hr1'>
@@ -118,7 +118,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将甜品碗放在大型烤盘上。小心将适量热水倒入盘中，及至甜品碗高度的一半。放入烤箱的中层，烤35-40分钟或至刚好凝固。将一把1英寸（2.5厘米）长刀插入中间，如无黏附物即可取出。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将甜品碗放在大型烤盘上。小心将适量热水倒入盘中，及至甜品碗高度的一半。放入烤箱的中层，烤35-40分钟或至刚好凝固。将一把1英寸(2.5厘米)长刀插入中间，如无黏附物即可取出。</div>
 						<hr class='hr1'>
 					</div>
 

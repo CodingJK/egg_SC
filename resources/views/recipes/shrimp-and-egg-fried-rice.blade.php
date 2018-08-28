@@ -20,9 +20,10 @@
 			
 				
 			
-			<span class='recipe_title'>蝦仁滑蛋炒飯</span>
+			<span class='recipe_title'>虾仁滑蛋炒饭</span>
 			<p class='title_body'>
-					用炒蛋、隔夜飯和急凍蝦快速變出晚餐。濃濃蛋香，百吃不膩。
+					用炒蛋、隔夜饭和冰鲜虾快速变出晚餐。浓浓蛋香，百吃不腻。
+
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -98,19 +99,19 @@
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
 	                	<span>鸡蛋</span>
-	                	<span>鹽</span>
+	                	<span>盐</span>
 	                	<span>胡椒粉</span>
 	                	<span>芥花籽油</span>
-	                	<span>剝殼急凍蝦，解凍去尾(31至40只)</span>
-	                	<span>蒜頭(切碎)</span>
-	                	<span>香蔥(切段)</span>
-	                	<span>長米（隔夜飯）</span>
-	                	<span>咖哩粉</span>
-	                	<span>醬油</span>
+	                	<span>去壳冰鲜虾，解冻去尾（31至40只）</span>
+	                	<span>大蒜(切碎)</span>
+	                	<span>香葱(切段)</span>
+	                	<span>长米（隔夜饭）</span>
+	                	<span>咖喱粉</span>
+	                	<span>酱油</span>
 	                	<span>米酒醋</span>
 	                	<span>砂糖</span>
-	                	<span>急凍豌豆(解凍)</span>
-	                	<span>是拉差辣醬</span>
+	                	<span>冰鲜豌豆(解冻)</span>
+	                	<span>是拉差辣酱</span>
 
 	                </div>
                 </div>
@@ -124,7 +125,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將鸡蛋和鹽、胡椒粉攪勻。在炒鍋或大平底鍋中，用中火燒熱1汤匙(15毫升)油，倒入蛋液，攪拌炒3-4分钟或至開始凝固蓬鬆。盛起上碟。
+						<div class="col-xs-10 col-xs-offset-1 step_body">将鸡蛋和盐、胡椒粉搅匀。在炒锅或大平底锅中，用中火烧热1汤匙（15毫升）油，倒入蛋液，搅拌炒3-4分钟或至开始凝固蓬松。盛起上碟。
 
 
 </div>
@@ -133,9 +134,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在同一
-个
-鍋中，用高火燒熱剩餘的油，將蒜頭、香蔥和蝦仁炒2分钟至粉紅色。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在同一个锅中，用高火烧热剩余的油，将大蒜、香葱和虾仁炒2分钟至粉红色。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -143,7 +142,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入隔夜飯和咖哩粉，炒2分钟。加入豉油、醋和糖，將飯炒2-3分钟至熱透，加入蛋液和豌豆，炒1分钟至熱透。伴以辣醬享用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入隔夜饭和咖喱粉，炒2分钟。加入酱油、醋和糖，将饭炒2-3分钟至热透，加入蛋液和豌豆，炒1分钟至热透。伴以辣酱享用。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -154,8 +153,8 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用烘煎芝麻做裝飾。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">轉用隔夜糙米一樣健康美味。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可选用烘煎芝麻做装饰。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">转用隔夜糙米一样健康美味。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -174,21 +173,21 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Billnr-Frd-Rice">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
-									<div class='name ' >闊佬炒飯</div>
+									<div class='name ' >阔佬炒饭</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Gldn-Omlet">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
-									<div class='name ' >黃金蝦仁蛋包飯</div>
+									<div class='name ' >黄金虾仁蛋包饭</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
-									<div class='name ' >薑蓉帶子蛋白炒飯</div>
+									<div class='name ' >姜蓉带子蛋白炒饭</div>
 								</a>
 		     			</div>
 				</div>		

@@ -5,15 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
     <meta property="og:url"                content="http://wwwhttp://eggsaregood.ca" />
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106914447-1"></script>
-   <script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79368805-2"></script>
+<script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-106914447-1');
+
+  gtag('config', 'UA-79368805-2');
 </script>
-    <title>Home | egghisuperstar.com</title>
+
+    <title>Home | EggsAreGood.ca</title>
 
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
 
@@ -91,6 +93,7 @@
                 <a href='/Apps' class='apps_link'>推广</a>
                 <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
+                <a href='http://eggsaregood.ca/' class='lang'><b> 繁 </b></a>
             </div>
         </div>
         {{-- middle nav --}}
@@ -107,6 +110,7 @@
             <a href='/Apps' class='apps_link'>推广</a>
             <a href='http://www.lesoeufs.ca/' class='lang'><b> Fr </b></a>
             <a href='https://www.eggs.ca/' class='lang'><b> En </b></a>
+            <a href='http://eggsaregood.ca/' class='lang'><b> 繁 </b></a>
           </div>
         </div>
         {{-- mobile navigation --}}
@@ -152,9 +156,9 @@
 <footer class='clear-top'>
   <div class='container-fluid' id='mobile-footer-sm'>
     <div class='col-xs-12'>
-      <h2>Fresh recipes in your inbox every month!</h2>
+      <h2>每月通过电子邮箱收到新鲜食谱！ (英文)</h2>
       
-      <h2>Follow on Social Media</h2>
+      <h2>关注社交媒体专页(英文)</h2>
       <div>
         <ul class="col-xs-12">
           <li class='col-xs-2 col-xs-offset-1 '>
@@ -181,16 +185,16 @@
           <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources'>Resources</a>
+          <a href='http://www.eggs.ca/resources'>资料数据(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community'>Community</a>
+          <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us'>About Us</a>
+          <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus'>Contact Us</a>
+          <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
         </li>
         
       </div>
@@ -214,9 +218,9 @@
   
   <div class='container-fluid' id='mobile-footer-big'>
     <div class='col-xs-12'>
-      <h2>Fresh recipes in your inbox every month!</h2>
+      <h2>每月通过电子邮箱收到新鲜食谱！ (英文)</h2>
       
-      <h2>Follow on Social Media</h2>
+      <h2>关注社交媒体专页(英文)</h2>
       <div>
         <ul class="col-xs-8 col-xs-offset-2">
           <li class='col-xs-2 col-xs-offset-1 '>
@@ -242,16 +246,16 @@
           <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources'>Resources</a>
+          <a href='http://www.eggs.ca/resources'>资料数据(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community'>Community</a>
+          <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us'>About Us</a>
+          <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus'>Contact Us</a>
+          <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
         </li>
         
       </div>
@@ -272,10 +276,10 @@
     
     <div class='col-sm-12 '>
       <div class='col-sm-7 left'>
-        <span>Fresh recipes in your inbox every month!</span>
+        <span>每月通过电子邮箱收到新鲜食谱！ (英文)</span>
       </div>
       <div class='col-sm-5  right'>
-        <span>Follow on Social Media</span>
+        <span>关注社交媒体专页(英文)</span>
       </div>
     </div>
     <div class='col-sm-12'>
@@ -308,16 +312,16 @@
           <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources'>Resources</a>
+          <a href='http://www.eggs.ca/resources'>资料数据(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community'>Community</a>
+          <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us'>About Us</a>
+          <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus'>Contact Us</a>
+          <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
         </li>
         
       </div>
@@ -345,10 +349,10 @@
     <div class='container-fluid' id='desktop-footer-big'>
       <div class='col-lg-12'>
         <div class='col-lg-7 left'>
-          <span>Fresh recipes in your inbox every month!</span>
+          <span>每月通过电子邮箱收到新鲜食谱！ (英文)</span>
         </div>
         <div class='col-lg-5  right'>
-          <span>Follow on Social Media</span>
+          <span>关注社交媒体专页(英文)</span>
         </div>
       </div>
       <div class='col-lg-12'>
@@ -381,16 +385,16 @@
             <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/resources'>Resources</a>
+            <a href='http://www.eggs.ca/resources'>资料数据(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/community'>Community</a>
+            <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/about-us'>About Us</a>
+            <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/contactus'>Contact Us</a>
+            <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
           </li>
           
         </div>

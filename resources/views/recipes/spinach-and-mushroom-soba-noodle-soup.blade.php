@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>菠菜蘑菇蕎麥湯麵</span>
+			<span class='recipe_title'>菠菜蘑菇荞麦汤面</span>
 			<p class='title_body'>
-					在秋冬來一碗熱辣辣的湯麵暖胃就最舒服不過！做法超快速簡單，美味又富蛋白质。
+					
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -82,7 +82,7 @@
 					<span>2杯(500毫升)</span>
 					<span>2只</span>
 					<span>1/4杯(60毫升)</span>
-					<span>額外配菜(隨喜好加入)</span>
+					<span>额外配菜（随喜好加入)</span>
 
 
 
@@ -93,16 +93,16 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
-	                	<span>蕎麥麵</span>
+	                	<span>荞麦面</span>
 	                	<span>烘煎麻油</span>
 	                	<span>植物油</span>
 	                	<span>棕蘑菇或白蘑菇(切片)</span>
-	                	<span>豉油</span>
-	                	<span>低钠雞湯</span>
+	                	<span>酱油</span>
+	                	<span>低钠鸡汤</span>
 	                	<span>嫩菠菜</span>
-	                	<span>鸡蛋(流心，放涼，切一半)</span>
-	                	<span>香蔥(白色綠色部分切片)</span>
-	                	<span>新鮮芫荽菜葉、泰國辣椒片、少量鮮芽菜、是拉差辣醬。</span>
+	                	<span>鸡蛋(流心，放凉，切一半)</span>
+	                	<span>香葱(白色绿色部分切片)</span>
+	                	<span>新鲜芫荽菜叶、泰国辣椒片、少量鲜芽菜、是拉差辣酱。</span>
 
 	                </div>
                 </div>
@@ -116,7 +116,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">根據包裝說明準備蕎麥麵。瀝乾，加入芝麻油攪拌均勻，分成兩碗，備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">根据包装说明准备荞麦面。沥干，加入芝麻油搅拌均匀，分成两碗，备用。
 
 
 
@@ -126,7 +126,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在中型平底鍋中，用中高火炒燒熱油，加入蘑菇炒4-5分钟至微啡色。熄火後加入豉油拌勻。將蘑菇分成兩份。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在中型平底锅中，用中高火炒烧热油，加入蘑菇炒4-5分钟至微啡色。关火后加入酱油拌匀。将蘑菇分成两份。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -134,7 +134,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">同一時間，在中型鍋中加入雞湯、麻油和豉油，低火煎煮。加入嫩菠菜，攪拌不超過1分钟，直至稍微軟化。將熱湯和菠菜淋上蕎麥麵和蘑菇，加入剩餘的流心蛋、香蔥或其他食材作配料和裝飾。立即食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">同一时间，在中型锅中加入鸡汤、麻油和酱油，低火煎煮。加入嫩菠菜，搅拌不超过1分钟，直至稍微软化。将热汤和菠菜淋上荞麦面和蘑菇，加入剩余的流心蛋、香葱或其他食材作配料和装饰。立即食用。
 
 						</div>
 							<hr class='hr1'>
@@ -164,14 +164,14 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/spaghetti-carbonara">
 									<img class='recipes_img' src='/images/recipes/Spaghetti-Carbonara-small_r.jpg' />
-									<div class='name ' >卡邦尼意粉</div>
+									<div class='name ' >卡邦尼奶油培根意大利面</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/mushroom-fried-rice-with-crispy-egg">
 									<img class='recipes_img' src='/images/recipes/Mushroom-Fried-Rice-with-Crispy-Egg-small_r.jpg' />
-									<div class='name ' >蘑菇脆香煎蛋炒飯</div>
+									<div class='name ' >蘑菇脆香煎蛋炒饭</div>
 								</a>
 		     			</div>
 				</div>		

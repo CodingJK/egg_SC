@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>蘑菇脆香煎蛋炒飯</span>
+			<span class='recipe_title'>蘑菇脆香煎蛋炒饭</span>
 			<p class='title_body'>
-					如果炒飯是你的摯愛，你一定會喜歡Chef Lynn Crawford大廚的泰國茉莉香米脆香薑蛋炒飯。用來做二人晚餐一流！
+					如果炒饭是你的挚爱，你一定会喜欢Chef Lynn Crawford 大厨的泰国茉莉香米脆香姜蛋炒饭。用来做二人晚餐一流！
 
 			</p>
 
@@ -75,8 +75,7 @@
 	                	
 	                	
 					<span>2汤匙(30毫升)</span>
-					<span>3-4
-个
+					<span>3-4个
 </span>
 					<span>1杯(250毫升)</span>
 					<span>1汤匙(15毫升)</span>
@@ -91,15 +90,15 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>橄欖油</span>
-	                	<span>杏鮑菇，打直切成1/4吋厚片</span>
+	                	<span>橄榄油</span>
+	                	<span>杏鲍菇，打直切成1/4英寸厚片</span>
 	                	<span>韭菜(切碎)</span>
-	                	<span>無鹽牛油</span>
-	                	<span>蒜頭(切碎)</span>
-	                	<span>薑蓉</span>
-	                	<span>泰國茉莉香米(煮熟)</span>
-	                	<span>豉油</span>
-	                	<span>香蔥(打斜切片)</span>
+	                	<span>无盐黄油</span>
+	                	<span>大蒜(切碎)</span>
+	                	<span>姜蓉</span>
+	                	<span>泰国茉莉香米(煮熟)</span>
+	                	<span>酱油</span>
+	                	<span>香葱(打斜切片)</span>
 
 	                </div>
                 </div>
@@ -124,8 +123,8 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>無鹽牛油(分成兩份)</span>
-	                	<span>Panko麵包糠混合2茶匙薑蓉(分成兩份)</span>
+	                	<span>无盐黄油(分成两份)</span>
+	                	<span>Panko面包屑混合2茶匙姜蓉(分成两份)</span>
 	                	<span>大鸡蛋</span>
 	                </div>
                 </div>
@@ -138,7 +137,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在平底鍋用中高火燒熱油，加入蘑菇拌炒3分钟或至金黃色。盛起備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在平底锅用中高火烧热油，加入蘑菇拌炒3分钟或至金黄色。盛起备用。
 
 
 
@@ -150,7 +149,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在鍋中加入韭菜、牛油、蒜頭、薑蓉、飯和豉油，炒2分钟。加入葱花再炒1分钟。煎蛋期間，蓋起保溫。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在锅中加入韭菜、黄油、大蒜、姜蓉、饭和酱油，炒2分钟。加入葱花再炒1分钟。煎蛋期间，盖起保温。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -158,14 +157,14 @@
 					<div class='recipes_subtitle'>脆香煎蛋步骤:</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在平底鍋用中火燒熱1汤匙牛油。將3汤匙Panko麵包糠糊倒入防黏鍋中間，用匙羹後面壓平。煎至底部金黃酥脆，然後將鸡蛋打在上面再煎2分钟或至蛋白凝固。用剩餘鸡蛋重複以上步骤。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在平底锅用中火烧热1汤匙黄油。将3汤匙Panko面包屑糊倒入防黏锅中间，用匙羹后面压平。煎至底部金黄酥脆，然后将鸡蛋打在上面再煎2分钟或至蛋白凝固。用剩余鸡蛋重复以上步骤。
 
 						</div>
 							<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將炒飯上碟分成兩份，放上脆香煎蛋，立即食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">将炒饭上碟分成两份，放上脆香煎蛋，立即食用。
 
 
 						</div>
@@ -189,21 +188,21 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Gldn-Omlet">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
-									<div class='name ' >黃金蝦仁蛋包飯</div>
+									<div class='name ' >黄金虾仁蛋包饭</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Billnr-Frd-Rice">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-010-Final-web.jpg' />
-									<div class='name ' >闊佬炒飯</div>
+									<div class='name ' >阔佬炒饭</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
-									<div class='name ' >薑蓉帶子蛋白炒飯</div>
+									<div class='name ' >姜蓉带子蛋白炒饭</div>
 								</a>
 		     			</div>
 				</div>		

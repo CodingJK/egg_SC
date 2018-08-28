@@ -22,7 +22,7 @@
 			
 			<span class='recipe_title'>泰式炒河</span>
 			<p class='title_body'>
-					在家中輕鬆炮製出經典泰式滋味。只要準備好一切所需材料，10分钟內可即刻上碟。
+					在家中轻松炮制出经典泰式滋味。只要准备好一切所需材料，10分钟内可立即上碟。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -83,7 +83,7 @@
 						<span>1汤匙(15毫升)</span>
 						<span>1茶匙(5毫升)</span>
 						<span>6汤匙(90毫升)</span>
-						<span>將1/2磅(0.3千克)</span>
+						<span>将1/2磅(0.3千克)</span>
 						<span>6盎司(175克)</span>
 						<span>1/4茶匙(1.25毫升)</span>
 						<span>4只</span>
@@ -107,28 +107,26 @@
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
 	                	<span>河粉</span>
-	                	<span>泰式甜辣醬</span>
-	                	<span>蠔油</span>
-	                	<span>青檸汁</span>
-	                	<span>魚露</span>
+	                	<span>泰式甜辣酱</span>
+	                	<span>蚝油</span>
+	                	<span>青柠汁</span>
+	                	<span>鱼露</span>
 	                	<span>茄汁</span>
-	                	<span>豉油</span>
-	                	<span>蒜頭(切碎)</span>
-	                	<span>生薑蓉</span>
-	                	<span>紅糖</span>
+	                	<span>酱油</span>
+	                	<span>大蒜(切碎)</span>
+	                	<span>生姜蓉</span>
+	                	<span>红糖</span>
 	                	<span>芥花籽油</span>
-	                	<span>中蝦(剝殼，去尾，拍乾)</span>
-	                	<span>硬豆腐(切方
-块
-，拍乾)</span>
-	                	<span>鹽</span>
+	                	<span>中虾(剥壳，去尾，拍干)</span>
+	                	<span>硬豆腐(切方块，拍干)</span>
+	                	<span>盐</span>
 	                	<span>鸡蛋(打散)</span>
-	                	<span>芽菜</span>
-	                	<span>香蔥(切碎)</span>
+	                	<span>豆芽</span>
+	                	<span>香葱(切碎)</span>
 	                	<span>烘煎花生(切碎)</span>
-	                	<span>新鮮芫茜葉</span>
-	                	<span>青檸</span>
-	                	<span>泰國辣椒</span>
+	                	<span>新鲜芫茜叶</span>
+	                	<span>青柠</span>
+	                	<span>泰国辣椒</span>
 
 	                </div>
                 </div>
@@ -142,7 +140,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將河粉放入大型耐熱碗中，倒入滾水至完全覆蓋。蓋上蓋子，靜置10分钟。瀝乾過冷河。
+						<div class="col-xs-10 col-xs-offset-1 step_body">将河粉放入大型耐热碗中，倒入沸水至完全覆盖。盖上盖子，静置10分钟。沥干，用冷水或冰水冲洗。
 
 
 </div>
@@ -151,7 +149,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">混合甜辣醬、蠔油、青檸汁、魚露、茄汁、豉油、蒜頭、薑蓉和糖，攪勻備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">混合甜辣酱、蚝油、青柠汁、鱼露、茄汁、酱油、大蒜、姜蓉和糖，搅匀备用。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -159,21 +157,22 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在炒鍋或大型防黏平底鍋中，用中高火燒熱2汤匙(30毫升)油。將蝦仁炒1-2分钟至粉紅色。盛起備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在炒锅或大型防黏平底锅中，用中高火烧热2汤匙（30毫升）油。将虾仁炒1-2分钟至粉红色。盛起备用。
 
 						</div>
 							<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入2汤匙(30毫升)油、豆腐和鹽入鍋。將豆腐炒1-2分钟至金黃色。盛起備用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入2汤匙（30毫升）油、豆腐和盐入锅。将豆腐炒1-2分钟至金黄色。盛起备用。
 
 						</div>
 							<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將剩餘的油倒入鍋中。炒蛋1分钟，加入河粉和醬料，炒3-4分钟。將豆腐和蝦仁放回鍋中翻炒1-2分钟，直到炒熟蝦仁，河粉透明軟身。
+						<div class="col-xs-10 col-xs-offset-1 step_body">将剩余的油倒入锅中。炒蛋1分钟，加入河粉和酱料，炒3-4分钟。将豆腐和虾仁放回锅中翻炒1-2分钟，直到炒熟虾仁，河粉透明软身。
+
 
 
 						</div>
@@ -181,7 +180,7 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用豆芽、香蔥、花生和芫茜裝飾。伴以青檸和泰國辣椒食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">用豆芽、香葱、花生和芫茜装饰。伴以青柠和泰国辣椒食用。
 
 						</div>
 							<hr class='hr1'>
@@ -190,10 +189,9 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可選用雞片代替中蝦。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可隨
-个
-人口味酌量添加或省略辣椒。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可选用鸡片代替中虾。
+</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可随个人口味酌量添加或省略辣椒。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -212,21 +210,21 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/spinach-and-mushroom-soba-noodle-soup">
 									<img class='recipes_img' src='/images/recipes/Spinach-and-Mushroom-Soba-Noodle-Soup-small_r.jpg' />
-									<div class='name ' >菠菜蘑菇蕎麥湯麵</div>
+									<div class='name ' >菠菜蘑菇荞麦汤面</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/spaghetti-carbonara">
 									<img class='recipes_img' src='/images/recipes/Spaghetti-Carbonara-small_r.jpg' />
-									<div class='name ' >卡邦尼意粉</div>
+									<div class='name ' >卡邦尼奶油培根意大利面</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/mushroom-fried-rice-with-crispy-egg">
 									<img class='recipes_img' src='/images/recipes/Mushroom-Fried-Rice-with-Crispy-Egg-small_r.jpg' />
-									<div class='name ' >蘑菇脆香煎蛋炒飯</div>
+									<div class='name ' >蘑菇脆香煎蛋炒饭</div>
 								</a>
 		     			</div>
 				</div>		

@@ -126,20 +126,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">置瑶柱于一碗开水中</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">置瑶柱于一碗开水中。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用锅烧开2升水，水开后小心放入装有瑶柱的碗，加盖隔水蒸60分钟，令瑶柱变软
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅烧开2升水，水开后小心放入装有瑶柱的碗，加盖隔水蒸60分钟，令瑶柱变软。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">待瑶柱变凉后拆丝备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">待瑶柱变凉后拆丝备用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -147,7 +147,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用另一个较小的锅烧开1升水，放入猪肉碎烫3分钟，捞出备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用另一个较小的锅烧开1升水，放入猪肉碎烫3分钟，捞出备用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -155,7 +155,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗内将鸡蛋4个、清鸡汤280毫升，和盐、糖各½茶匙搅匀，将蛋汤注入浅瓷盘，包上保鲜膜
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗内将鸡蛋4个、清鸡汤280毫升，和盐、糖各½茶匙搅匀，将蛋汤注入浅瓷盘，包上保鲜膜。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -163,7 +163,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将凉水2升倒入大锅，放入浅瓷盘，用中火隔水蒸20分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">将凉水2升倒入大锅，放入浅瓷盘，用中火隔水蒸20分钟。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -171,7 +171,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起锅热油1茶匙，放入第4步烫熟的猪肉碎、第3步的瑶柱丝、清鸡汤100毫升，用盐、糖各½茶匙和白胡椒粉¼茶匙调味，煮1分钟，用生粉½茶匙慢慢搅拌勾芡
+						<div class="col-xs-10 col-xs-offset-1 step_body">起锅热油1茶匙，放入第4步烫熟的猪肉碎、第3步的瑶柱丝、清鸡汤100毫升，用盐、糖各½茶匙和白胡椒粉¼茶匙调味，煮1分钟，用生粉½茶匙慢慢搅拌勾芡。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -179,7 +179,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 8</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋应已完成，去除保鲜膜，往蒸蛋上倒入第7步准备好的汤汁，撒上葱花即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">第6步的蒸蛋应已完成，去除保鲜膜，往蒸蛋上倒入第7步准备好的汤汁，撒上葱花即可享用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -189,7 +189,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍:</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">  瑶柱除了可以蒸软，也可以用水泡过夜</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">  瑶柱除了可以蒸软，也可以用水泡过夜。</div>
 
 						<hr class='hr1'>
 						
@@ -203,26 +203,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
-			     			</a>
+		     				<a href="/Blck-Bn-Shrmp-Egg-White">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-008-Final-web.jpg' />
+									<div class='name ' >广东蛋花虾龙糊</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/Duo-Egg-Pearl">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-009-Final-web.jpg' />
+									<div class='name ' >猪骨浓汤菜苗伴鸳鸯蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Foie-gras-roulade-with-egg-sheet-and-nori">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-			     				<div class='name'>
-			     					紫菜鵝肝蛋皮卷
-								</div>
-			     			</a>
+		     				<a href="/St-Egg-Wht-Sea-Treasure">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
+									<div class='name ' >海皇扒蒸蛋白</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

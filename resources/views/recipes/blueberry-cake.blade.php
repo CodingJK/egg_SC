@@ -165,7 +165,7 @@ Jill和Sharon的这款蛋糕，卖相美观，做法简单。新斯科舍省野�
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用果仁代替野生蓝莓，炮制另一番滋味。用1/4杯（50毫升）多用途面粉代替1/3杯（75毫升）糖，加入1/2杯（125毫升）杏仁碎或核桃碎即可。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可选用果仁代替野生蓝莓，炮制另一番滋味。用1/4杯(50毫升)多用途面粉代替1/3杯(75毫升)糖，加入1/2杯(125毫升)杏仁碎或核桃碎即可。</div>
 						
 						
 

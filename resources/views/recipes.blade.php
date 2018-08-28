@@ -181,7 +181,8 @@
 
 						
 						</div>
-
+						
+						<hr>
 						<div id='title_com'>主菜</div>
 						
 						<div class='row text-center'>
@@ -279,7 +280,7 @@
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/shrimp-and-egg-fried-rice">
 									<img class='recipes_img' src='/images/recipes/Shrimp-and-Egg-Fried-Rice-small_r.jpg' />
-									<div class='name ' >蝦仁滑蛋炒飯</div>
+									<div class='name ' >虾仁滑蛋炒饭</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
@@ -291,55 +292,55 @@
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/spinach-and-mushroom-soba-noodle-soup">
 									<img class='recipes_img' src='/images/recipes/Spinach-and-Mushroom-Soba-Noodle-Soup-small_r.jpg' />
-									<div class='name ' >菠菜蘑菇蕎麥湯麵</div>
+									<div class='name ' >菠菜蘑菇荞麦汤面</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/okonomiyaki">
 									<img class='recipes_img' src='/images/recipes/Okonomiyaki-small_r.jpg' />
-									<div class='name ' >大阪燒</div>
+									<div class='name ' >大阪烧</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/mushroom-fried-rice-with-crispy-egg">
 									<img class='recipes_img' src='/images/recipes/Mushroom-Fried-Rice-with-Crispy-Egg-small_r.jpg' />
-									<div class='name ' >蘑菇脆香煎蛋炒飯</div>
+									<div class='name ' >蘑菇脆香煎蛋炒饭</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/spaghetti-carbonara">
 									<img class='recipes_img' src='/images/recipes/Spaghetti-Carbonara-small_r.jpg' />
-									<div class='name ' >卡邦尼意粉</div>
+									<div class='name ' >卡邦尼奶油培根意大利面</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/cedar-plank-salmon-with-nicoise-relish">
 									<img class='recipes_img' src='/images/recipes/Cedar-Plank-Salmon-small_r.jpg' />
-									<div class='name ' >雪松木板三文魚配尼斯醬</div>
+									<div class='name ' >雪松木板三文鱼配尼斯酱</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/poached-egg-over-roasted-asparagus">
 									<img class='recipes_img' src='/images/recipes/Poached-Egg-over-Roasted-Asparagus-small_r.jpg' />
-									<div class='name ' >烤蘆筍流心蛋</div>
+									<div class='name ' >烤芦笋流心蛋</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/grilled-eggs-in-portobello-mushrooms">
 									<img class='recipes_img' src='/images/recipes/Grilled-Eggs-in-Portobello-Mushrooms-small_r.jpg' />
-									<div class='name ' >芝士雞蛋焗大蘑菇</div>
+									<div class='name ' >奶酪鸡蛋烤大蘑菇</div>
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
 								<a href="/baked-eggs-extraordinaire">
 									<img class='recipes_img' src='/images/recipes/Baked-Eggs-Extraordinaire-small_r.jpg' />
-									<div class='name ' >香草芝士焗蛋</div>
+									<div class='name ' >香草奶酪烤蛋</div>
 									
 								</a>
 							</div>
 						</div>
 
-						
+						<hr>
 						
 						<div id='title_com'>甜品</div>
 						

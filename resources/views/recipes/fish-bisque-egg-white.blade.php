@@ -113,39 +113,39 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">斑肉切成薄片，每片厚度约3至5毫米，大小约5厘米乘5厘米。蘑菇亦切成薄片备用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">斑肉切成薄片，每片厚度约3至5毫米，大小约5厘米乘5厘米。蘑菇亦切成薄片备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一个小锅内将清鸡汤850毫升加盖煮沸3分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个小锅内将清鸡汤850毫升加盖煮沸3分钟。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">3分钟后在沸腾的汤内放入斑肉、蘑菇，加入糖、盐各½茶匙和白胡椒粉¼茶匙搅匀调味</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">3分钟后在沸腾的汤内放入斑肉、蘑菇，加入糖、盐各½茶匙和白胡椒粉¼茶匙搅匀调味。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用生粉57克勾芡使汤变稠</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用生粉57克勾芡使汤变稠。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">关火后倒入蛋白打圈轻搅</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">关火后倒入蛋白打圈轻搅。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将汤倒入4个碗中，加香菜点缀即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将汤倒入4个碗中，加香菜点缀即可享用。</div>
 						<hr class='hr1'>
 					</div>
 					

@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：6人份</li>
+					<li class='recipe_worlds'>份量: 6人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间：5分钟</li>
+					<li class='recipe_worlds'>准备时间: 5分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间：12分钟</li>
+					<li class='recipe_worlds'>烹调时间: 12分钟</li>
 				</ul>
 			</div>
 
@@ -103,26 +103,26 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用一个大的平底锅或用微波炉煮熟培根</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用一个大的平底锅或用微波炉煮熟培根。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在煮培根的同时，在一个中碗内将鸡蛋打散搅匀，然后加玉米、洋葱粉和胡椒粉继续搅拌
+						<div class="col-xs-10 col-xs-offset-1 step_body">在煮培根的同时，在一个中碗内将鸡蛋打散搅匀，然后加玉米、洋葱粉和胡椒粉继续搅拌。
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">从锅中取出培根，快速切碎，加到蛋液中</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">从锅中取出培根，快速切碎，加到蛋液中。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋液倒入热平底锅，随着蛋液凝固，轻轻用小铲贴着锅底及从边缘推拌，形成大片松软的蛋凝乳，炒至蛋液变粘稠但仍然松软为止</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋液倒入热平底锅，随着蛋液凝固，轻轻用小铲贴着锅底及从边缘推拌，形成大片松软的蛋凝乳，炒至蛋液变粘稠但仍然松软为止。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -146,25 +146,23 @@
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/English-Muffin-Bacon-Tomato-Fried-Egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-01-Final-web.jpg' />
-			     				<div class='name'>番茄培根煎蛋早餐三明治</div>
-			     			</a>
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
+									<div class='name'>番茄培根煎蛋早餐三明治</div>
+							</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/bittaraAppa">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-05-Final-web.jpg' />
-			     				<div class='name'>Bittara Appa – Sri Lankan Egg Hoppers</div>
-			     			</a>
+		     				<a href="/ham-and-cheese-omelette-roll-ups">
+									<img class='recipes_img' src='/images/recipes/Ham-and-Cheese-Omelette-Roll-Ups-small_r.jpg' />
+									<div class='name'>奶酪火腿欧姆蛋卷</div>
+							</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/grandmaIndian">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-			     				<div class='name'>
-			     					Grandma’s Indian-style Omelette
-								</div>
-			     			</a>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣鳄梨吐司</div>
+							</a>
 		     			</div>
 				</div>		
 			</div>

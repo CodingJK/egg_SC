@@ -114,20 +114,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用一小锅加盖烧开1升水，一烧开立即离火</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用一小锅加盖烧开1升水，一烧开立即离火。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将蚝肉浸入开水中10分钟，然后取出放在砧板上切粒 
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蚝肉浸入开水中10分钟，然后取出放在砧板上切粒。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋打进一个大碗，加入蚝肉粒、葱花，盐、糖各⅓茶匙搅匀
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋打进一个大碗，加入蚝肉粒、葱花，盐、糖各⅓茶匙搅匀。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -135,7 +135,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用慢火烧炒锅，下油2茶匙，倒入上一步骤的蚝粒蛋液煎成饼，每面煎2分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">用慢火烧炒锅，下油2茶匙，倒入上一步骤的蚝粒蛋液煎成饼，每面煎2分钟。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -143,7 +143,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">翻转到碟子上伴香菜即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">翻转到碟子上伴香菜即可享用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -157,27 +157,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
-			     			</a>
+		     				<a href="/okonomiyaki">
+									<img class='recipes_img' src='/images/recipes/Okonomiyaki-small_r.jpg' />
+									<div class='name ' >大阪烧</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/EggsMakhani">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-18-Final-web.jpg' />
-			     				<div class='name'>Eggs Makhani</div>
-			     			</a>
+		     				<a href="/poached-egg-over-roasted-asparagus">
+									<img class='recipes_img' src='/images/recipes/Poached-Egg-over-Roasted-Asparagus-small_r.jpg' />
+									<div class='name ' >烤芦笋流心蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Boiled-Egg-Oolong-Tea">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>
-			     					乌龙茶叶蛋
-
-								</div>
-			     			</a>
+		     				<a href="/chinese-crepes">
+									<img class='recipes_img' src='/images/recipes/chinese-crepes-small_r.jpg' />
+									<div class='name ' >中式薄饼</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

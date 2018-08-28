@@ -120,19 +120,19 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋到碗中，搅匀</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋到碗中，搅匀。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一个深锅内下油1升，热3-5分钟至足够热。慢慢倒入蛋液并同时轻轻搅动热油，将蛋搅成细丝，可使用漏勺。捞起蛋丝备用。如果觉得蛋丝太油，可用厨纸吸收多余油分
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个深锅内下油1升，热3-5分钟至足够热。慢慢倒入蛋液并同时轻轻搅动热油，将蛋搅成细丝，可使用漏勺。捞起蛋丝备用。如果觉得蛋丝太油，可用厨纸吸收多余油分。
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在锅内倒入清水2升烧开，放入猪肉、椰菜、木耳、胡萝卜、竹笋和冬菇丝烫3分钟，捞起沥干水分备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">在锅内倒入清水2升烧开，放入猪肉、椰菜、木耳、胡萝卜、竹笋和冬菇丝烫3分钟，捞起沥干水分备用。
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -140,7 +140,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将木须皮放入蒸笼，烧开一锅水并把蒸笼放入锅中，须高于水位(锅和蒸笼尺寸应匹配)，蒸5分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">将木须皮放入蒸笼，烧开一锅水并把蒸笼放入锅中，须高于水位(锅和蒸笼尺寸应匹配)，蒸5分钟。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -148,7 +148,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">锅中下油2茶匙加热，将姜丝、蒜蓉入锅爆香，放入烫过的猪肉、椰菜、木耳、胡萝卜、竹笋和冬菇丝，再加入蛋丝，用盐、糖各½茶匙和老抽1茶匙调味，炒3分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">锅中下油2茶匙加热，将姜丝、蒜蓉入锅爆香，放入烫过的猪肉、椰菜、木耳、胡萝卜、竹笋和冬菇丝，再加入蛋丝，用盐、糖各½茶匙和老抽1茶匙调味，炒3分钟。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -158,7 +158,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将炒好的木须肉分成8份，放入准备好的木须皮，包成半月形
+						<div class="col-xs-10 col-xs-offset-1 step_body">将炒好的木须肉分成8份，放入准备好的木须皮，包成半月形。
 						</div>
 						<hr class='hr1'>
 					</div>
@@ -166,7 +166,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟即可享用。
 						</div>
 						<hr class='hr1'>
 					</div>

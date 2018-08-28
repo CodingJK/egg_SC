@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>香草芝士焗蛋</span>
+			<span class='recipe_title'>香草奶酪烤蛋</span>
 			<p class='title_body'>
-					特別鳴謝Manitoba Egg Farmers www.eggs.mb.ca/ 提供食谱
+					特别鸣谢Manitoba Egg Farmers www.eggs.mb.ca/ 提供食谱
 
 			</p>
 
@@ -96,15 +96,15 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>芥花籽油</span>
-	                	<span>細洋蔥(切粒)</span>
-	                	<span>蒜頭(切碎)</span>
-	                	<span>紅辣椒碎</span>
+	                	<span>细洋葱(切粒)</span>
+	                	<span>大蒜(切碎)</span>
+	                	<span>红辣椒碎</span>
 	                	<span>中型蕃茄(切粒)</span>
 	                	<span>牛至</span>
 	                	<span>胡椒</span>
-	                	<span>新鮮刁草(切碎)</span>
-	                	<span>新鮮香芹(切碎)</span>
-	                	<span>菲達芝士碎</span>
+	                	<span>新鲜莳萝(切碎)</span>
+	                	<span>新鲜香芹(切碎)</span>
+	                	<span>菲达奶酪碎</span>
 	                	<span>鸡蛋</span>
 	                </div>
                 </div>
@@ -118,7 +118,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至425°F(220°C)。
+						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱至425°F(220°C)。
 
 
 
@@ -130,7 +130,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在中型平底鍋用中火燒熱油。加入洋蔥，炒5-7分钟至軟熟。加入蒜頭和紅辣椒，炒1分钟至香味散發。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在中型平底锅用中火烧热油。加入洋葱，炒5-7分钟至软熟。加入大蒜和红辣椒，炒1分钟至香味散发。
 
 						</div>
 							<hr class='hr1'>
@@ -139,7 +139,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入番茄、牛至和胡椒粉，慢火煮5-10分钟至醬汁濃稠。熄火，拌入新鮮香草和菲達芝士。芝士糊倒入8×8吋(20×20厘米)的烤盤中。
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入番茄、牛至和胡椒粉，慢火煮5-10分钟至酱汁浓稠。关火，拌入新鲜香草和菲达奶酪。奶酪糊倒入8×8英寸（20×20厘米）的烤盘中。
 
 
 						</div>
@@ -147,9 +147,7 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用匙羹在芝士糊壓四
-个
-洞，打入鸡蛋。
+						<div class="col-xs-10 col-xs-offset-1 step_body">用勺子在奶酪糊压四个洞，打入鸡蛋。
 
 
 						</div>
@@ -157,7 +155,7 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放入已經預熱的焗爐中，焗12-15分钟直至醬汁起泡，鸡蛋凝固即成。可供4人食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">放入已经预热的烤箱中，烤12-15分钟直至酱汁起泡，鸡蛋凝固即成。可供4人食用。
 
 
 
@@ -197,7 +195,7 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/St-Egg-Mncd-Pork">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
-									<div class='name ' >瑤柱肉末蒸滑蛋</div>
+									<div class='name ' >瑶柱肉末蒸滑蛋</div>
 								</a>
 		     			</div>
 				</div>		

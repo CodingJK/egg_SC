@@ -5,14 +5,6 @@
 			$(window).ready(function(){
 				$(".nav_parent").css('background-color','white');
 				$("#nav").css('background-color','white');
-				// $(".nav-justified a").css('border-color','white');
-				// $(".nav-justified a").css('color','black');
-				// $(".nav-justified a").mouseenter( function(){
-				// 	$(this).css('border-color','#ffcd32');
-				// } ).mouseleave(  function(){
-				// 	$(this).css('border-color','white');
-				// } );
-				// $(".reciptes_link").css('color','#ffcd32');
 			});
 		</script>
 
@@ -22,20 +14,21 @@
 			<a href="/Recipes" id='back_to_recipes'>
 				<ul>
 					<li><img src="/images/icons/back.png" alt="" id='back_to_recipes_img'></li>
-					<li class='recipes_back'>食谱</li>
+					<li class='recipes_back'>食譜</li>
 				</ul>
 			</a>
 			
 				
 			
-			<span class='recipe_title'>广东蛋花虾龙糊</span>
+			<span class='recipe_title'>奶酪鸡蛋烤大蘑菇</span>
 			<p class='title_body'>
-此食谱据认为是起源于美国而非中国。从60年代后期开始，它就开始逐渐出现在美国中餐馆的菜谱上。黑豉汁的味道能取悦每个人的口味。它的做法简单，搭配炒饭食用最佳。
+					蘑菇天生呈深碗形状，肥大肉厚，酿入一只鸡蛋刚刚好。洒上奶酪碎、胡椒粉和/或新鲜香草，即成勾人食欲的美点。
+
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
 				
-				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.EggHiSuperstar.com%2FTikkaMasala&src=sdkpreparse' style='padding-right:15px'>
+				<a target="_blank" href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.EggHiSuperstar.com%2FdevilledEggs&src=sdkpreparse' style='padding-right:15px'>
 					<img id='fb' src='./images/social/eggs101/egg_socialMediaIconSet_facebook.png' />
 				</a>
 				<a target="_blank" href='https://twitter.com/intent/tweet?text={{url()->current()}}' >
@@ -53,17 +46,17 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-008-Final-large.jpg" alt="">
+				<img src="/images/recipes/Grilled Eggs in Portobello Mushrooms-big.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：4人份</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间： 10分钟</li>
+					<li class='recipe_worlds'>準備時間: 5分鐘</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间： 10分钟</li>
+					<li class='recipe_worlds'>烹調時間: 12分鐘</li>
 				</ul>
 			</div>
 
@@ -77,46 +70,30 @@
            
                 
  				<div class="ingredients" style='clear: both'>
+ 					
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	<span>3个</span>
-	                	<span>227克</span>
-	                	<span>2茶匙</span>
-	                	<span>113克</span>
-	                	<span>½茶匙</span>
-	                	<span>½茶匙</span>
-	                	<span>1½茶匙</span>
-	                	<span>200亳升</span>
-	                	<span>½茶匙</span>
-	                	<span>½茶匙</span>
-	                	<span>28克</span>
-	                	<span>28克</span>
+	                	
+						<span>4个</span>
+						<span>&nbsp;</span>
+						<span>4只</span>
+						<span>&nbsp;</span>
+						<span>4汤匙(60毫升)</span>
+
+
+	                	
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
+	                	<span>大蘑菇（直径约4英寸/10厘米）</span>
+	                	<span>橄榄油</span>
 	                	<span>鸡蛋</span>
-	                	<span>虾仁</span>
-	                	<span>您喜欢的食用油</span>
-	                	<span>猪肉碎</span>
-	                	<span>蒜蓉</span>
-	                	<span>姜蓉</span>
-	                	<span>黑豉汁</span>
-	                	<span>清鸡汤</span>
-	                	<span>盐</span>
-	                	<span>糖</span>
-	                	<span>生粉</span>
-	                	<span>葱花
-</span>
+	                	<span>胡椒粉</span>
+	                	<span>帕尔玛奶酪碎</span>
 	                </div>
                 </div>
-
-
                 
-
                 
-           
-
-              
-
+			
 
 				<div class="step">
 
@@ -124,63 +101,81 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋到碗中，搅匀备用。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱至425°F(220°C)。
+
+
+
+
+</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用锅煮沸1升水，放入虾仁烫1至2分钟，捞出备用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">用干纸巾擦拭蘑菇，去茎。
 						</div>
 							<hr class='hr1'>
 					</div>
 
+					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">烧炒锅下油1茶匙，放入猪肉碎炒2分钟备用。
-</div>
-						<hr class='hr1'>
-					</div>
-					<hr>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用匙羹刮去菇内黑色的箘鳃，注意不要弄破蘑菇。
 
+
+						</div>
+							<hr class='hr1'>
+					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">烧热同一个炒锅，下油1茶匙，加蒜蓉、姜蓉各½茶匙，黑豉汁1½茶匙爆香。
-</div>
-						<hr class='hr1'>
-					</div>
-					<hr>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在蘑菇表面涂一层油。菇面向下放在烤盘上，将鸡蛋打入每个蘑菇中。盖上盖子，烤12-15分钟至鸡蛋达到你想要的熟度，蘑菇变软熟。
 
+
+
+						</div>
+							<hr class='hr1'>
+					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">倒入清鸡汤200毫升至炒锅中，加入第2步煮熟的虾仁、第3步的炒猪肉，用盐、糖各½茶匙调味，煮1分钟，再用生粉28克勾芡。
-</div>
-						<hr class='hr1'>
+						<div class="col-xs-10 col-xs-offset-1 step_body">从烤盘盛起，在每只蛋撒上胡椒粉和1汤匙(15毫升)奶酪。
+
+
+
+						</div>
+							<hr class='hr1'>
 					</div>
+				
+					
+					
 					<hr>
-
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">离火，慢慢绕圈倒入第1步的蛋液，轻轻搅成蛋花。
-</div>
-						<hr class='hr1'>
-					</div>
-					<hr>
-
-					
-
-					
-
-					
-
 					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12">步骤 7</h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟下葱花即可享用。</div>
+						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">择形状良好的大蘑菇，方便在烹调时更易将鸡蛋倒入蘑菇帽。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可以先将每个鸡蛋打入细杯中，再慢慢倒入蘑菇。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">如果烤箱稍微倾斜，可卷起一小块烤箱纸来支撑蘑菇，防止鸡蛋滑落。</div>
+
 						<hr class='hr1'>
 						
 					</div>
+					<div class="steps col-xs-12  text-center">
+
+						<h1 class="col-xs-12"><b>其他做法：</b></h1>
+						<div class="col-xs-10 col-xs-offset-1 step_body">随个人喜好，在鸡蛋撒上不同奶酪。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">鸡蛋熟后，将新鲜香草(如百里香、韭菜或香芹)洒在上面。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入鸡蛋前，先将一薄片火腿醸入蘑菇中。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">配以水果或沙拉上碟，或夹在烘好的面包炮制蘑菇汉堡。
+
+</div>
+
+						<hr class='hr1'>
+						
+					</div>
+				
+
 				</div>
+
+	
                 
 			</div>
 			
@@ -190,31 +185,28 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/spinach-and-mushroom-soba-noodle-soup">
 									<img class='recipes_img' src='/images/recipes/Spinach-and-Mushroom-Soba-Noodle-Soup-small_r.jpg' />
-									<div class='name ' >菠菜蘑菇蕎麥湯麵</div>
+									<div class='name ' >菠菜蘑菇荞麦汤面</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/St-Egg-Mncd-Pork">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
-									<div class='name ' >瑤柱肉末蒸滑蛋</div>
+		     				<a href="/poached-egg-over-roasted-asparagus">
+									<img class='recipes_img' src='/images/recipes/Poached-Egg-over-Roasted-Asparagus-small_r.jpg' />
+									<div class='name ' >烤芦笋流心蛋</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Steamed-crab-claw-with-egg-whites">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
-									<div class='name ' >白玉蒸蟹鉗</div>
+		     				<a href="/baked-eggs-extraordinaire">
+									<img class='recipes_img' src='/images/recipes/Baked-Eggs-Extraordinaire-small_r.jpg' />
+									<div class='name ' >香草奶酪烤蛋</div>
+									
 								</a>
 		     			</div>
 				</div>		
 			</div>
-
-			
-				
 			</div>
 		</div>
-
 	</div>
 		
 <!-- Modal -->
@@ -225,59 +217,53 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">营养成分</h1>
+        <h1 class="modal-title">營養成分</h1>
       
       <div class="modal-body">
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>228 </td>
+        		<td class='text-right'>134
+ </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>13克
-</td>
+        		<td class='text-right'>9克</td>
         	</tr>
         	<tr>
         		<td><b>饱和脂肪</b></td>
-        		<td class='text-right'>3.5克
-
-</td>
+        		<td class='text-right'>2.5克</td>
         	</tr>
         	<tr>
         		<td><b>反式脂肪</b>  </td>
-        		<td class='text-right'>0克
-
-</td>
+        		<td class='text-right'>0克</td>
         	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>780毫克
-
+        		<td class='text-right'>150毫克
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>1克
-
-  </td>
+        		<td class='text-right'>2克
+</td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>18克
-
+        		<td class='text-right'>10克
 </td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
         		<td class='text-right'>1克
-
 </td>
         	</tr>
         	<tr>
-        		<td><b>碳水化合物</b>  </td>
-        		<td class='text-right'>9克</td>
+        		<td><b>碳水化合物</b></td>
+        		<td class='text-right'>5克</td>
         	</tr>
+        	
+        	
         	
         </table>
         <i>每食用份量</i>

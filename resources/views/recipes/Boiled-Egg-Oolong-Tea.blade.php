@@ -109,20 +109,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将鸡蛋放入锅内，倒进凉水浸过鸡蛋至少1英寸(2.5厘米)。加盖，大火烧开后转中火煮15分钟</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将鸡蛋放入锅内，倒进凉水浸过鸡蛋至少1英寸(2.5厘米)。加盖，大火烧开后转中火煮15分钟。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">捞出鸡蛋并放在砧板上
+						<div class="col-xs-10 col-xs-offset-1 step_body">捞出鸡蛋并放在砧板上。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用勺子背敲裂蛋壳，但不要剥掉，待用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用勺子背敲裂蛋壳，但不要剥掉，待用。
 
 </div>
 						<hr class='hr1'>
@@ -131,8 +131,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用另一个锅准备茶汤。将550毫升水倒入锅内，加入酱油70毫升、乌龙茶叶14克、香叶4片、八角4个和桂皮2片，中火煮20分钟，下糖和盐各1茶匙
-
+						<div class="col-xs-10 col-xs-offset-1 step_body">用另一个锅准备茶汤。将550毫升水倒入锅内，加入酱油70毫升、乌龙茶叶14克、香叶4片、八角4个和桂皮2片，中火煮20分钟，下糖和盐各1茶匙。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -140,7 +139,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">离火后将鸡蛋放入茶汤内浸泡5小时
+						<div class="col-xs-10 col-xs-offset-1 step_body">离火后将鸡蛋放入茶汤内浸泡5小时。
 
 </div>
 						<hr class='hr1'>
@@ -149,7 +148,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">放至室温，剥壳即可享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">放至室温，剥壳即可享用。
 
 </div>
 						<hr class='hr1'>

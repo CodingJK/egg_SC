@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>雪松木板三文魚配尼斯醬</span>
+			<span class='recipe_title'>雪松木板三文鱼配尼斯酱</span>
 			<p class='title_body'>
-					特別鳴謝Lynn Crawford廚師提供食谱
+					特别鸣谢Lynn Crawford厨师提供食谱
 
 			</p>
 
@@ -70,7 +70,7 @@
            
                 
  				<div class="ingredients" style='clear: both'>
- 					<div class='recipes_subtitle'>三文魚</div>
+ 					<div class='recipes_subtitle'>三文鱼</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
 	                	
@@ -91,15 +91,13 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>蜜糖芥末</span>
-	                	<span>紅糖</span>
-	                	<span>橄欖油</span>
-	                	<span>檸檬皮</span>
-	                	<span>鹽</span>
+	                	<span>红糖</span>
+	                	<span>橄榄油</span>
+	                	<span>柠檬皮</span>
+	                	<span>盐</span>
 	                	<span>胡椒粉</span>
-	                	<span>中間部份三文魚柳去皮去骨(或4
-块
-6至8安士/ 170-225克)</span>
-	                	<span>未經處理的雪松木板</span>
+	                	<span>中间部份三文鱼柳去皮去骨(或4块6至8盎司/ 170-225克)</span>
+	                	<span>未经处理的雪松木板</span>
 	                </div>
                 </div>
                 <div class="ingredients" style='clear: both'>
@@ -111,9 +109,7 @@
 						<span>1汤匙(15毫升)</span>
 						<span>1茶匙(5毫升)</span>
 						<span>1汤匙(15毫升)</span>
-						<span>(隨
-个
-人口味添加)</span>
+						<span>(随个人口味添加)</span>
 						<span>1杯(250毫升)</span>
 						<span>1/2杯(125毫升)</span>
 						<span>1/2杯(125毫升)</span>
@@ -125,17 +121,17 @@
  	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>特級初榨橄欖油</span>
+	                	<span>特级初榨橄榄油</span>
 	                	<span>雪利酒醋</span>
 	                	<span>蜜糖芥末</span>
-	                	<span>紅蔥頭(切碎)</span>
+	                	<span>红葱头(切碎)</span>
 	                	<span>
 盐和胡椒粉
 </span>
-	                	<span>櫻桃番茄(切粒)</span>
+	                	<span>樱桃番茄(切粒)</span>
 	                	<span>青瓜(切粒)</span>
 	                	<span>四季豆(切粒)</span>
-	                	<span>尼斯橄欖(去核切碎)</span>
+	                	<span>尼斯橄榄(去核切碎)</span>
 	                	<span>韭菜碎</span>
 	                	<span>香芹(切碎)</span>
 	                	<span>大鸡蛋(全熟切碎)</span>
@@ -145,11 +141,11 @@
 
 				<div class="step">
 
-					<div class='recipes_subtitle'>三文魚:</div>
+					<div class='recipes_subtitle'>三文鱼:</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如時間許可，將雪松木板放在水中浸泡至少30分钟或過夜。
+						<div class="col-xs-10 col-xs-offset-1 step_body">如时间许可，将雪松木板放在水中浸泡至少30分钟或过夜。
 
 
 
@@ -161,7 +157,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">如用烤盤，預熱至425°F(220°C)。
+						<div class="col-xs-10 col-xs-offset-1 step_body">如用烤盘，预热至425°F(220°C)。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -169,9 +165,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在細碗中混合蜜糖芥末、紅糖、橄欖油、檸檬皮、
-盐和胡椒粉
-。塗抹在三文魚肉上，在室溫下醃15分钟。將三文魚平放在木板上。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在细碗中混合蜜糖芥末、红糖、橄榄油、柠檬皮、盐和胡椒粉。涂抹在三文鱼肉上，在室温下腌15分钟。将三文鱼平放在木板上。
 
 
 						</div>
@@ -179,26 +173,23 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蓋上蓋子烤13-15分钟至三文魚剛好熟透，魚邊微焦。食用前讓三文魚在木板上待涼5分钟，配以尼斯醬食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">蓋上蓋子烤13-盖上盖子烤13-15分钟至三文鱼刚好熟透，鱼边微焦。食用前让三文鱼在木板上待凉5分钟，配以尼斯酱食用。
+
 
 
 						</div>
 							<hr class='hr1'>
 					</div>
-					<div class='recipes_subtitle'>尼斯醬:</div>
+					<div class='recipes_subtitle'>尼斯酱:</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在細碗中混合橄欖油、雪利酒醋、蜜糖芥末、紅蔥頭、适量
-
-盐和胡椒粉
-。
-
+						<div class="col-xs-10 col-xs-offset-1 step_body">在细碗中混合橄榄油、雪利酒醋、蜜糖芥末、红葱头、适量盐和胡椒粉。
 						</div>
 							<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在中型碗中混合蕃茄、青瓜、四季豆、橄欖、韭菜和香芹。加入先前預備好的醬汁，將切碎的蛋粒拌入，即可食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在中型碗中混合蕃茄、青瓜、四季豆、橄榄、韭菜和香芹。加入先前预备好的酱汁，将切碎的蛋粒拌入，即可食用。
 
 
 
@@ -222,7 +213,7 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Wk-Frd-Lbstr-Egg-Rainbow">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-007-Final-web.jpg' />
-									<div class='name ' >鴛鴦芙蓉龍蝦球</div>
+									<div class='name ' >鸳鸯芙蓉龙虾球</div>
 								</a>
 		     			</div>
 
@@ -236,7 +227,7 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/baked-eggs-extraordinaire">
 									<img class='recipes_img' src='/images/recipes/Baked-Eggs-Extraordinaire-small_r.jpg' />
-									<div class='name ' >香草芝士焗蛋</div>
+									<div class='name ' >香草奶酪烤蛋</div>
 									
 								</a>
 		     			</div>

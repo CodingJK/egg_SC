@@ -28,9 +28,9 @@
 			
 				
 			
-			<span class='recipe_title'>豬骨濃湯菜苗伴鴛鴦蛋</span>
+			<span class='recipe_title'>猪骨浓汤菜苗伴鸳鸯蛋</span>
 			<p class='title_body'>
-				這是「火鍋」的新煮法。其中我們介紹到熬製美味濃湯的方法，亦可用在其他豐富的菜式當中。您可用豆苗代替白菜。
+				这是“火锅”的新煮法。其中我们介绍到熬制美味浓汤的方法，也可用在其他丰富的菜式当中。您可以用豆苗代替白菜。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -63,7 +63,7 @@
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>准备时间: 25分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间: 準備濃湯2小時05分钟+20分钟</li>
+					<li class='recipe_worlds'>烹调时间: 准备浓汤2小时05分钟+20分钟</li>
 				</ul>
 			</div>
 
@@ -92,15 +92,15 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>雞骨</span>
-	                	<span>豬骨</span>
-	                	<span>薑</span>
+	                	<span>鸡骨</span>
+	                	<span>猪骨</span>
+	                	<span>姜</span>
 	                	<span>白胡椒粒</span>
 	                	<span>鸡蛋</span>
 	                	<span>生油</span>
 	                	<span>白菜苗</span>
-	                	<span>杞子</span>
-	                	<span>鹽</span>
+	                	<span>枸杞</span>
+	                	<span>盐</span>
 	                	<span>糖</span>
 	                </div>
                 </div>
@@ -120,26 +120,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用大鍋燒滾2升水，放入雞骨和豬骨煮5分钟，撈出瀝乾水分</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用大锅煮沸2升水，放入鸡骨和猪骨煮5分钟，捞出沥干水分。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用同一
-个
-鍋重新裝2升水，放入上
-个
-步骤的雞骨和豬骨，加薑、白胡椒粒，加蓋用中火煲90分钟，再換大火滾30分钟，成500毫升濃湯。使用湯隔隔渣濾得清湯，備用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用同一个锅重新装2升水，放入上一步骤的鸡骨和猪骨，加姜、白胡椒粒，加盖用中火煲90分钟，再换大火烧30分钟，成500毫升浓汤。使用汤隔隔渣滤得清汤，备用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">分開蛋白和蛋黃入2
-个
-碗中
+						<div class="col-xs-10 col-xs-offset-1 step_body">分离蛋白和蛋黄进2个碗中。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -147,7 +141,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">分別攪勻蛋白和蛋黃
+						<div class="col-xs-10 col-xs-offset-1 step_body">分别搅匀蛋白和蛋黄。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -155,7 +149,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在8只中式汤匙內搽上生油
+						<div class="col-xs-10 col-xs-offset-1 step_body">向8只中式汤匙内刷上生油。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -163,7 +157,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">往4只搽好油的汤匙注入蛋白，另外4只注入蛋黃
+						<div class="col-xs-10 col-xs-offset-1 step_body">往4只刷好油的汤匙注入蛋白，另外4只注入蛋黄。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -178,7 +172,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用大鍋燒滾2升水，置入蒸架再放入汤匙，加蓋隔水蒸5分钟</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用大锅煮沸2升水，置入蒸架再放入汤匙，加盖隔水蒸5分钟。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -186,7 +180,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 8</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液會結成蛋盞，從汤匙取出備用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">蛋液会结成蛋盏，从汤匙取出备用。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -194,7 +188,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 9</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用鍋燒滾1升水，放入白菜苗滾3分钟取出</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅煮沸1升水，放入白菜苗烫3分钟取出。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -202,7 +196,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 10</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將第9步的白菜苗放入砂鍋中，放入第8步的蛋盞，加杞子，再注入第2步的500毫升濃湯，用鹽、糖各½茶匙調味</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将第9步的白菜苗放入砂锅中，放入第8步的蛋盏，加枸杞，再注入第2步的500毫升浓汤，用盐、糖各½茶匙调味。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -210,8 +204,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 11</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將砂鍋置於爐上燒滾(约
-3分钟)即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将砂锅置于炉上煮沸(约3分钟)即可享用。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -225,21 +218,21 @@
 					<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Steamed-crab-claw-with-egg-whites">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
-									<div class='name ' >白玉蒸蟹鉗</div>
+									<div class='name ' >白玉蒸蟹钳</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/St-Egg-Mncd-Pork">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
-									<div class='name ' >瑤柱肉末蒸滑蛋</div>
+									<div class='name ' >瑶柱肉末蒸滑蛋</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Blck-Bn-Shrmp-Egg-White">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-008-Final-web.jpg' />
-									<div class='name ' >廣東蛋花蝦龍糊</div>
+									<div class='name ' >广东蛋花虾龙糊</div>
 								</a>
 		     			</div>
 				</div>		

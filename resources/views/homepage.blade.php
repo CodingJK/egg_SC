@@ -15,6 +15,7 @@
                 });   
                
                 $('.lang').css('border','2px solid black');
+                 $('.lang').css('border','2px solid black');
             });
         </script>
 
@@ -47,6 +48,7 @@
                     $('.lang').css('border','2px solid black');
                 });   
                 $('.lang').css('border','2px solid black');
+                 $('.lang').css('border','2px solid black');
             } 
     });
 
@@ -68,7 +70,7 @@
                 <a href="/Nutrition">
                 <div class='row Header1'>
                     <div class='header_nutrition_title'>营养价值</div>
-                    <div class='header_nutrition_sub_title'>
+                    <div class='header_nutrition_sub_title' style="margin:50px 300px;">
                       鸡蛋是营养最丰富的天然食品之一。一个大号鸡蛋仅含70卡路里，却饱含大量营养。
                     </div>
                 </div>
@@ -77,8 +79,8 @@
             <div class="item">
                 <a href="/Eggforbabies">
                     <div class='row Header2'>
-                        <div class='header_nutrition_title'>宝宝与鸡蛋</div>
-                        <div class='header_nutrition_sub_title'>
+                        <div class='header_nutrition_title'>您知道吗？</div>
+                        <div class='header_nutrition_sub_title' style="margin:50px 300px;">
                             现在您可以从宝宝6个月大开始喂食全蛋，可有助预防鸡蛋过敏。
                         </div>
                     </div>
@@ -96,7 +98,7 @@
         <div class='container-fluid FeaturedRecipe_parent clear-both'>
             <br><br>
             <div class='FeaturedRecipe'>
-                <div class='title'>Featured Recipe<br><br></div>
+                <div class='title'>精选食谱<br><br></div>
                 <div class='row'>
                     <div class='col-sm-6 left_img'>
                         <a href="/Funny-Egg-Fish">
@@ -170,7 +172,7 @@
                 <a href="/Funny-Egg-Fish">
                     <div class='sub_title'>趣味小鱼蛋</div>
                     <div class='right_body'>
-                        這款雞蛋小魚是小孩和大人都會喜歡的有趣小菜。煮熟的雞蛋作為小魚的身體，切成薄片的青瓜和白蘿蔔組成魚鱗，再點綴以紅椒做出魚尾，您就會迎來一片稱讚聲！
+                        这款鸡蛋小鱼是小孩和大人都会喜欢的有趣小菜。煮熟的鸡蛋作为小鱼的身体，切成薄片的黄瓜和白萝卜组成鱼鳞，再点缀以红椒做出鱼尾，您就能畅游在一片称赞声当中！
                     </div>
                 </a>
                 <div class='col-sm-12 getTheRecipe'>
@@ -196,7 +198,7 @@
                     </div>
                     <div class=''>
                         <a href="/Scrambled-Eggs">
-                                    <img src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
+                                    <img src='/images/recipes//Eggs-SA-04-Final-web.jpg' />
                                     
                                     <div class='left_sub_title'>玉米培根炒蛋</div>
                                 </a>

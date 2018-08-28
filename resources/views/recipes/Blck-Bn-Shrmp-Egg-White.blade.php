@@ -124,20 +124,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋到碗中，搅匀备用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">打蛋到碗中，搅匀备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用锅煮沸1升水，放入虾仁烫1至2分钟，捞出备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用锅煮沸1升水，放入虾仁烫1至2分钟，捞出备用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">烧炒锅下油1茶匙，放入猪肉碎炒2分钟备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">烧炒锅下油1茶匙，放入猪肉碎炒2分钟备用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -145,7 +145,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">烧热同一个炒锅，下油1茶匙，加蒜蓉、姜蓉各½茶匙，黑豉汁1½茶匙爆香
+						<div class="col-xs-10 col-xs-offset-1 step_body">烧热同一个炒锅，下油1茶匙，加蒜蓉、姜蓉各½茶匙，黑豉汁1½茶匙爆香。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -153,7 +153,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">倒入清鸡汤200毫升至炒锅中，加入第2步煮熟的虾仁、第3步的炒猪肉，用盐、糖各½茶匙调味，煮1分钟，再用生粉28克勾芡
+						<div class="col-xs-10 col-xs-offset-1 step_body">倒入清鸡汤200毫升至炒锅中，加入第2步煮熟的虾仁、第3步的炒猪肉，用盐、糖各½茶匙调味，煮1分钟，再用生粉28克勾芡。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -161,7 +161,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">离火，慢慢绕圈倒入第1步的蛋液，轻轻搅成蛋花
+						<div class="col-xs-10 col-xs-offset-1 step_body">离火，慢慢绕圈倒入第1步的蛋液，轻轻搅成蛋花。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -176,7 +176,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟下葱花即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟下葱花即可享用。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -188,27 +188,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
-			     			</a>
+		     				<a href="/spinach-and-mushroom-soba-noodle-soup">
+									<img class='recipes_img' src='/images/recipes/Spinach-and-Mushroom-Soba-Noodle-Soup-small_r.jpg' />
+									<div class='name ' >菠菜蘑菇荞麦汤面</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/EggsMakhani">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-18-Final-web.jpg' />
-			     				<div class='name'>Eggs Makhani</div>
-			     			</a>
+		     				<a href="/St-Egg-Mncd-Pork">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
+									<div class='name ' >瑶柱肉末蒸滑蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Boiled-Egg-Oolong-Tea">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>
-			     					乌龙茶叶蛋
-
-								</div>
-			     			</a>
+		     				<a href="/Steamed-crab-claw-with-egg-whites">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-19-Final-web.jpg' />
+									<div class='name ' >白玉蒸蟹钳</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

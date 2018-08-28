@@ -114,7 +114,7 @@
 	                	<span>蛋黄</span>
 	                	<span>砂糖</span>
 	                	<span>特浓咖啡</span>
-	                	<span>淡奶油（35％脂肪）</span>
+	                	<span>淡奶油(35％脂肪)</span>
 	                	<span>糖霜</span>
 	                	<span>肉桂粉</span>
 	                	<span>马斯卡邦尼奶酪</span>

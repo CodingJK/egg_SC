@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>卡邦尼意粉</span>
+			<span class='recipe_title'>卡邦尼奶油培根意大利面</span>
 			<p class='title_body'>
-					意大利傳統名菜卡邦尼意粉遠近馳名，一般以鸡蛋、芝士、煙肉和意大利麵為材料。我們的健怡版本採用火雞煙肉代替，美味又輕怡。
+					意大利传统名菜卡邦尼意大利面远近驰名，一般以鸡蛋、奶酪、培根和意大利面为材料。我们的健怡版本采用火鸡培根代替，美味又轻怡。
 
 			</p>
 
@@ -91,17 +91,15 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>火雞煙肉(煮熟切碎)</span>
-	                	<span>蒜頭(切碎)</span>
-	                	<span>乾白葡萄酒</span>
+	                	<span>火鸡培根(煮熟切碎)</span>
+	                	<span>大蒜(切碎)</span>
+	                	<span>干白葡萄酒</span>
 	                	<span>鸡蛋</span>
-	                	<span>意粉</span>
-	                	<span>脫脂淡奶</span>
-	                	<span>新鮮香芹(切碎)</span>
-	                	<span>巴馬臣芝士碎</span>
-	                	<span>
-盐和胡椒粉
-</span>
+	                	<span>意大利面</span>
+	                	<span>脱脂淡奶</span>
+	                	<span>新鲜香芹(切碎)</span>
+	                	<span>帕尔玛奶酪碎</span>
+	                	<span>盐和胡椒粉</span>
 	                </div>
                 </div>
 
@@ -113,7 +111,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用防黏平底鍋將煙肉和蒜頭炒1分钟。拌入葡萄酒攪勻，煮滾，熄火，放涼10分钟。同一時間，根據包裝說明煮熟意粉。
+						<div class="col-xs-10 col-xs-offset-1 step_body">用防黏平底锅将培根和大蒜炒1分钟。拌入葡萄酒搅匀，煮沸，关火，放凉10分钟。同一时间，根据包装说明煮熟意大利面。
 
 
 
@@ -125,7 +123,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將鸡蛋和淡奶攪拌均勻。將蛋液和香芹拌入煙肉中。用中低火加熱，不斷攪拌5分钟至稍微變稠，熄火。拌入巴馬臣芝士碎。
+						<div class="col-xs-10 col-xs-offset-1 step_body">将鸡蛋和淡奶搅拌均匀。将蛋液和香芹拌入培根中。用中低火加热，不断搅拌5分钟至稍微变稠，关火。拌入帕尔玛奶酪碎。
 						</div>
 							<hr class='hr1'>
 					</div>
@@ -133,16 +131,14 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">瀝乾意粉。將蛋液加入意粉拌勻。
+						<div class="col-xs-10 col-xs-offset-1 step_body">沥干意大利面。将蛋液加入面条拌匀。
 
 						</div>
 							<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">撒
-盐和胡椒粉
-調味，立即食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">撒盐和胡椒粉调味，立即食用。
 
 
 						</div>
@@ -154,7 +150,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可用白葡萄酒代替雞湯或蔬菜湯。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可用白葡萄酒代替鸡汤或蔬菜汤。</div>
 						
 
 						<hr class='hr1'>
@@ -181,14 +177,14 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/spinach-and-mushroom-soba-noodle-soup">
 									<img class='recipes_img' src='/images/recipes/Spinach-and-Mushroom-Soba-Noodle-Soup-small_r.jpg' />
-									<div class='name ' >菠菜蘑菇蕎麥湯麵</div>
+									<div class='name ' >菠菜蘑菇荞麦汤面</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/cedar-plank-salmon-with-nicoise-relish">
 									<img class='recipes_img' src='/images/recipes/Cedar-Plank-Salmon-small_r.jpg' />
-									<div class='name ' >雪松木板三文魚配尼斯醬</div>
+									<div class='name ' >雪松木板三文鱼配尼斯酱</div>
 								</a>
 		     			</div>
 				</div>		

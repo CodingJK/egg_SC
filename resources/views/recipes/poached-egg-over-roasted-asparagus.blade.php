@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>烤蘆筍流心蛋</span>
+			<span class='recipe_title'>烤芦笋流心蛋</span>
 			<p class='title_body'>
-					這款春季食谱適合任何場合，清爽鮮美。
+					这款春季食谱适合任何场合，清爽鲜美。
 
 			</p>
 
@@ -91,18 +91,18 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>蘆筍(修剪)</span>
-	                	<span>橄欖油</span>
+	                	<span>芦笋(修剪)</span>
+	                	<span>橄榄油</span>
 	                	<span>
 盐和胡椒粉
 </span>
 	                	<span>白醋</span>
 	                	<span>鸡蛋</span>
-	                	<span>牛油</span>
-	                	<span>蒜頭(切碎)</span>
-	                	<span>新鮮麵包糠</span>
-	                	<span>巴馬臣芝士碎</span>
-	                	<span>新鮮麵包</span>
+	                	<span>黄油</span>
+	                	<span>大蒜(切碎)</span>
+	                	<span>新鲜面包屑</span>
+	                	<span>帕尔玛奶酪碎</span>
+	                	<span>新鲜面包</span>
 	                </div>
                 </div>
                 
@@ -115,7 +115,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">預熱焗爐至425°F(220°C)。在鍚紙上拌勻橄欖油、鹽、胡椒粉和蘆筍。焗10-12分钟或至淺啡色，表層微脆。
+						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱至425°F(220°C)。在烤箱纸上拌匀橄榄油、盐、胡椒粉和芦笋。烤10-12分钟或至浅啡色，表层微脆。
 
 
 
@@ -127,7 +127,8 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">同時，在平底鍋加水至大概3吋(8厘米)高。加熱至微沸。加入醋。將凍鸡蛋放入細碗或碟，慢慢將蛋放入水中。將其餘鸡蛋重複以上步骤放入。在微沸水中慢煮3-5分钟，或至蛋白變白，蛋黃熟至偏好熟度。用匙羹撈起鸡蛋。在紙巾上瀝乾。
+						<div class="col-xs-10 col-xs-offset-1 step_body">同时，在平底锅加水至大概3英寸(8厘米)高。加热至微沸。加入醋。将冻鸡蛋放入细碗或碟，慢慢将蛋放入水中。将其余鸡蛋重复以上步骤放入。在微沸水中慢煮3-5分钟，或至蛋白变白，蛋黄熟至偏好熟度。用匙羹捞起鸡蛋。在纸巾上沥干。
+
 
 						</div>
 							<hr class='hr1'>
@@ -136,7 +137,7 @@
 					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在小型防黏平底鍋用中高火融化牛油。加入蒜頭，煎煮1分钟或直至香味散發。加入麵包糠，攪拌煎煮3分钟或至輕微焦香。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在小型防黏平底锅用中高火融化黄油。加入大蒜，煎煮1分钟或直至香味散发。加入面包屑，搅拌煎煮3分钟或至轻微焦香。
 
 
 						</div>
@@ -144,9 +145,7 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">將蘆筍均勻分配在4
-个
-碟上，放上流心蛋。撒上烤麵包糠和巴馬臣芝士碎。配以新鮮麵包(如有)食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">将芦笋均匀分配在4个碟上，放上流心蛋。撒上烤面包屑和帕尔玛奶酪碎。配以新鲜面包（如有）食用。
 
 
 						</div>
@@ -178,7 +177,7 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/baked-eggs-extraordinaire">
 									<img class='recipes_img' src='/images/recipes/Baked-Eggs-Extraordinaire-small_r.jpg' />
-									<div class='name ' >香草芝士焗蛋</div>
+									<div class='name ' >香草奶酪烤蛋</div>
 									
 								</a>
 		     			</div>
@@ -186,7 +185,7 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/spinach-and-mushroom-soba-noodle-soup">
 									<img class='recipes_img' src='/images/recipes/Spinach-and-Mushroom-Soba-Noodle-Soup-small_r.jpg' />
-									<div class='name ' >菠菜蘑菇蕎麥湯麵</div>
+									<div class='name ' >菠菜蘑菇荞麦汤面</div>
 								</a>
 		     			</div>
 				</div>		

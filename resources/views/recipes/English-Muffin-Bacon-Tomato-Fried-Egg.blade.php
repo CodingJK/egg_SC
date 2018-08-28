@@ -65,11 +65,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：2人份</li>
+					<li class='recipe_worlds'>份量: 2人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间：5分钟</li>
+					<li class='recipe_worlds'>准备时间: 5分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间：5分钟</li>
+					<li class='recipe_worlds'>烹调时间: 5分钟</li>
 				</ul>
 			</div>
 
@@ -94,7 +94,7 @@
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	<span>全麦英式松饼(或您喜欢的面包)</span>
-	                	<span>牛油</span>
+	                	<span>黄油</span>
 	                	<span>番茄</span>
 	                	<span>熟培根</span>
 	                	<span>鸡蛋</span>
@@ -109,13 +109,13 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">烤英式松饼，在每个的其中一个半边涂上黄油½茶匙(2.5毫升)，并铺上番茄和熟培根</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">烤英式松饼，在每个的其中一个半边涂上黄油½茶匙(2.5毫升)，并铺上番茄和熟培根。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用平底锅以中火煮融剩余的黄油，打入鸡蛋。用盐和胡椒粉调味；煎3至4分钟至蛋白凝结(如果要两面煎，翻转鸡蛋煎2分钟)。将蛋置于培根之上即可食用
+						<div class="col-xs-10 col-xs-offset-1 step_body">用平底锅以中火煮融剩余的黄油，打入鸡蛋。用盐和胡椒粉调味；煎3至4分钟至蛋白凝结(如果要两面煎，翻转鸡蛋煎2分钟)。将蛋置于培根之上即可食用。
 						
 						</div>
 							<hr class='hr1'>
@@ -137,19 +137,17 @@
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/bittaraAppa">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-05-Final-web.jpg' />
-			     				<div class='name'>Bittara Appa – Sri Lankan Egg Hoppers</div>
+		     				<a href="/breakfast-in-a-mug">
+			     				<img class='recipes_img' src='/images/recipes/breakfast-in-a-mug-small_r.jpg' />
+			     				<div class='name'>马克杯早餐</div>
 			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/grandmaIndian">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-			     				<div class='name'>
-			     					Grandma’s Indian-style Omelette
-								</div>
-			     			</a>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣鳄梨吐司</div>
+							</a>
 		     			</div>
 				</div>		
 			</div>

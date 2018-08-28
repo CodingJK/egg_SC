@@ -104,44 +104,44 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱至375 华氏度(190摄氏度)</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱至375 华氏度(190摄氏度)。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中号锅融化牛油，加入面粉、盐和胡椒粉搅拌。煮的同时不断搅动，直至面糊细滑多泡，立刻倒入牛奶。继续搅动直至面糊开始煮沸而且细滑粘稠
+						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中号锅融化牛油，加入面粉、盐和胡椒粉搅拌。煮的同时不断搅动，直至面糊细滑多泡，立刻倒入牛奶。继续搅动直至面糊开始煮沸而且细滑粘稠。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">把蛋黄和蛋白分开。将蛋黄充分打散，并加入¼杯(50毫升)刚才的暖面糊到蛋黄里</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">把蛋黄和蛋白分开。将蛋黄充分打散，并加入¼杯(50毫升)刚才的暖面糊到蛋黄里。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋黄糊与剩余的面糊充分混合。如有需要，可加入切碎的馅料至面糊中搅匀(请参考不同做法)。待面糊稍微变凉备用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋黄糊与剩余的面糊充分混合。如有需要，可加入切碎的馅料至面糊中搅匀(请参考不同做法)。待面糊稍微变凉备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗打蛋白和塔塔粉，打到硬挺但不干。将部分蛋白糊混到蛋黄糊中使其颜色变淡，再轻轻地将蛋黄糊加到蛋白糊中彻底混合</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗打蛋白和塔塔粉，打到硬挺但不干。将部分蛋白糊混到蛋黄糊中使其颜色变淡，再轻轻地将蛋黄糊加到蛋白糊中彻底混合。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把面糊4杯(1升)倒入舒芙蕾烤模或烘盘中</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">小心地把面糊4杯(1升)倒入舒芙蕾烤模或烘盘中。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在预热至375华氏度(190摄氏度)的烤箱中烤20至25分钟，至膨胀及稍微变黄即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在预热至375华氏度(190摄氏度)的烤箱中烤20至25分钟，至膨胀及稍微变黄即可享用。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -151,9 +151,9 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>不同做法：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">奶酪舒芙蕾：加入磨碎的瑞士奶酪1杯(250毫升)及葱花2茶匙(30毫升)至面糊中搅匀</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蟹肉舒芙蕾：加入罐头蟹肉1罐(6盎司/170克)、干百里香½茶匙(2毫升)、咖喱粉½茶匙(2毫升)，及蒜盐¼茶匙(1毫升)至面糊中搅匀</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蔬菜舒芙蕾：加入煮熟的胡萝卜丝1杯(250毫升)、磨碎的切打奶酪½杯(125毫升)，及干莳萝¼茶匙(1毫升)至面糊中搅匀</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">奶酪舒芙蕾：加入磨碎的瑞士奶酪1杯(250毫升)及葱花2茶匙(30毫升)至面糊中搅匀。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">蟹肉舒芙蕾：加入罐头蟹肉1罐(6盎司/170克)、干百里香½茶匙(2毫升)、咖喱粉½茶匙(2毫升)，及蒜盐¼茶匙(1毫升)至面糊中搅匀。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">蔬菜舒芙蕾：加入煮熟的胡萝卜丝1杯(250毫升)、磨碎的切打奶酪½杯(125毫升)，及干莳萝¼茶匙(1毫升)至面糊中搅匀。</div>
 
 						<hr class='hr1'>
 						
@@ -178,26 +178,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/chinese-crepes">
+									<img class='recipes_img' src='/images/recipes/chinese-crepes-small_r.jpg' />
+									<div class='name ' >中式薄饼</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/okonomiyaki">
+									<img class='recipes_img' src='/images/recipes/Okonomiyaki-small_r.jpg' />
+									<div class='name ' >大阪烧</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/Chiu-Chow-Omeletd">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+									<div class='name ' >潮式煎蚝饼</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

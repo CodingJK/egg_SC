@@ -114,20 +114,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用大锅烧开4升水，放入龙虾烫5分钟</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用大锅烧开4升水，放入龙虾烫5分钟。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">龙虾烫熟后用剪刀剪下头和身，剪开龙虾尾背部的壳，一路剪至尾端，取出肉切成6至8块。敲裂龙虾钳，从龙虾身剥下头壳，然后将龙虾身切成6至8块，每块连着1只脚，备用 
+						<div class="col-xs-10 col-xs-offset-1 step_body">龙虾烫熟后用剪刀剪下头和身，剪开龙虾尾背部的壳，一路剪至尾端，取出肉切成6至8块。敲裂龙虾钳，从龙虾身剥下头壳，然后将龙虾身切成6至8块，每块连着1只脚，备用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">西兰花切细件，用一个小锅烧开1升水，放入西兰花烫5分钟，捞出备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">西兰花切细件，用一个小锅烧开1升水，放入西兰花烫5分钟，捞出备用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -135,7 +135,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗内充分搅匀蛋白、半脂奶和盐、糖各½茶匙
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个大碗内充分搅匀蛋白、半脂奶和盐、糖各½茶匙。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -143,7 +143,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用中火烧炒锅，下油2茶匙，倒入第4步的蛋白和奶，轻轻炒1分钟，再下龙虾尾肉多炒1分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">用中火烧炒锅，下油2茶匙，倒入第4步的蛋白和奶，轻轻炒1分钟，再下龙虾尾肉多炒1分钟。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -151,7 +151,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在一个圆形或椭圆形的碟子上围一圈西兰花，放上第5步的龙虾尾和蛋白奶
+						<div class="col-xs-10 col-xs-offset-1 step_body">在一个圆形或椭圆形的碟子上围一圈西兰花，放上第5步的龙虾尾和蛋白奶。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -161,7 +161,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<div class="step_title col-xs-12">步骤 7</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在西兰花圈外伴上煮熟的龙虾钳和身即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在西兰花圈外伴上煮熟的龙虾钳和身即可享用。</div>
 						<hr class='hr1'>
 						
 					</div>
@@ -173,27 +173,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Funny-Egg-Fish">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-13-Final-web.jpg' />
-			     				<div class='name'>趣味小鱼蛋</div>
-			     			</a>
+		     				<a href="/Chiu-Chow-Omeletd">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
+									<div class='name ' >潮式煎蚝饼</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/EggsMakhani">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-18-Final-web.jpg' />
-			     				<div class='name'>Eggs Makhani</div>
-			     			</a>
+		     				<a href="/Duo-Egg-Pearl">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-009-Final-web.jpg' />
+									<div class='name ' >猪骨浓汤菜苗伴鸳鸯蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Boiled-Egg-Oolong-Tea">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>
-			     					乌龙茶叶蛋
-
-								</div>
-			     			</a>
+		     				<a href="/okonomiyaki">
+									<img class='recipes_img' src='/images/recipes/Okonomiyaki-small_r.jpg' />
+									<div class='name ' >大阪烧</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

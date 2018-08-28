@@ -112,20 +112,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋白与清鸡汤70亳升，盐、糖各½茶匙，和白胡椒粉¼茶匙搅匀</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将蛋白与清鸡汤70亳升，盐、糖各½茶匙，和白胡椒粉¼茶匙搅匀。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">把已搅匀的蛋白倒入小碗中，放入蟹钳
+						<div class="col-xs-10 col-xs-offset-1 step_body">把已搅匀的蛋白倒入小碗中，放入蟹钳。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">锅中加水烧开，放入小碗，水位应稍低于碗口，再以中火蒸8至9分钟
+						<div class="col-xs-10 col-xs-offset-1 step_body">锅中加水烧开，放入小碗，水位应稍低于碗口，再以中火蒸8至9分钟。
 
 </div>
 						<hr class='hr1'>
@@ -134,7 +134,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可立即享用
+						<div class="col-xs-10 col-xs-offset-1 step_body">可立即享用。
 </div>
 						<hr class='hr1'>
 					</div>
@@ -159,27 +159,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/andayKi">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
-			     				<div class='name'>Anday Ki Mithai</div>
-			     			</a>
+		     				<a href="/St-Egg-Wht-Sea-Treasure">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-20-Final-web.jpg' />
+									<div class='name ' >海皇扒蒸蛋白</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/TikkaMasala">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-17-Final-web.jpg' />
-			     				<div class='name'>Tikka Masala Baked Eggs on Curried Garlic	Quinoa with Crumbled Paneer</div>
-			     			</a>
+		     				<a href="/St-Egg-Mncd-Pork">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-15-Final-web.jpg' />
+									<div class='name ' >瑶柱肉末蒸滑蛋</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Boiled-Egg-Oolong-Tea">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-14-Final-web.jpg' />
-			     				<div class='name'>
-			     					乌龙茶叶蛋
-
-								</div>
-			     			</a>
+		     				<a href="/Blck-Bn-Shrmp-Egg-White">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-008-Final-web.jpg' />
+									<div class='name ' >广东蛋花虾龙糊</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

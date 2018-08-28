@@ -43,6 +43,7 @@
 
   .links a{
     font-size: 20px;
+    font-weight: bold;
     line-height: 24px;
     padding: 16px 12px;
     border: 2px solid white;
@@ -63,7 +64,7 @@
   }
 
   .Header11 {
-    background-image: url("/images/banner/egg-nutrition-banner-A.jpg");
+    background-image: url("/images/banner/egg-nutrition-banner-A-SC.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -99,7 +100,7 @@
   }
 
   .Header2 {
-    background-image: url("/images/babys/eggs-101-header.jpg");
+    background-image: url("/images/babys/mom_baby.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -188,7 +189,7 @@
   }
 
   .Header11 {
-    background-image: url("/images/banner/egg-nutrition-banner-A.jpg");
+    background-image: url("/images/banner/egg-nutrition-banner-A-SC.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

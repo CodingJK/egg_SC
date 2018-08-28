@@ -114,20 +114,20 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">制作鱼身：沿着每个鸡蛋的一条长边切走一小片，令鱼身可以立起</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">制作鱼身：沿着每个鸡蛋的一条长边切走一小片，令鱼身可以立起。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">从红椒切4个1英寸(2.5厘米)长的“V”型做成鱼尾。将白萝卜和黄瓜薄片对半切或切成四瓣来模仿鱼鳞
+						<div class="col-xs-10 col-xs-offset-1 step_body">从红椒切4个1英寸(2.5厘米)长的“V”型做成鱼尾。将白萝卜和黄瓜薄片对半切或切成四瓣来模仿鱼鳞。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用蛋黄酱当胶水，将黄瓜和萝卜鱼鳞贴在每个蛋上，覆盖鱼背的三分之二，并在较窄的一端留出空间作为脸部。从黑橄榄切出小方块放在脸部做眼。在鸡蛋的另一端切个小口插入红椒尾
+						<div class="col-xs-10 col-xs-offset-1 step_body">用蛋黄酱当胶水，将黄瓜和萝卜鱼鳞贴在每个蛋上，覆盖鱼背的三分之二，并在较窄的一端留出空间作为脸部。从黑橄榄切出小方块放在脸部做眼。在鸡蛋的另一端切个小口插入红椒尾。
 
 </div>
 						<hr class='hr1'>
@@ -136,7 +136,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在鸡蛋周围放一圈生菜丝做出海草的效果
+						<div class="col-xs-10 col-xs-offset-1 step_body">在鸡蛋周围放一圈生菜丝做出海草的效果。
 
 </div>
 						<hr class='hr1'>

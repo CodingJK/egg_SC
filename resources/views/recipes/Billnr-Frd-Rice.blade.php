@@ -111,38 +111,38 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用量杯量¾杯米入电饭锅，米和水的比例为1:2，用同一只量杯量2倍的水倒进电饭锅。饭煮熟后待其变凉放过夜</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用量杯量¾杯米入电饭锅，米和水的比例为1:2，用同一只量杯量2倍的水倒进电饭锅。饭煮熟后待其变凉放过夜。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">置瑶柱于一碗开水中，用锅烧开2升水，小心将碗放入锅中，加盖隔水蒸60分钟，使瑶柱变软，待其变凉后拆丝备用
+						<div class="col-xs-10 col-xs-offset-1 step_body">置瑶柱于一碗开水中，用锅烧开2升水，小心将碗放入锅中，加盖隔水蒸60分钟，使瑶柱变软，待其变凉后拆丝备用。
 						</div>
 							<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">起锅下生油2茶匙，用慢火炒蛋白2分钟备用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">起锅下生油2茶匙，用慢火炒蛋白2分钟备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用同一个炒锅下油1茶匙，放入第1步的冷饭、第2步的瑶柱丝和芥兰粒，慢火炒4分钟</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用同一个炒锅下油1茶匙，放入第1步的冷饭、第2步的瑶柱丝和芥兰粒，慢火炒4分钟。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 5</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">加入第3步的炒蛋白、葱花，用盐、糖各½茶匙调味，再炒匀1分钟</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">加入第3步的炒蛋白、葱花，用盐、糖各½茶匙调味，再炒匀1分钟。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 6</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">上碟即可享用</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">上碟即可享用。</div>
 						<hr class='hr1'>
 					</div>
 					<hr>
@@ -165,26 +165,24 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/mushroom-truffle-and-egg">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-			     				<div class='name'>蘑菇蛋花松露清湯</div>
-			     			</a>
+		     				<a href="/Sclp-Egg-Wht-Frd-Rice">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-012-Final-web.jpg' />
+									<div class='name ' >姜蓉带子蛋白炒饭</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Birds-Nest-Egg-Peral">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-08-Final-web.jpg' />
-			     				<div class='name'>紅燒燕液盞</div>
-			     			</a>
+		     				<a href="/Gldn-Omlet">
+									<img class='recipes_img' src='/images/recipes/Eggs-SA-011-Final-web.jpg' />
+									<div class='name ' >黄金虾仁蛋包饭</div>
+								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/masalaEggKachumber">
-			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-10-Final-web.jpg' />
-			     				<div class='name'>
-			     					Masala Egg Kachumber Salad
-								</div>
-			     			</a>
+		     				<a href="/shrimp-and-egg-fried-rice">
+									<img class='recipes_img' src='/images/recipes/Shrimp-and-Egg-Fried-Rice-small_r.jpg' />
+									<div class='name ' >虾仁滑蛋炒饭</div>
+								</a>
 		     			</div>
 				</div>		
 			</div>

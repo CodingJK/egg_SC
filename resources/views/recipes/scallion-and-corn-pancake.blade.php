@@ -162,7 +162,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用平底锅高火烧热油。将一大匙面糊倒入热油中。每个薄饼的直径应大概1英寸（2.5厘米）。煎至金黄酥脆，每边煎1-2分钟。用铲盛起放在吸水纸上，保温或上碟前重新加热。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用平底锅高火烧热油。将一大匙面糊倒入热油中。每个薄饼的直径应大概1英寸(2.5厘米)。煎至金黄酥脆，每边煎1-2分钟。用铲盛起放在吸水纸上，保温或上碟前重新加热。</div>
 						<hr class='hr1'>
 					</div>
 
@@ -212,7 +212,7 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce">
 									<img class='recipes_img' src='/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce-small_r.jpg' />
-									<div class='name'>越式鸡蛋生菜沙律卷配甜辣醬</div>
+									<div class='name'>越式鸡蛋生菜沙拉卷配甜辣酱</div>
 								</a>
 		     			</div>
 				</div>		
