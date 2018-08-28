@@ -156,8 +156,8 @@
   
 
   #mid_logo{
-    width: 150px;
-    height: 150px;
+    width: 132.48px;
+    height: 62.98px;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -296,7 +296,7 @@
     background-size: contain;
     background-image: url('/images/logo.png');
     background-repeat: no-repeat;
-    height: 80px;
+    height: 39px;
     background-position: center;
   }
   

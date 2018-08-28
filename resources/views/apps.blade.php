@@ -173,7 +173,7 @@
 	    		</div>
 
 	    		<div class='sub_title text-center'>
-	    			All eggs, all the time. Get the app, it&apos;s FREE!
+	    			随时打造完美黄金鸡蛋。立即免费下载倒数计时App！
 	    		</div>
 
 	    	<div class='mobile_only'>	

@@ -101,7 +101,7 @@
 	                </div>
                 </div>
                 <div class="ingredients" style='clear: both'>
- 					<div class='recipes_subtitle'>尼斯醬</div>
+ 					<div class='recipes_subtitle'>尼斯酱</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                						
 						
@@ -173,7 +173,7 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">蓋上蓋子烤13-盖上盖子烤13-15分钟至三文鱼刚好熟透，鱼边微焦。食用前让三文鱼在木板上待凉5分钟，配以尼斯酱食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">盖上盖子烤13-15分钟至三文鱼刚好熟透，鱼边微焦。食用前让三文鱼在木板上待凉5分钟，配以尼斯酱食用。
 
 
 

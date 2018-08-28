@@ -54,9 +54,9 @@
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
 					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>準備時間: 5分鐘</li>
+					<li class='recipe_worlds'>准备时间: 5分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹調時間: 12分鐘</li>
+					<li class='recipe_worlds'>烹调时间: 12分钟</li>
 				</ul>
 			</div>
 

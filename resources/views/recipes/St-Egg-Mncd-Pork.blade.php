@@ -59,11 +59,11 @@
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：4人份</li>
+					<li class='recipe_worlds'>份量: 4人份</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间：35-40分钟</li>
+					<li class='recipe_worlds'>准备时间: 35-40分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间：准备瑶柱60分钟+烹煮30分钟</li>
+					<li class='recipe_worlds'>烹调时间: 准备瑶柱60分钟+烹煮30分钟</li>
 				</ul>
 			</div>
 
@@ -109,7 +109,7 @@
 						<span>糖</span>
 						<span>您喜欢的食用油</span>
 						<span>白胡椒粉</span>
-						<span>生粉</span>
+						<span>生粉水</span>
 						<span>葱花</span>
 	                </div>
                 </div>

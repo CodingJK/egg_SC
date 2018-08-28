@@ -45,17 +45,17 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Eggs-SA-27-Final-web.jpg" alt="">
+				<img src="/images/recipes/Eggs-SA-27-Final-large.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量：4人份(每人2个)</li>
+					<li class='recipe_worlds'>份量: 4人份(每人2个)</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间：20分钟</li>
+					<li class='recipe_worlds'>准备时间: 20分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间：20分钟</li>
+					<li class='recipe_worlds'>烹调时间: 20分钟</li>
 				</ul>
 			</div>
 
@@ -131,28 +131,28 @@
 					</div>
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 5</div>
+						<div class="step_title col-xs-12">步骤 3</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">在锅内倒入清水2升烧开，放入猪肉、椰菜、木耳、胡萝卜、竹笋和冬菇丝烫3分钟，捞起沥干水分备用。
 						</div>
 						<hr class='hr1'>
 					</div>
-					<hr>
+					
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 3</div>
+						<div class="step_title col-xs-12">步骤 4</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">将木须皮放入蒸笼，烧开一锅水并把蒸笼放入锅中，须高于水位(锅和蒸笼尺寸应匹配)，蒸5分钟。
 </div>
 						<hr class='hr1'>
 					</div>
-					<hr>
+					
 
 					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 4</div>
+						<div class="step_title col-xs-12">步骤 5</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">锅中下油2茶匙加热，将姜丝、蒜蓉入锅爆香，放入烫过的猪肉、椰菜、木耳、胡萝卜、竹笋和冬菇丝，再加入蛋丝，用盐、糖各½茶匙和老抽1茶匙调味，炒3分钟。
 </div>
 						<hr class='hr1'>
 					</div>
-					<hr>
+					
 
 					
 
@@ -162,7 +162,7 @@
 						</div>
 						<hr class='hr1'>
 					</div>
-					<hr>
+					
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 7</div>

@@ -145,7 +145,7 @@
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">将芦笋均匀分配在4个碟上，放上流心蛋。撒上烤面包屑和帕尔玛奶酪碎。配以新鲜面包（如有）食用。
+						<div class="col-xs-10 col-xs-offset-1 step_body">将芦笋均匀分配在4个碟上，放上流心蛋。撒上烤面包屑和帕尔玛奶酪碎。配以新鲜面包(如有)食用。
 
 
 						</div>

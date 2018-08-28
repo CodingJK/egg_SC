@@ -72,12 +72,12 @@
 						<li class='steps_words'>母乳或配方奶2茶匙</li>
 					</ul>
 
-					<p><b>准备和烹调:</b></p>
+					<p><b>您将需要:</b></p>
 
 					<ol>
-						<li class='steps_words'>将鸡蛋打入碗中搅匀，加入母乳或配方奶搅拌至完全混合</li>
-						<li class='steps_words'>中火加热不粘锅并下蛋液。使用铲子在锅中来回推动蛋液，炒至鸡蛋完全熟透</li>
-						<li class='steps_words'>用铲子把炒蛋移至碟上待变凉。切成小丁状即可喂给宝宝</li>
+						<li class='steps_words'>将鸡蛋打入碗中搅匀，加入母乳或配方奶搅拌至完全混合。</li>
+						<li class='steps_words'>中火加热不粘锅并下蛋液。使用铲子在锅中来回推动蛋液，炒至鸡蛋完全熟透。</li>
+						<li class='steps_words'>用铲子把炒蛋移至碟上待变凉。切成小丁状即可喂给宝宝。</li>
 					</ol>
 
 					<div class="col-xs-12 col-sm-6">
@@ -104,11 +104,11 @@
 					<p><b>准备及烹调：</b></p>
 
 					<ol>
-						<li class='steps_words'>将鸡蛋放入小锅并加凉水浸没。水应比鸡蛋高约1英寸。盖上锅盖，用大火烧开</li>
-						<li class='steps_words'>离火静置，中型蛋18分钟，大型蛋20分钟，加大型蛋23分钟</li>
-						<li class='steps_words'>捞出鸡蛋并立刻冲冷开水至凉。快速冷却有助避免蛋黄表面形成绿色环</li>
-						<li class='steps_words'>剥壳放入碗中，捣碎待用</li>
-						<li class='steps_words'>牛油果切半去壳，取出果肉。将果肉置于碗中用叉子捣碎。将鸡蛋和牛油果混合搅匀，直至达到您想要的浓稠度</li>
+						<li class='steps_words'>将鸡蛋放入小锅并加凉水浸没。水应比鸡蛋高约1英寸。盖上锅盖，用大火烧开。</li>
+						<li class='steps_words'>离火静置，中型蛋18分钟，大型蛋20分钟，加大型蛋23分钟。</li>
+						<li class='steps_words'>捞出鸡蛋并立刻冲冷开水至凉。快速冷却有助避免蛋黄表面形成绿色环。</li>
+						<li class='steps_words'>剥壳放入碗中，捣碎待用。</li>
+						<li class='steps_words'>牛油果切半去壳，取出果肉。将果肉置于碗中用叉子捣碎。将鸡蛋和牛油果混合搅匀，直至达到您想要的浓稠度。</li>
 					</ol>
 					<div class=" col-xs-12  col-sm-6">
 						<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/x4QoSPFB54Y?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
@@ -130,9 +130,9 @@
 					<p><b>准备及烹调:</b></p>
 
 					<ol>
-						<li class='steps_words'>将红薯丁蒸熟或煮熟至非常绵软。沥干水分(如有需要)并捣成糊或泥状，直至达到您想要的浓稠度(如有需要)並搗成糊或泥狀，直至達到您想要的濃稠度</li>
-						<li class='steps_words'>打蛋搅匀，再与红薯泥一起搅拌至完全混合。中火热锅，下入鸡蛋和红薯混合物，不停搅动，直至熟透及变稠</li>
-						<li class='steps_words'>离火，变凉后即可喂给宝宝</li>
+						<li class='steps_words'>将红薯丁蒸熟或煮熟至非常绵软。沥干水分(如有需要)并捣成糊或泥状，直至达到您想要的浓稠度。</li>
+						<li class='steps_words'>打蛋搅匀，再与红薯泥一起搅拌至完全混合。中火热锅，下入鸡蛋和红薯混合物，不停搅动，直至熟透及变稠。</li>
+						<li class='steps_words'>离火，变凉后即可喂给宝宝。</li>
 					</ol>
 					<p>
 						<b>小贴士:</b> 时间紧张？除了自制红薯泥，您还可以使用罐装或压缩袋装的红薯泥。

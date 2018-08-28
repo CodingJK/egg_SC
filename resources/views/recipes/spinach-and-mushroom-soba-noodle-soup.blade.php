@@ -22,7 +22,7 @@
 			
 			<span class='recipe_title'>菠菜蘑菇荞麦汤面</span>
 			<p class='title_body'>
-					
+					在秋冬来一碗热辣辣的汤面暖胃就最舒服不过！做法超快速简单，美味又富蛋白质。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
