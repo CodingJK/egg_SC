@@ -84,7 +84,8 @@
         text-align: left;
         margin: 26px 0;
         padding-left: 15px;
-        font-family: Noto Sans SC,sans-serif; }
+        /*font-family: Noto Sans SC,sans-serif; */
+       font-family: Noto Sans SC;}
         #homepage .summerBBQ .left_body:hover {
           color: #858585; }
       #homepage .summerBBQ .right_body {
@@ -94,7 +95,8 @@
         text-align: left;
         margin: 26px 0;
         padding-left: 15px;
-       font-family: Noto Sans SC,sans-serif; }
+      /* font-family: Noto Sans SC,sans-serif;*/
+       font-family: Noto Sans SC; }
         #homepage .summerBBQ .right_body:hover {
           color: #858585; }
       #homepage .summerBBQ #MoreBBQ {
@@ -148,7 +150,8 @@
         font-weight: bold;
         margin-top: 30px;
         margin-bottom: 30px;
-        color: black; }
+        color: black; 
+         font-family: Noto Sans SC;}
         #homepage .FeaturedRecipe .sub_title:hover {
           color: #ffcd32; }
       #homepage .FeaturedRecipe .right_body {
@@ -157,7 +160,8 @@
         line-height: 38px;
         text-align: left;
         margin: 26px 0;
-       font-family: Noto Sans SC,sans-serif; }
+       /*font-family: Noto Sans SC,sans-serif;*/
+        font-family: Noto Sans SC; }
         #homepage .FeaturedRecipe .right_body:hover {
           color: #858585; }
     
@@ -230,6 +234,7 @@
       font-size: 32px;
       font-weight: bold;
       margin: 40px 40px 40px 40px; 
+       font-family: Noto Sans SC;
   }
 
   .left_sub_title {
@@ -239,6 +244,7 @@
         text-align: left;
         padding-left: 15px;
         margin: 26px 0; 
+         font-family: Noto Sans SC;
   }
   .left_sub_title:hover{
     color: #ffcd32;
@@ -269,7 +275,8 @@
         font-weight: bold;
         margin-bottom: 30px;
         color: black;
-        padding-left: 15px; }
+        padding-left: 15px; 
+       font-family: Noto Sans SC;}
     .sub_title:hover {
         color: #ffcd32; 
     }
@@ -281,7 +288,8 @@
         text-align: left;
         margin: 26px 0;
         padding-left: 15px;
-       font-family: Noto Sans SC,sans-serif; }
+       /*font-family: Noto Sans SC,sans-serif;*/
+        font-family: Noto Sans SC; }
     .right_body:hover {
         color: #858585; 
     }
@@ -359,6 +367,7 @@
       font-size: 32px;
       font-weight: bold;
       margin: 40px 40px 40px 40px; 
+       font-family: Noto Sans SC;
   }
 
   .left_sub_title {
@@ -366,7 +375,7 @@
         color: black;
         font-size: 26px;
         line-height: 33.8px;
-        
+         font-family: Noto Sans SC;
         padding-left: 15px;
         margin: 26px 0; 
   }
@@ -399,6 +408,7 @@
         margin-bottom: 30px;
         color: black;
         text-align: center;
+         font-family: Noto Sans SC;
          }
     .sub_title:hover {
         color: #ffcd32; 
@@ -430,7 +440,8 @@
         padding: 14px 38px 14px 38px;
         border: 2px solid black;
         border-radius: 40px;
-        color: black; }
+        color: black; 
+       font-family: Noto Sans SC;}
 
       #getTheRecipe_2:hover {
           color: #ffcd32;

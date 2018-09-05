@@ -92,7 +92,7 @@
                 <a href='/Apps' class='apps_link' style='font-weight:bold;font-family: Noto Sans SC;'>应用程序</a>
                
                  
-                <a href='http://www.eggsaregood.ca' class='lang' style='margin-left:auto;font-family: Noto Sans TC;'><b> 繁體中文 </b></a>
+                <a href='http://test.eggsaregood.ca/' class='lang' style='margin-left:auto;font-family: Noto Sans TC;'><b> 繁體中文 </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
                 <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
             </div>
@@ -109,7 +109,7 @@
             <a href='/Nutrition' class='nutrition_link' style='font-weight:bold;font-family: Noto Sans SC;'>营养价值</a>
             <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;font-family: Noto Sans SC;'>宝宝与鸡蛋</a>
             <a href='/Apps' class='apps_link' style='font-weight:bold;font-family: Noto Sans SC;'>应用程序</a>
-             <a href='http://www.eggsaregood.ca' class='lang' style='margin-left:auto;font-family: Noto Sans TC;'><b> 繁體中文 </b></a>
+             <a href='http://test.eggsaregood.ca/' class='lang' style='margin-left:auto;font-family: Noto Sans TC;'><b> 繁體中文 </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
                 <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
           </div>
