@@ -20,7 +20,7 @@
       	<div class='header col-xs-12'>
 	      	<div class='header_artical'>
 	      		
-	      		<div class='title'>应用程序</div>
+	      		<div class='title' style='font-weight:bold;font-family: Noto Sans SC;margin-top:-470px;'>应用程序</div>
 	      		
 	      	</div>	
 	    </div>
@@ -29,23 +29,23 @@
 
 	    	<div class='timer'>
 
-	    		<div class='timer_title'>
+	    		<div class='timer_title' style='font-family: Noto Sans SC; color:#333; '>
 	    			煮蛋倒数计时App
 	    		</div>
 
-	    		<div class='img'>
+	    		<div class='img' style="margin-top: 50px;">
 	    			<img src='/images/apps/image-apps-eggtimer.png' />
 	    		</div>
 
-	    		<div class='timer_title'>
+	    		<div class='timer_title' style='font-weight:bold;font-family: Noto Sans SC; margin-top:20px;' >
 	    			每次下厨，都可打造完美黄金鸡蛋。立即下载App。
 	    		</div>
 
-	    		<div class="descip">
+	    		<div class="descip" style='font-weight:bold;font-family: Noto Sans SC;margin-top:20px;'>
 	    			下载Egg Farmers of Canada的官方多功能煮蛋倒数计时App，随时随地都可用手机完美掌握煮蛋时间。倒数计时App操作简单，可按需自由调校功能，更随附各款鸡蛋食谱，绝对能帮到手。按照Egg Farmers of Canada官方窍门煮蛋，烹制柔嫩软绵绵的完美鸡蛋易如反掌。
 	    		</div>
 
-	    		<div class='sub_title'>
+	    		<div class='sub_title'  style='font-weight:bold;font-family: Noto Sans SC;'>
 	    			App Store或Google Play免费下载
 	    		</div>
 	    		<div class='mobile_only'>
@@ -96,39 +96,39 @@
 	    	
 	    	<div class='features '>
 
-	    		<div class='title'>功能特色</div>
+	    		<div class='title' style='font-weight:bold;font-family: Noto Sans SC;'>功能特色</div>
 	    		
 	    		<ul >
 
-	    			<li class='details'>可选水煮蛋、流心蛋、炒蛋或煎蛋计时设置</li>
+	    			<li class='details' style='font-family: Noto Sans SC;'>可选水煮蛋、流心蛋、炒蛋或煎蛋计时设置</li>
 
-	    			<li class='details'>按鸡蛋大小及偏好软硬度，自订煮蛋时间</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>按鸡蛋大小及偏好软硬度，自订煮蛋时间</li>
 
-	    			<li class='details'>访问百多款Egg Farmers of Canada食谱</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>访问百多款Egg Farmers of Canada食谱</li>
 
-	    			<li class='details'>按菜色类型或烹调方法搜索食谱</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>按菜色类型或烹调方法搜索食谱</li>
 
-	    			<li class='details'>发掘各种方便实用的煮蛋诀窍和建议，烹制大师级水准的完美鸡蛋菜色</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>发掘各种方便实用的煮蛋诀窍和建议，烹制大师级水准的完美鸡蛋菜色</li>
 
 	    		</ul>
 
-	    		<div class='title'>版本2.0新功能</div>
+	    		<div class='title' style='font-weight:bold;font-family: Noto Sans SC;'>版本2.0新功能</div>
 	    		
 	    		<ul >
 
-	    			<li class='details'>特别为iOS7 Retina显示屏重新设计，全面提升观感，配合焕然一新的egg.ca网站</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>特别为iOS7 Retina显示屏重新设计，全面提升观感，配合焕然一新的egg.ca网站</li>
 
-	    			<li class='details'>添加“烹饪教学短”视频和“煮蛋入门技巧”内容，助你煮出完美鸡蛋</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>添加“烹饪教学短”视频和“煮蛋入门技巧”内容，助你煮出完美鸡蛋</li>
 
-	    			<li class='details'>添加“认识农夫”内容，为你介绍饲养加拿大优质鸡蛋的一些主要成员</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>添加“认识农夫”内容，为你介绍饲养加拿大优质鸡蛋的一些主要成员</li>
 
-	    			<li class='details'>允许在eggs.ca创建帐户或登录现有帐户</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>允许在eggs.ca创建帐户或登录现有帐户</li>
 
-	    			<li class='details'>现在可以同步eggs.ca和App之间的收藏食谱</li>
+	    			<li class='details'style='font-family: Noto Sans SC;'>现在可以同步eggs.ca和App之间的收藏食谱</li>
 
 	    		</ul>
 
-	    		<div class='sm_title'>Apple、iPad和iPhone均为Apple Inc.美国及其他国家/地区注册商标。 App Store为Apple Inc.服务商标。</div>
+	    		<div class='sm_title' style='font-weight:bold;font-family: Noto Sans SC;'>Apple、iPad和iPhone均为Apple Inc.美国及其他国家/地区注册商标。 App Store为Apple Inc.服务商标。</div>
 
 	    	</div>
 
@@ -139,22 +139,22 @@
 
 	    	<div class='timer'>
 
-	    		<div class='timer_title'>
+	    		<div class='timer_title' style='font-weight:bold;font-family: Noto Sans SC;'>
 	    			Eggcentric TV App
 	    		</div>
 
-	    		<div class='img'>
+	    		<div class='img' style="margin-top: 50px;">
 	    			<img src='/images/apps/image-apps-eggcentrictv.png' />
 	    		</div>
 	    		<br /><br /><br /><br />
 
 	    		
 
-	    		<div class="descip">
+	    		<div class="descip" style='font-family: Noto Sans SC;'>
 	    			浓郁蛋香，叫人爱不释手。我们因此特别推出了一个鸡蛋电视频道。 Eggcentric TV是个完全关于鸡蛋的串流媒体电视频道，只此一家！我们的串流媒体频道为你带来无数来自各界名人和名厨的精彩内容，更提供简易食谱、烹饪技巧和下厨贴士任你欣赏，务求帮助加拿大不同家庭在短时间内轻松变出一桌丰富美味的鸡蛋菜色。
 	    		</div>
 
-	    		<div class='sub_title'>
+	    		<div class='sub_title' style='font-weight:bold;font-family: Noto Sans SC;'>
 	    			一次浏览世界各地的鸡蛋食谱和故事，激发鸡蛋新煮意。
 	    		</div>
 
@@ -172,7 +172,7 @@
 
 	    		</div>
 
-	    		<div class='sub_title text-center'>
+	    		<div class='sub_title text-center' style='font-weight:bold;font-family: Noto Sans SC;'>
 	    			随时打造完美黄金鸡蛋。立即免费下载倒数计时App！
 	    		</div>
 

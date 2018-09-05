@@ -22,18 +22,18 @@
 		</div>
 		<div class="babys_content">
 				
-				<div class='babys_words clear-both'>
-					<p>由加拿大卫生部(Health Canada)、加拿大儿科学会(Canadian Pediatric Society)、加拿大营养师协会(Dietitians of Canada)和加拿大母乳喂养委员会(Breastfeeding Committee for Canada)联合推出的最新婴儿喂食指南指出，建议在宝宝满6个月或刚开始进食固体食物时，引入全蛋喂食。所以您可放心地在宝宝吃的食物泥和粥里加入鸡蛋了！
-					</p>
-				</div>
+				
 				
 				
 
 
 				<div class="babys_words clear-both" >
-					<div class="babys_title_sm_2">您知道吗？ </div>
+					<div class="babys_title_sm_2 text-center" style="margin-top: -20px;">您知道吗？ </div>
 					<p>现在您可以从宝宝6个月大开始喂食全蛋，可有助预防鸡蛋过敏。</p>
-					<br>
+					
+					<p>由加拿大卫生部(Health Canada)、加拿大儿科学会(Canadian Pediatric Society)、加拿大营养师协会(Dietitians of Canada)和加拿大母乳喂养委员会(Breastfeeding Committee for Canada)联合推出的最新婴儿喂食指南指出，建议在宝宝满6个月或刚开始进食固体食物时，引入全蛋喂食。所以您可放心地在宝宝吃的食物泥和粥里加入鸡蛋了！
+					</p>
+				
 					
 					<p>专家不再推荐等到宝宝满12个月时，才引进常见的引起过敏的食物。而实际上，研究表明尽早开始喂食全蛋能有效降低婴儿对鸡蛋产生过敏的风险。</p>
 
@@ -47,7 +47,7 @@
 					<p>您可以按照以下简单提示，开始慢慢加入煮熟的鸡蛋给宝宝吃：</p>
 					<p>
 						<ul>
-							<li class='steps_words'>煮熟一整个鸡蛋并捣碎 <span style='font-size: 20px;    font-family: "Noto Sans TC";'>*</span></li>
+							<li class='steps_words'>煮熟一整个鸡蛋并捣碎 <span style='font-size: 20px;    font-family: "Noto Sans SC";'>*</span></li>
 							<li class='steps_words'>取约1.5茶匙(7毫升)与少许母乳、婴儿配方奶或水搅匀</li>
 							<li class='steps_words'>不要加盐、糖、黄油或人造黃油到蛋黄里</li>
 							<li class='steps_words'>让您的宝宝品尝食物的原汁原味</li>

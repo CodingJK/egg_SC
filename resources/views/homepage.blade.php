@@ -100,7 +100,7 @@
         <div class='container-fluid FeaturedRecipe_parent clear-both'>
             <br><br>
             <div class='FeaturedRecipe'>
-                <div class='title'>精选食谱<br><br></div>
+                <div class='title' style="font-family: Noto Sans SC;">精选食谱<br><br></div>
                 <div class='row'>
                     <div class='col-sm-6 '>
                         <a href="/Steamed-crab-claw-with-egg-whites">
@@ -130,43 +130,43 @@
         <div class='BBQ_parent'>
             <div class="row summerBBQ">
                 
-                <div class='title'><b>全部中文食谱</b> </div>
+                <div class='title' style="font-family: Noto Sans SC;"><b>全部中文食谱</b> </div>
                 
                 <div class='row'>
                    <div class='col-sm-6 col-lg-4'>
                                 <a href="/breakfast">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-                                    <div class='name'>早餐</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">早餐</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/soup">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-                                    <div class='name'>汤</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">汤</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/appetizers">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-                                    <div class='name'>小食/前菜 </div>
+                                    <div class='name' style="font-family: Noto Sans SC;">小食/前菜 </div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/main">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
-                                    <div class='name'>主菜</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">主菜</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                <a href="/dessert">
                                 <img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
-                                    <div class='name'>甜品</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">甜品</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/newest">
                                     <img class='recipes_img' src='/images/recipes/Classic-Pad-Thai-small_r.jpg' />
-                                    <div class='name'>最新食谱</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">最新食谱</div>
                                 </a>
                     </div>
                     
@@ -175,7 +175,7 @@
         </div>
 
         <div class='col-xs-12 getTheRecipe_1 text-center'>
-            <a href="/Recipes" id='getTheRecipe_1'> 浏览食谱 </a>
+            <a href="/Recipes" id='getTheRecipe_1' style="font-family: Noto Sans SC;"> 浏览食谱 </a>
         </div>
 
     </div> 
@@ -184,12 +184,12 @@
     <div id='mobile_only'>
         <div class='mobile_header'>
             <div class='getTheRecipe_1 text-center'>
-                <a href="/Recipes" id='getTheRecipe_1'> 浏览食谱 </a>
+                <a href="/Recipes" id='getTheRecipe_1' style="font-family: Noto Sans SC;"> 浏览食谱 </a>
             </div>
         </div>
         <div class='FeaturedRecipe_parent clear-both'>
             <div class='FeaturedRecipe'>
-               <div class='title'>精选食谱<br><br></div>
+               <div class='title' style="font-family: Noto Sans SC;">精选食谱<br><br></div>
                 <div class='row'>
                     <div class='col-sm-6 '>
                         <a href="/Steamed-crab-claw-with-egg-whites">
@@ -223,43 +223,43 @@
         <div class='BBQ_parent'>
             <div class=" summerBBQ">
         
-                 <div class='title'><b>全部中文食谱</b> </div>
+                 <div class='title' style="font-family: Noto Sans SC;"><b>全部中文食谱</b> </div>
                 
                 <div class='row'>
                    <div class='col-sm-6 col-lg-4'>
                                 <a href="/breakfast">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-02-Final-web.jpg' />
-                                    <div class='name'>早餐</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">早餐</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/soup">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-07-Final-web.jpg' />
-                                    <div class='name'>汤</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">汤</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/appetizers">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-16-Final-web.jpg' />
-                                    <div class='name'>小食/前菜 </div>
+                                    <div class='name' style="font-family: Noto Sans SC;">小食/前菜 </div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/main">
                                     <img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
-                                    <div class='name'>主菜</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">主菜</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                <a href="/dessert">
                                 <img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
-                                    <div class='name'>甜品</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">甜品</div>
                                 </a>
                     </div>
                     <div class='col-sm-6 col-lg-4'>
                                 <a href="/newest">
                                     <img class='recipes_img' src='/images/recipes/Classic-Pad-Thai-small_r.jpg' />
-                                    <div class='name'>最新食谱</div>
+                                    <div class='name' style="font-family: Noto Sans SC;">最新食谱</div>
                                 </a>
                     </div>
                     
@@ -268,7 +268,7 @@
         </div>
         
         <div class='col-xs-12 getTheRecipe_1 text-center'>
-            <a href="/Recipes" id='getTheRecipe_1'> 浏览食谱 </a>
+            <a href="/Recipes" id='getTheRecipe_1' style="font-family: Noto Sans SC;"> 浏览食谱 </a>
         </div>
         
     </div>   

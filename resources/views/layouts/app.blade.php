@@ -7,11 +7,12 @@
    <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79368805-1"></script>
 <script>
+
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-79368805-1');
+  gtag('config', 'UA-79368805-2');
 </script>
 
     <title>Home | EggsAreGood.ca</title>
@@ -54,19 +55,14 @@
 
     
     <style>
-      @import url('https://fonts.googleapis.com/earlyaccess/notosanssc.css');
-      * {
-      font-family: 'Noto Sans SC', sans-serif !important; }
       @import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
-      * {
-      font-family: 'Noto Sans TC', sans-serif !important; }
-
+      @import url(http://fonts.googleapis.com/earlyaccess/notosanssc.css);
     </style>
   
     {{-- jquery --}}
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    </script>
+    
     <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -77,7 +73,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
    
-	
+  
   </head>
   <body>
 
@@ -89,16 +85,16 @@
               </div>
             </a>
             <div class='navigation_body links'>
-                <a href='/Recipes' class='reciptes_link' style='font-weight:bold;'>食谱</a>
-                <a href='/Eggs101'  class='eggs101_link' style='font-weight:bold;'>鸡蛋小知识</a>
-                <a href='/Nutrition'  class='nutrition_link' style='font-weight:bold;'>营养价值</a>
-                <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;'>宝宝与鸡蛋</a>
-                <a href='/Apps' class='apps_link' style='font-weight:bold;'>应用程序</a>
+                <a href='/Recipes' class='reciptes_link' style='font-weight:bold; font-family: Noto Sans SC;'>食谱</a>
+                <a href='/Eggs101'  class='eggs101_link' style='font-weight:bold;font-family: Noto Sans SC;'>鸡蛋小知识</a>
+                <a href='/Nutrition'  class='nutrition_link' style='font-weight:bold;font-family: Noto Sans SC;'>营养价值</a>
+                <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;font-family: Noto Sans SC;'>宝宝与鸡蛋</a>
+                <a href='/Apps' class='apps_link' style='font-weight:bold;font-family: Noto Sans SC;'>应用程序</a>
                
                  
-                <a href='http://www.lesoeufs.ca/' class='lang' style='margin-left:auto'><b> 繁体中文 </b></a>
+                <a href='http://www.eggsaregood.ca' class='lang' style='margin-left:auto;font-family: Noto Sans TC;'><b> 繁体中文 </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
-                <a href='http://www.eggsaregood.ca/SC/' class='lang' style='margin-right:-100px;'><b> French </b></a>
+                <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
             </div>
         </div>
         {{-- middle nav --}}
@@ -108,14 +104,14 @@
             </div>
           </a>
           <div class='navigation_body links'>
-            <a href='/Recipes' class='reciptes_link' style='font-weight:bold;'>食谱</a>
-            <a href='/Eggs101' class='eggs101_link' style='font-weight:bold;'>鸡蛋小知识</a>
-            <a href='/Nutrition' class='nutrition_link' style='font-weight:bold;'>营养价值</a>
-            <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;'>宝宝与鸡蛋</a>
-            <a href='/Apps' class='apps_link' style='font-weight:bold;'>应用程序</a>
-            <a href='http://www.lesoeufs.ca/' class='lang' style='margin-left:auto'><b> 繁体中文 </b></a>
+            <a href='/Recipes' class='reciptes_link' style='font-weight:bold;font-family: Noto Sans SC;'>食谱</a>
+            <a href='/Eggs101' class='eggs101_link' style='font-weight:bold;font-family: Noto Sans SC;'>鸡蛋小知识</a>
+            <a href='/Nutrition' class='nutrition_link' style='font-weight:bold;font-family: Noto Sans SC;'>营养价值</a>
+            <a href='/Eggforbabies' class='eggforbabies_link' style='font-weight:bold;font-family: Noto Sans SC;'>宝宝与鸡蛋</a>
+            <a href='/Apps' class='apps_link' style='font-weight:bold;font-family: Noto Sans SC;'>应用程序</a>
+             <a href='http://www.eggsaregood.ca' class='lang' style='margin-left:auto;font-family: Noto Sans TC;'><b> 繁体中文 </b></a>
                 <a href='https://www.eggs.ca/' class='lang'><b> English </b></a>
-                <a href='http://www.eggsaregood.ca/SC/' class='lang' style='margin-right:-100px;'><b> French </b></a>
+                <a href='http://www.lesoeufs.ca/' class='lang' style='margin-right:-100px;'><b> French </b></a>
           </div>
         </div>
         {{-- mobile navigation --}}
@@ -130,12 +126,12 @@
           <div class='navbar-fixed-top' id='alert_layer'>
             <div class="text-center col-xs-2"><button class="btn btn-clear" id='close-alert'>X</button></div>
             <div class="col-xs-8">
-              <div class="col-xs-12 text-center alert-link"><a href="/Recipes" style='font-weight:bold;'>食谱</a></div>
-              <div class="col-xs-12 text-center alert-link"><a href="/Eggs101" style='font-weight:bold;'>鸡蛋小知识</a></div>
-              <div class="col-xs-12 text-center alert-link"><a href="/Nutrition" style='font-weight:bold;'>营养价值</a></div>
-              <div class="col-xs-12 text-center alert-link"><a href="/Eggforbabies" style='font-weight:bold;'>宝宝与鸡蛋</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Recipes" style='font-weight:bold;font-family: Noto Sans SC;'>食谱</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Eggs101" style='font-weight:bold;font-family: Noto Sans SC;'>鸡蛋小知识</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Nutrition" style='font-weight:bold;font-family: Noto Sans SC;'>营养价值</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Eggforbabies" style='font-weight:bold;font-family: Noto Sans SC;'>宝宝与鸡蛋</a></div>
               
-              <div class="col-xs-12 text-center alert-link"><a href="/Apps" style='font-weight:bold;'>应用程序</a></div>
+              <div class="col-xs-12 text-center alert-link"><a href="/Apps" style='font-weight:bold;font-family: Noto Sans SC;'>应用程序</a></div>
               <div class="col-xs-12 text-center "></div>
             </div>
             <script>
@@ -162,9 +158,9 @@
 <footer class='clear-top'>
   <div class='container-fluid' id='mobile-footer-sm'>
     <div class='col-xs-12'>
-        <h2>每月透過電郵收到新鮮食谱！(英文)</h2>
+       <!--  <h2>每月透過電郵收到新鮮食谱！(英文)</h2> -->
        
-      <h2>關注社交媒體專頁(英文)</h2>
+      <h2>关注社交媒体专页(英文)</h2>
       <div>
         <ul class="col-xs-12">
           <li class='col-xs-2 col-xs-offset-1 '>
@@ -191,20 +187,20 @@
           <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources'>資料數據(英文)</a>
+          <a href='http://www.eggs.ca/resources'>其他资料(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community'>社區消息(英文)</a>
+          <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us'>關於我們(英文)</a>
+          <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus'>聯絡我們(英文)</a>
+          <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
         </li>
         
       </div>
-      <div id='copyright'>© 2017 Egg Farmers of Canada. All rights reserved</div>
+      <div id='copyright'>© 2018 Egg Farmers of Canada. All rights reserved</div>
     </div>
     
     
@@ -224,9 +220,9 @@
   
   <div class='container-fluid' id='mobile-footer-big'>
     <div class='col-xs-12'>
-      <h2>每月透過電郵收到新鮮食谱！(英文)</h2>
+     <!--  <h2>每月通过电子邮箱收到新鲜食谱！(英文)</h2> -->
        
-      <h2>關注社交媒體專頁(英文)</h2>
+      <h2>关注社交媒体专页(英文)</h2>
       <div>
         <ul class="col-xs-8 col-xs-offset-2">
           <li class='col-xs-2 col-xs-offset-1 '>
@@ -252,21 +248,21 @@
           <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources'>資料數據(英文)</a>
+          <a href='http://www.eggs.ca/resources'>其他资料(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community'>社區消息(英文)</a>
+          <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us'>關於我們(英文)</a>
+          <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus'>聯絡我們(英文)</a>
+          <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
         </li>
         
       </div>
       <div id='copyright'>
-        <span>© 2017 Egg Farmers of Canada. All rights reserved </span>
+        <span>© 2018 Egg Farmers of Canada. All rights reserved </span>
         <a href='http://www.eggs.ca/privacypolicy/'>Privacy Policy</a>
         <a href='http://www.eggs.ca/termsandconditions/'>Terms & Conditions</a>
       </div>
@@ -282,11 +278,11 @@
     
     <div class='col-sm-12 '>
       <div class='col-sm-7 left'>
-        <span>每月透過電郵收到新鮮食谱！(英文)</span>
+       <!--  <span>每月通过电子邮箱收到新鲜食谱！(英文)</span> -->
       </div>
        
       <div class='col-sm-5  right'>
-        <span>關注社交媒體專頁(英文)</span>
+        <span>关注社交媒体专页(英文)</span>
       </div>
     </div>
     <div class='col-sm-12'>
@@ -319,16 +315,16 @@
           <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/resources'>資料數據(英文)</a>
+          <a href='http://www.eggs.ca/resources'>其他资料(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/community'>社區消息(英文)</a>
+          <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/about-us'>關於我們(英文)</a>
+          <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
         </li>
         <li >
-          <a href='http://www.eggs.ca/contactus'>聯絡我們(英文)</a>
+          <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
         </li>
         
       </div>
@@ -339,7 +335,7 @@
       
       <div class="col-sm-6">
         
-        <span id='copyright'>© 2017 Egg Farmers of Canada. All rights reserved </span>
+        <span id='copyright'>© 2018 Egg Farmers of Canada. All rights reserved </span>
         
       </div>
       <div class='col-sm-6' id='policy'>
@@ -356,10 +352,10 @@
     <div class='container-fluid' id='desktop-footer-big'>
       <div class='col-lg-12'>
         <div class='col-lg-7 left'>
-          <span>每月透過電郵收到新鮮食谱！(英文)</span>
+         <!--  <span>每月通过电子邮箱收到新鲜食谱！(英文)</span> -->
         </div>
         <div class='col-lg-5  right'>
-          <span>關注社交媒體專頁(英文)</span>
+          <span>关注社交媒体专页(英文)</span>
         </div>
       </div>
       <div class='col-lg-12'>
@@ -392,16 +388,16 @@
             <a href='http://www.eggfarmers.ca/'>Eggfarmers.ca</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/resources'>資料數據(英文)</a>
+            <a href='http://www.eggs.ca/resources'>其他资料(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/community'>社區消息(英文)</a>
+            <a href='http://www.eggs.ca/community'>社区消息(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/about-us'>關於我們(英文)</a>
+            <a href='http://www.eggs.ca/about-us'>关于我们(英文)</a>
           </li>
           <li >
-            <a href='http://www.eggs.ca/contactus'>聯絡我們(英文)</a>
+            <a href='http://www.eggs.ca/contactus'>联系我们(英文)</a>
           </li>
           
         </div>
@@ -412,7 +408,7 @@
         
         <div class="col-lg-6">
           
-          <span id='copyright'>© 2017 Egg Farmers of Canada. All rights reserved </span>
+          <span id='copyright'>© 2018 Egg Farmers of Canada. All rights reserved </span>
           
         </div>
         <div class='col-lg-6' id='policy'>
@@ -439,56 +435,39 @@
           $("#logo").css('height','150px');
           $("#mid_logo").css('height','150px');
         } 
-
-
        
         
     });
-
-
-
     $(".fb").mouseover(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_facebook-over.png');
     });
-
     $(".fb").mouseleave(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_facebook.png');
     });
-
     $(".instagram").mouseover(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_instagram-over.png');
     });
-
     $(".instagram").mouseleave(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_instagram.png');
     });
-
     $(".youtube").mouseover(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_youtube-over.png');
     });
-
     $(".youtube").mouseleave(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_youtube.png');
     });
-
     $(".pinterest").mouseover(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_pinterest-over.png');
     });
-
     $(".pinterest").mouseleave(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_pinterest.png');
     });
-
     $(".twitter").mouseover(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_twitter-over .png');
     });
-
     $(".twitter").mouseleave(function(){
       $(this).attr('src','./images/social/egg_socialMediaIconSet_twitter.png');
     });
-
     $(function () { $('#newsletter').modal('hide')});
-
-
 </script>
 </html>

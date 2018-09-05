@@ -12,21 +12,21 @@
 	</script>
 	<div id='recipes'>
       	<div class='big_screen_only'>
-	      	<div class='container-fuild header'>
+	      	<!-- <div class='container-fuild header'>
 		      	<div class='header_artical'>
 		      		<div class='title'>食谱</div>
 		      		<div class='sub_title'>
 						浏览我们的多款鸡蛋食谱，用鸡蛋烹调出多姿多彩的菜式！无论是平日的美味早餐，周末的悠闲午餐，还是款待客人的精致美食，甚至是为孩子制作点心，您都能在这里找到心仪食谱，为每一餐找到美味「煮」意！
 		      		</div>
 		      	</div>	
-		    </div>
+		    </div> -->
 	    	<div class='container-fluid Picnic_parent'>
 
 				<div class='complete_parent'>
 					
 					<div class='complete'> 
 						
-						<div id='title_com' style="margin-top:60px;margin-bottom: 60px;">早餐</div>
+						<div id='title_com' style="margin-top: 200px; margin-bottom: 50px;">早餐</div>
 						
 						<div class='row'>
 							<div class='col-sm-6 col-lg-4'>
@@ -83,7 +83,7 @@
 						
 						<br /><br /><br />
 						<div class='row viewAll_center'>
-							<a href="http://www.eggs.ca/recipes" id='ViewAll'> 浏览食谱 </a>
+							<a href='/Recipes' id='ViewAll'> 返回食谱 </a>
 						</div>
 						<br /><br /><br />
 					</div>

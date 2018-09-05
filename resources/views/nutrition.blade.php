@@ -9,10 +9,10 @@
 			});
 		</script>
       	
-      	<div class='container-fuild nutrition_header'>
+      	<div class='container-fuild nutrition_header' style="padding-top: -7px;" >
 			<div class='nutrition_header_artical'>
-				<div class='nutrition_title'>营养价值</div>
-				<div class='nutrition_sub_title'>
+				<div class='nutrition_title '>营养价值</div>
+				<div class='nutrition_sub_title' style="margin-top: 30px;">
 					鸡蛋是营养最丰富的天然食品之一。一个大号鸡蛋仅含70卡路里，却饱含大量营养。
 				 </div>
 			</div>	
@@ -35,7 +35,7 @@
 
 			<div class="eggs_nutrition">
 				<br>
-				<div class="nutrition_title_sm_1" >营养价值</div>
+				<div class="nutrition_title_sm_1 text-center" >营养价值</div>
 
 				<p>鸡蛋不仅美味，而且营养十分丰富，是蛋白质的极佳来源，能提供人体所需的重要营养物质。现在就来了解为什么您应把鸡蛋作为膳食的一部分，以及了解如何为您自己、小孩甚至家中长者保持健康的生活方式。</p>
 				<div class='nutrition_title_sm_2'>营养成分</div>
@@ -145,18 +145,18 @@
 				</div>
 				
 				<div class="nutrition_words clear-both">
-					<div class="nutrition_title_sm_2">蛋白质 </div>
+					<div class="nutrition_title_sm_2"  style="margin-top: 50px;">蛋白质 </div>
 					<div class='worlds'>鸡蛋含有6克最优质的蛋白质和14种关键营养素，能为您提供人体运作所需的能量，是维持健康和积极生活方式的天然选择。</div>
 					<div class='worlds'>鸡蛋乃少数被认为是“完全蛋白质”的食物之一，因为它含有9种必需的氨基酸。氨基酸是构成蛋白质的成分，因此被视为“人体的基石”。</div>
 					<br>
-					<div class="nutrition_title_sm_2">欧米伽-3 (Omega-3)</div>
+					<div class="nutrition_title_sm_2"  style="margin-top: 30px;">欧米伽-3 (Omega-3)</div>
 
 					<div class='worlds'>
 						Omega-3是一种多元不饱和脂肪(即有益脂肪)，有助保护您的心脏。这些脂肪对人体健康是必需的，但由于人体不能自行制造，因此必须从食物中摄取，例如三文鱼、某些种类的食用油和果仁，以及含有omega-3的鸡蛋。
 					</div>
 					
 					<br>
-					<div class="nutrition_title_sm_2">胆固醇</div>
+					<div class="nutrition_title_sm_2" style="margin-top: 30px;">胆固醇</div>
 					<div class='worlds'><b>您可食用的鸡蛋份量可能比您想象中多！</b></div>
 					<div class='worlds'>
 						如果您不吃鸡蛋是因为担心它会成为胆固醇的来源及导致冠心病，现在是时候重新考虑了。最新的研究表明，健康的成年人每天可进食1个鸡蛋，而不会增加心脏疾病的风险。
@@ -169,7 +169,7 @@
 						欲知更多有助您了解及管理胆固醇的资料，请浏览: <a href="eggfarmers.ca" target='_blank'>aneggadayisok.ca</a>.
 					</div>
 					<br>
-					<div class="nutrition_title_sm_2">鸡蛋过敏</div>
+					<div class="nutrition_title_sm_2" style="margin-top: 30px;">鸡蛋过敏</div>
 					<div class='worlds'>
 						对鸡蛋过敏在成人当中十分罕见，最常见于2至7岁的儿童。研究表明，大多数儿童往往在几年内就不再对鸡蛋过敏，然而，严重的鸡蛋过敏可能是终生性的。鸡蛋过敏是由其中的一种蛋白质引起，该蛋白质可触发免疫系统产生一种不正常反应。鸡蛋含有两个致敏部分：蛋黄及蛋白。过敏反应根据个人情况及蛋的进食量而有所不同，可以是轻微亦可能足以致命。
 					</div>

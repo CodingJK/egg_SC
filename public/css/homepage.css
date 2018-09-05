@@ -84,7 +84,7 @@
         text-align: left;
         margin: 26px 0;
         padding-left: 15px;
-        font-family: Open Sans,Tahoma,sans-serif; }
+        font-family: Noto Sans SC,sans-serif; }
         #homepage .summerBBQ .left_body:hover {
           color: #858585; }
       #homepage .summerBBQ .right_body {
@@ -94,7 +94,7 @@
         text-align: left;
         margin: 26px 0;
         padding-left: 15px;
-        font-family: Open Sans,Tahoma,sans-serif; }
+       font-family: Noto Sans SC,sans-serif; }
         #homepage .summerBBQ .right_body:hover {
           color: #858585; }
       #homepage .summerBBQ #MoreBBQ {
@@ -157,7 +157,7 @@
         line-height: 38px;
         text-align: left;
         margin: 26px 0;
-        font-family: Open Sans,Tahoma,sans-serif; }
+       font-family: Noto Sans SC,sans-serif; }
         #homepage .FeaturedRecipe .right_body:hover {
           color: #858585; }
     
@@ -281,7 +281,7 @@
         text-align: left;
         margin: 26px 0;
         padding-left: 15px;
-        font-family: Open Sans,Tahoma,sans-serif; }
+       font-family: Noto Sans SC,sans-serif; }
     .right_body:hover {
         color: #858585; 
     }
@@ -330,7 +330,7 @@
     font-weight: 300;
     line-height: 24.64px;
     margin-bottom: 35.2px;
-    font-family: "Open Sans", Tahoma, sans-serif;
+   font-family: Noto Sans SC, sans-serif;
     margin-bottom: 60px;
     padding-left: 50px;
   }
@@ -411,7 +411,7 @@
         text-align: center;
         margin: 26px 0;
         padding-left: 15px;
-        font-family: Open Sans,Tahoma,sans-serif; }
+        font-family: Noto Sans SC,sans-serif; }
     .right_body:hover {
         color: #858585; 
     }

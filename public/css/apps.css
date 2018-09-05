@@ -1,7 +1,7 @@
 body {
   background: white;
   min-height: 1999px;
-  font-family: kaleko_205_roundbook,Proxima Nova,Avenir Next,Avenir,sans-serif; }
+  font-family: Noto Sans SC,sans-serif; }
   body a:hover {
     text-decoration: none; }
   body a:visited {
@@ -17,7 +17,12 @@ body {
     #apps .mobile_only {
       display: none; }
     #apps .header {
-      background-image: url("/images/apps/image-apps-hero.png");
+      text-align: center;
+      padding-top:530px;
+      padding-bottom: 120px;
+      
+      height:605px;
+      background-image: url("/images/apps/image-apps-hero.jpg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -32,7 +37,7 @@ body {
           font-size: 80px;
           line-height: 80px;
           font-weight: bold;
-          margin: 40px 0; }
+          margin-top:-100px; }
     #apps .timer_parent {
       background-color: white;
       text-align: center; }
@@ -43,15 +48,14 @@ body {
           color: black;
           font-size: 40px;
           line-height: 40px;
-          font-weight: bold;
-          margin: 52px 0; }
+          font-weight: bold;}
         #apps .timer_parent .timer .descip {
           width: 1015px;
           line-height: 38px;
           margin: auto;
           font-size: 20px;
           padding: 0 30px;
-          font-family: Open Sans,Tahoma,sans-serif; }
+         /* font-family: Open Sans,Tahoma,sans-serif; */}
         #apps .timer_parent .timer .sub_title {
           clear: both;
           color: black;
@@ -83,14 +87,14 @@ body {
         #apps .features_parent .features .details {
           width: 887px;
           margin: auto;
-          font-family: "Open Sans", Tahoma, sans-serif;
+          /*font-family: "Open Sans", Tahoma, sans-serif;*/
           font-size: 20px;
           line-height: 38px;
           padding: 0 90px 8px 0; }
         #apps .features_parent .features .sm_title {
           width: 1015px;
           margin: auto;
-          font-family: "Open Sans", Tahoma, sans-serif;
+         /* font-family: "Open Sans", Tahoma, sans-serif;*/
           font-size: 14px;
           line-height: 38px;
           text-align: left; }
@@ -107,7 +111,7 @@ body {
     #apps img {
       width: 100%; }
     #apps .header {
-      background-image: url("/images/apps/image-apps-hero.png");
+      background-image: url("/images/apps/image-apps-hero.jpg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -130,7 +134,7 @@ body {
         margin-top: 30px; }
         #apps .timer_parent .timer .timer_title {
           color: black;
-          font-size: 32px;
+          font-size: 24px;
           line-height: 32px;
           font-weight: bold;
           padding: 30px 0; }
@@ -139,7 +143,7 @@ body {
           line-height: 30.4px;
           margin: auto;
           font-size: 16px;
-          font-family: Open Sans,Tahoma,sans-serif; }
+         /* font-family: Open Sans,Tahoma,sans-serif; */}
         #apps .timer_parent .timer .sub_title {
           clear:both;
           color: black;
@@ -162,7 +166,7 @@ body {
         margin: 24px 0; }
       #apps .features_parent .features .details {
         color: black;
-        font-family: "Open Sans", Tahoma, sans-serif;
+        /*font-family: "Open Sans", Tahoma, sans-serif;*/
         font-size: 16px;
         line-height: 30.4px;
         padding: 6.4px; }
@@ -183,7 +187,7 @@ body {
     #apps img {
       width: 100%; }
     #apps .header {
-      background-image: url("/images/apps/image-apps-hero.png");
+      background-image: url("/images/apps/image-apps-hero.jpg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -194,7 +198,7 @@ body {
         padding: 130px 0; }
         #apps .header .header_artical .title {
           color: white;
-          font-size: 40px;
+          font-size: 80px;
           line-height: 40px;
           font-weight: bold;
           margin: 20px 0 20px 0;
@@ -206,7 +210,7 @@ body {
         margin-top: 30px; }
         #apps .timer_parent .timer .timer_title {
           color: black;
-          font-size: 32px;
+          font-size: 48px;
           line-height: 32px;
           font-weight: bold;
           padding: 30px 0; }
@@ -215,7 +219,7 @@ body {
           line-height: 30.4px;
           margin: auto;
           font-size: 16px;
-          font-family: Open Sans,Tahoma,sans-serif; }
+         /* font-family: Open Sans,Tahoma,sans-serif;*/ }
         #apps .timer_parent .timer .sub_title {
           clear: both;
           color: black;
@@ -238,12 +242,12 @@ body {
         margin: 24px 0; }
       #apps .features_parent .features .details {
         color: black;
-        font-family: "Open Sans", Tahoma, sans-serif;
+        /*font-family: "Open Sans", Tahoma, sans-serif;*/
         font-size: 16px;
         line-height: 30.4px;
         padding: 6.4px; }
       #apps .features_parent .features .sm_title {
-        font-family: "Open Sans", Tahoma, sans-serif;
+        /*font-family: "Open Sans", Tahoma, sans-serif;*/
         font-size: 11.2px;
         line-height: 21.28px;
         text-align: left;
