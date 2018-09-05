@@ -91,7 +91,7 @@
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
 	                	<span>鸡蛋(全熟去壳，打直切一半)</span>
-	                	<span>熟龙虾（切块，预留12小块用作装饰）</span>
+	                	<span>熟龙虾(切块，预留12小块用作装饰)</span>
 	                	<span>蛋黄酱</span>
 	                	<span>蜜糖芥末酱</span>
 	                	<span>韭菜(切碎)</span>

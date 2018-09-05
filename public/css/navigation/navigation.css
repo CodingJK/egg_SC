@@ -87,6 +87,7 @@
   }
 
   .Header1 .header_nutrition_title {
+     font-family: Noto Sans SC;
     color: white;
     font-size: 60px;
     line-height: 60px;
@@ -97,7 +98,7 @@
     color: white;
     font-size: 22px;
     line-height: 36.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+   font-family: Noto Sans SC;
   }
 
   .Header2 {
@@ -112,12 +113,14 @@
   }
 
   .Header2 .header_nutrition_title {
+     font-family: Noto Sans SC;
     color: white;
     font-size: 60px;
     line-height: 60px;
   }
 
   .Header2 .header_nutrition_sub_title {
+     font-family: Noto Sans SC;
     padding: 10px 50px;
     color: white;
     font-size: 22px;
@@ -216,6 +219,7 @@
     color: white;
     font-size: 60px;
     line-height: 60px;
+     font-family: Noto Sans SC;
   }
 
   .Header1 .header_nutrition_sub_title {
@@ -223,7 +227,7 @@
     color: white;
     font-size: 22px;
     line-height: 36.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+     font-family: Noto Sans SC;
   }
 
   .Header2 {
@@ -235,12 +239,14 @@
     padding-bottom: 250px;
     text-align: center;
     min-height: 619px;
+
   }
 
   .Header2 .header_nutrition_title {
     color: white;
     font-size: 60px;
     line-height: 60px;
+     font-family: Noto Sans SC;
   }
 
   .Header2 .header_nutrition_sub_title {
@@ -248,7 +254,7 @@
     color: white;
     font-size: 22px;
     line-height: 36.4px;
-    font-family: Open Sans, Tahoma, sans-serif;
+    font-family: Noto Sans SC;
   }
   
 }

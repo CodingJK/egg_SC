@@ -82,7 +82,7 @@
 						<span>2条
 </span>
 						<span>4片</span>
-						<span>1/4杯</span>
+						<span>1/4杯(60毫升)</span>
 
 
 
@@ -98,9 +98,9 @@
 	                	<span>鸡汤或水</span>
 	                	<span>鸡蛋</span>
 	                	<span>椰菜(切丝)</span>
-	                	<span>香香葱(切碎))</span>
+	                	<span>香葱(切碎)</span>
 	                	<span>培根(煮熟后压碎)</span>
-	                	<span>(60毫升)芥花籽油</span>
+	                	<span>芥花籽油</span>
 
 	                </div>
                 </div>
@@ -186,7 +186,7 @@
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用大阪烧酱代替喼汁，更具日式风味。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可选用大阪烧酱代替伍斯特辣酱油，更具日式风味。</div>
 						<div class="col-xs-10 col-xs-offset-1 step_body">可选用低钠鸡汤代替鸡汤。</div>
 						
 

@@ -162,7 +162,7 @@
 		     			<div class='col-sm-4 col-xs-12'>
 		     				<a href="/Scrambled-Eggs">
 									<img class='recipes_img' src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
-									<div class='name'>粟米煙肉炒蛋</div>
+									<div class='name'>玉米培根炒蛋</div>
 								</a>
 		     			</div>
 				</div>		

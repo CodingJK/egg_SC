@@ -63,7 +63,7 @@
     }
     #title_com {
         font-family: 'Noto Sans SC';
-        font-size: 32px;
+       font-size:48px;
         font-weight: bold;
         margin: 10px 32px 32px 32px;
         text-align: center; }
@@ -196,6 +196,8 @@
       background-repeat: no-repeat;
       background-size: cover;
       text-align: center;
+      padding-top:40px;
+      padding-bottom: 15px;
   } 
     .header_artical{
       padding: 0 20px 40px 20px;

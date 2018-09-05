@@ -109,7 +109,7 @@
 						<span>糖</span>
 						<span>您喜欢的食用油</span>
 						<span>白胡椒粉</span>
-						<span>生粉水</span>
+						<span>生粉</span>
 						<span>葱花</span>
 	                </div>
                 </div>

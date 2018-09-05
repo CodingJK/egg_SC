@@ -217,7 +217,7 @@
     <div class="modal-content nutrition_facts">
       
         <button type="button"  class="close close_X" data-dismiss="modal">&times;</button>
-        <h1 class="modal-title">營養成分</h1>
+        <h1 class="modal-title">营养成分</h1>
       
       <div class="modal-body">
         <table class='table'>

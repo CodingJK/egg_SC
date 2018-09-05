@@ -85,7 +85,7 @@
 						<span>鸡蛋</span>
 						<span>熟香蕉</span>
 						<span>杏仁奶</span>
-						<span>芥花籽油(分成兩份)</span>
+						<span>芥花籽油(分成两份)</span>
 						<span>发酵粉</span>
 						<span>香草精</span>
 						<span>肉桂粉</span>

@@ -47,8 +47,12 @@
           display: inline;
           padding-left: 10px; }
         footer .footer_link a {
+          font-family: Noto Sans SC;
+          font-weight:bold;
           color: black; }
           footer .footer_link a:hover {
+            font-family: Noto Sans SC;
+            font-weight:bold;
             text-decoration: underline; }
       footer #copyright {
         font-family: Open Sans,Tahoma,sans-serif;

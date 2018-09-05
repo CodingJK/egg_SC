@@ -20,7 +20,7 @@
       	<div class='header col-xs-12'>
 	      	<div class='header_artical'>
 	      		
-	      		<div class='title' style='font-weight:bold;font-family: Noto Sans SC;margin-top:-470px;'>应用程序</div>
+	      		<div class='title' style='font-weight:bold;font-family: Noto Sans SC;'>应用程序</div>
 	      		
 	      	</div>	
 	    </div>
@@ -33,7 +33,7 @@
 	    			煮蛋倒数计时App
 	    		</div>
 
-	    		<div class='img' style="margin-top: 50px;">
+	    		<div class='img'>
 	    			<img src='/images/apps/image-apps-eggtimer.png' />
 	    		</div>
 
@@ -128,7 +128,7 @@
 
 	    		</ul>
 
-	    		<div class='sm_title' style='font-weight:bold;font-family: Noto Sans SC;'>Apple、iPad和iPhone均为Apple Inc.美国及其他国家/地区注册商标。 App Store为Apple Inc.服务商标。</div>
+	    		<div class='sm_title' style='font-family: Noto Sans SC;'>Apple、iPad和iPhone均为Apple Inc.美国及其他国家/地区注册商标。 App Store为Apple Inc.服务商标。</div>
 
 	    	</div>
 

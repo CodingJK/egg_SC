@@ -120,11 +120,11 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>时令蔬菜切片（芦笋、玉米、青瓜、萝卜、瑞士甜菜、甜豌豆）</span>
+	                	<span>时令蔬菜切片(芦笋、玉米、青瓜、萝卜、瑞士甜菜、甜豌豆)</span>
 	                	<span>青柠(汁)</span>
 	                	<span>麻油</span>
 	                	<span>烘煎芝麻</span>
-	                	<span>泡菜（商店购买或自制均可）</span>
+	                	<span>泡菜(商店购买或自制均可)</span>
 	                	<span>红葱头(切片)</span>
 	                	
 	                </div>

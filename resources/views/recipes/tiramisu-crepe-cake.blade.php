@@ -55,7 +55,7 @@
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
 					<li class='recipe_worlds'>准备时间: 15分钟</li>
 					<li><img src="/images/icons/icon-recipe-waittime.svg" alt=""></li>
-					<li class='recipe_worlds'>等候時間: 3小時</li>
+					<li class='recipe_worlds'>等候时间: 3小时</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
 					<li class='recipe_worlds'>烹调时间: 25分钟</li>
 				</ul>
@@ -177,7 +177,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">混合咖啡甜酒和特浓咖啡，拌匀。将一块班戟平放在碟上，涂抹2汤匙（30毫升）馅料。薄薄扫上一层特浓咖啡水。用剩余的班戟重复，逐层堆叠。冷藏至少2小时。洒上可可粉后切成厚件即可上碟。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">混合咖啡甜酒和特浓咖啡，拌匀。将一块班戟平放在碟上，涂抹2汤匙(30毫升)馅料。薄薄扫上一层特浓咖啡水。用剩余的班戟重复，逐层堆叠。冷藏至少2小时。洒上可可粉后切成厚件即可上碟。</div>
 						<hr class='hr1'>
 					</div>
 

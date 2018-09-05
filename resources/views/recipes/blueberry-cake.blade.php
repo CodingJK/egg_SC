@@ -112,7 +112,7 @@ Jill和Sharon的这款蛋糕，卖相美观，做法简单。新斯科舍省野�
 </span>
 	                	<span>发酵粉</span>
 	                	<span>盐</span>
-	                	<span>牛奶（1%脂肪）</span>
+	                	<span>牛奶(1%脂肪)</span>
 	                	<span>野生新鲜或冰鲜蓝莓</span>
 	                	
 	                </div>

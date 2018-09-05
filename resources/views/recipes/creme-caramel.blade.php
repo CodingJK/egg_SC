@@ -87,8 +87,8 @@
 	                	<span>均质牛奶</span>
 	                	<span>香草精</span>
 	                	<span>盐</span>
-	                	<span>鸡蛋(室溫)</span>
-	                	<span>蛋黃</span>
+	                	<span>鸡蛋(室温)</span>
+	                	<span>蛋黄</span>
 	                </div>
                 </div>
 

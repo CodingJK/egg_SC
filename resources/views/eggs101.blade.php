@@ -92,7 +92,7 @@
 
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-25px;'>
-					<h3>以下是加拿大用于鸡蛋分类的重量标准：</h3>
+					<h3 style="font-family:Noto Sans SC;font-weight: bold;">以下是加拿大用于鸡蛋分类的重量标准：</h3>
 					<ul class='eggs101_details' >
 						<li>特小(Peewee) – 少于42克</li>
 
@@ -114,7 +114,7 @@
 			</div>
 			<div class="col-xs-12 col-md-8 col-md-offset-2 ">
 				<div class="col-md-10 col-md-offset-1 eggs101_img" style='margin-top:-80px;'>
-					<h3>鸡蛋的计量方式：</h3>
+					<h3 style="font-family:Noto Sans SC;font-weight: bold;">鸡蛋的计量方式：</h3>
 					<ul class='eggs101_details'>
 						<li>1个大蛋=3茶匙(45毫升)</li>
 			
@@ -142,7 +142,7 @@
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">如何存放鸡蛋</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
-					<h3>始终存放于蛋盒内</h3>
+					<h3 style="font-family:Noto Sans SC;font-weight: bold;">始终存放于蛋盒内</h3>
 				</div>
 				<div class="col-md-1"></div>
 
@@ -158,7 +158,7 @@
 				<div class="col-md-10 col-md-offset-1 eggs101_body_subtitle_2">食品科学</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-10 col-md-offset-1" style='padding-left:0'>
-					<h3>鸡蛋是厨房中不可或缺的食材</h3>
+					<h3 style="font-family:Noto Sans SC;font-weight: bold;">鸡蛋是厨房中不可或缺的食材</h3>
 				</div>
 				<div class="col-md-1"></div>
 				
