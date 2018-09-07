@@ -113,6 +113,10 @@ img {
     padding: 30px 0;
   }
 
+   .nutrition_content .eggs_nutrition div img {
+    width:500px;
+  }
+
   .nutrition_content .left-panel {
     background-color: #fd7170;
     min-height: 300px;
@@ -199,6 +203,8 @@ img {
     font-size: 80px;
     line-height: 80px;
     font-weight:bold;font-family: 'Noto Sans SC';
+    padding-top: 0;
+    margin-top: -45px;
   }
 
   .nutrition_header .nutrition_header_artical .nutrition_sub_title {
@@ -278,6 +284,9 @@ img {
 
   .nutrition_content .eggs_nutrition p {
     padding: 10px 0;
+  }
+  .nutrition_content .eggs_nutrition div img {
+    width:768px;
   }
 
   .nutrition_content .left-panel {

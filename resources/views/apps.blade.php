@@ -29,7 +29,7 @@
 
 	    	<div class='timer'>
 
-	    		<div class='timer_title' style='font-family: Noto Sans SC; color:#333; '>
+	    		<div class='timer_title' style='font-weight:bold;font-family: Noto Sans SC; color:#333; '>
 	    			煮蛋倒数计时App
 	    		</div>
 
@@ -41,7 +41,7 @@
 	    			每次下厨，都可打造完美黄金鸡蛋。立即下载App。
 	    		</div>
 
-	    		<div class="descip" style='font-weight:bold;font-family: Noto Sans SC;margin-top:20px;'>
+	    		<div class="descip" style='font-family: Noto Sans SC;margin-top:20px;'>
 	    			下载Egg Farmers of Canada的官方多功能煮蛋倒数计时App，随时随地都可用手机完美掌握煮蛋时间。倒数计时App操作简单，可按需自由调校功能，更随附各款鸡蛋食谱，绝对能帮到手。按照Egg Farmers of Canada官方窍门煮蛋，烹制柔嫩软绵绵的完美鸡蛋易如反掌。
 	    		</div>
 

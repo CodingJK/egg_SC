@@ -41,7 +41,7 @@
 				<div class='nutrition_title_sm_2'>营养成分</div>
 
 				<p>一个大号A级鸡蛋(53克)含有6克蛋白质和仅70卡路里。加拿大食品指南 <a href="https://www.canada.ca/en/health-canada/services/canada-food-guides.html" id='canada-food-guides'>Canada’s Food Guide</a> 认为两个鸡蛋相当于一份肉类及其替代品。</p>
-				<div class="col-xs-8" style='padding-left:15px'>
+				<div class="col-xs-8" style='padding-left:15px;'>
 					<img src="/images/nutrition/ResizedImage762577-5849-EFC-Nutrition-Comp-SC.jpg" alt="">
 				</div>
 				<div class="col-xs-4"></div>
