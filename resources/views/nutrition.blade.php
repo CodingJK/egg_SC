@@ -54,27 +54,27 @@
 				<table class="table table-bordered " >
 					<tbody>
 						<tr class='light_yellow_tr'>
-							<td><b>热量</b></td>
+							<td>热量</td>
 							<td>70 卡 / 292.88 千焦</td>
 						</tr>
 						<tr>
-							<td><b>脂肪</b></td>
+							<td>脂肪</td>
 							<td>5 克</td>
 						</tr>
 						<tr class='light_yellow_tr'>
-							<td><b>胆固醇</b></td>
+							<td>胆固醇</td>
 							<td>195 毫克</td>
 						</tr>
 						<tr>
-							<td><b>钠</b></td>
+							<td>钠</td>
 							<td>65 毫克</td>
 						</tr>
 						<tr class='light_yellow_tr'>
-							<td><b>碳水化合物</b></td>
+							<td>碳水化合物</td>
 							<td>1 克</td>
 						</tr>
 						<tr>
-							<td><b>蛋白质</b></td>
+							<td>蛋白质</td>
 							<td>6 克 </td>
 						</tr>
 					</tbody>
@@ -87,7 +87,7 @@
 				<div class="" style='clear: both'>
 					<table class='table table-bordered'>
 						<thead>
-							<th>营养素</th>
+							<th>营养物质</th>
 							<th>益处</th>
 						</thead>
 						<tbody>
@@ -152,21 +152,17 @@
 					<div class="nutrition_title_sm_2"  style="margin-top: 30px;">欧米伽-3 (Omega-3)</div>
 
 					<div class='worlds'>
-						Omega-3是一种多元不饱和脂肪(即有益脂肪)，有助保护您的心脏。
+						Omega-3是一种多元不饱和脂肪(即有益脂肪)，有助保护您的心脏。这些脂肪对人体健康是必需的，但由于人体不能自行制造，因此必须从食物中摄取，例如三文鱼、某些种类的食用油和果仁，以及含有omega-3的鸡蛋。
 					</div>
-					<div class='worlds'>
-						这些脂肪对人体健康是必需的，但由于人体不能自行制造，因此必须从食物中摄取，例如三文鱼、某些种类的食用油和果仁，以及含有omega-3的鸡蛋。
-					</div>
+					
 
 					<br>
 					<div class="nutrition_title_sm_2" style="margin-top: 30px;">胆固醇</div>
 					<div class='worlds'><b>您可食用的鸡蛋份量可能比您想象中多！</b></div>
 					<div class='worlds'>
-						如果您不吃鸡蛋是因为担心它会成为胆固醇的来源及导致冠心病，现在是时候重新考虑了。
+						如果您不吃鸡蛋是因为担心它会成为胆固醇的来源及导致冠心病，现在是时候重新考虑了。最新的研究表明，健康的成年人每天可进食1个鸡蛋，而不会增加心脏疾病的风险。
 					</div>
-					<div class='worlds'>
-						最新的研究表明，健康的成年人每天可进食1个鸡蛋，而不会增加心脏疾病的风险。
-					</div>
+					
 					<div class='worlds'>
 						根据美国心脏协会(American Heart Association)，蛋黄中的叶黄素也可预防早期心脏疾病的发展。
 					</div>
@@ -177,14 +173,9 @@
 					<br>
 					<div class="nutrition_title_sm_2" style="margin-top: 30px;">鸡蛋过敏</div>
 					<div class='worlds'>
-						对鸡蛋过敏在成人当中十分罕见，最常见于2至7岁的儿童。研究表明，大多数儿童往往在几年内就不再对鸡蛋过敏。
+						对鸡蛋过敏在成人当中十分罕见，最常见于2至7岁的儿童。研究表明，大多数儿童往往在几年内就不再对鸡蛋过敏。然而，严重的鸡蛋过敏可能是终生性的。鸡蛋过敏是由其中的一种蛋白质引起，该蛋白质可触发免疫系统产生一种不正常反应。鸡蛋含有两个致敏部分：蛋黄及蛋白。过敏反应根据个人情况及蛋的进食量而有所不同，可以是轻微亦可能足以致命。
 					</div>
-					<div class='worlds'>
-						然而，严重的鸡蛋过敏可能是终生性的。鸡蛋过敏是由其中的一种蛋白质引起，该蛋白质可触发免疫系统产生一种不正常反应。
-					</div>
-					<div class='worlds'>
-						鸡蛋含有两个致敏部分：蛋黄及蛋白。过敏反应根据个人情况及蛋的进食量而有所不同，可以是轻微亦可能足以致命。
-					</div>
+					
 				</div>
 			</div>
 			

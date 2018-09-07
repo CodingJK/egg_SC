@@ -24,7 +24,7 @@
     <style>
         @import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
         * {
-            font-family: 'Noto Sans TC', sans-serif !important;
+            font-family: 'Noto Sans SC', sans-serif !important;
         }
 
         body {}
