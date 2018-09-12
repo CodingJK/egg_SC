@@ -34,7 +34,7 @@
 			
 			<span class='recipe_title'>番茄培根煎蛋早餐三明治</span>
 			<p class='title_body'>
-				全麦英式松饼为这道美味充实的早餐添加了健康元素。用牛油纸包起三明治您就可以在路上享用早餐了！
+				全麦英式松饼为这道美味充实的早餐添加了健康元素。用黄油纸包起三明治您就可以在路上享用早餐了！
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">

@@ -61,6 +61,18 @@
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
+								<a href="/stuffed-french-toast-with-strawberries-and-banana">
+									<img class='recipes_img' src='/images/recipes/Stuffed-French-Toast_S.jpg' />
+									<div class='name'>草莓香蕉夹心法式吐司</div>
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/cloud-eggs">
+									<img class='recipes_img' src='/images/recipes/Cloud-Eggs-CMS_S.jpg' />
+									<div class='name'>梦幻云朵蛋</div>
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
 								<a href="/egg-and-veggie-salad-rolls-with-sweet-heat-dipping-sauce">
 									<img class='recipes_img' src='/images/recipes/Egg-and-Veggie-Salad-Rolls-with-Sweet-Heat-Dipping-Sauce-small_r.jpg' />
 									<div class='name'>越式鸡蛋生菜沙拉卷配甜辣酱</div>
@@ -158,6 +170,13 @@
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
+								<a href="/zesty-eggplant-frittata">
+									<img class='recipes_img' src='/images/recipes/Zesty-Eggplant-Frittata_S.jpg' />
+									<div class='name ' >茄子意大利蛋饼</div>
+									
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
 								<a href="/maple-walnut-tarts">
 														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
 														<div class='name ' >枫糖核桃馅饼</div>
@@ -179,6 +198,18 @@
 								<a href="/tiramisu-crepe-cake">
 														<img class='recipes_img' src='/images/recipes/Tiramisu-Crepe-Cake-small_r.jpg' />
 														<div class='name ' >提拉米苏千层蛋糕</div>
+													</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/cafe-pot-au-creme">
+														<img class='recipes_img' src='/images/recipes/Cafe-Chocolate-Pot-au-Creme-CMS_S.jpg' />
+														<div class='name ' >法式朱古力咖啡杯</div>
+													</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/fatal-attraction">
+														<img class='recipes_img' src='/images/recipes/Fatal-Attractions-01-S.jpg' />
+														<div class='name ' >巧克力雪山曲奇饼</div>
 													</a>
 							</div>
 

@@ -168,7 +168,7 @@
 					</div>
 					
 					<div class='worlds'>
-						欲知更多有助您了解及管理胆固醇的资料，请浏览: <a href="eggfarmers.ca" target='_blank'>aneggadayisok.ca</a>.
+						欲知更多有助您了解及管理胆固醇的资料，请浏览: <a href="https://www.eggs.ca/" target='_blank'>aneggadayisok.ca</a>.
 					</div>
 					<br>
 					<div class="nutrition_title_sm_2" style="margin-top: 30px;">鸡蛋过敏</div>

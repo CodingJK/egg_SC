@@ -72,6 +72,18 @@
 														<div class='name ' >提拉米苏千层蛋糕</div>
 													</a>
 							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/cafe-pot-au-creme">
+														<img class='recipes_img' src='/images/recipes/Cafe-Chocolate-Pot-au-Creme-CMS_S.jpg' />
+														<div class='name ' >法式朱古力咖啡杯</div>
+													</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/fatal-attraction">
+														<img class='recipes_img' src='/images/recipes/Fatal-Attractions-01-S.jpg' />
+														<div class='name ' >巧克力雪山曲奇饼</div>
+													</a>
+							</div>
 						</div>
 						
 

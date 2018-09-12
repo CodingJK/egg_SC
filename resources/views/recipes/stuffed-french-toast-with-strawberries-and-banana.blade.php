@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>大阪烧</span>
+			<span class='recipe_title'>草莓香蕉夹心法式吐司</span>
 			<p class='title_body'>
-					大阪烧其实就是用椰菜、香葱和培根快速煎成的日式咸薄饼。大阪烧的意思就是随意把喜欢的东西烧来吃，所以你可用这个食谱做基础，加入任何喜欢的配料，炮制出属于你自己的大阪烧！
+					松软幼滑的鸡蛋面包，配以新鲜水果夹心和香橙蛋酱，创意满分！这款外脆内软的法式吐司一定能让你的宾客一试爱上，意犹未尽。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -45,15 +45,15 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Okonomiyaki-big.jpg" alt="">
+				<img src="/images/recipes/Stuffed-French-Toast_L.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 6位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间: 10分钟</li>
+					<li class='recipe_worlds'>准备时间: 15分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
 					<li class='recipe_worlds'>烹调时间: 10分钟</li>
 				</ul>
@@ -69,78 +69,50 @@
            
                 
  				<div class="ingredients" style='clear: both'>
- 					
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
-	                	
-					
-						<span>3/4杯(175毫升)</span>
-						<span>1/2茶匙(2.5毫升)</span>
-						<span>1/2杯(125毫升)</span>
-						<span>4只</span>
-						<span>3杯(750毫升)</span>
-						<span>2条
-</span>
-						<span>4片</span>
-						<span>1/4杯(60毫升)</span>
+								<span>4片</span>
+								<span>1/2杯(125毫升)</span>
+								<span>1条</span>
+								<span>2汤匙(30毫升)</span>
+								<span>1/2茶匙(2.5毫升)</span>
+								<span>3只</span>
+								<span>3/4杯(175毫升)</span>
+								<span>1茶匙(5毫升)</span>
+								<span>1/2茶匙(2.5毫升)</span>
+								<span>适量</span>
+								<span>2汤匙(30毫升)</span>
+								<span>1汤匙(15毫升)</span>
+								<span>1/4杯(60毫升)</span>
 
-
-
-
-
-	                	
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>多用途面粉
-</span>
-	                	<span>盐</span>
-	                	<span>鸡汤或水</span>
-	                	<span>鸡蛋</span>
-	                	<span>椰菜(切丝)</span>
-	                	<span>香葱(切碎)</span>
-	                	<span>培根(煮熟后压碎)</span>
-	                	<span>芥花籽油</span>
-
+	                	<span>鸡蛋方包(1英寸/2.5厘米厚片)</span>
+	                	<span>草莓(切薄片)</span>
+						<span>熟香蕉(切薄片)</span>
+						<span>砂糖(分两份)</span>
+						<span>肉桂粉</span>
+						<span>鸡蛋(打散)</span>
+						<span>牛奶</span>
+						<span>香草精</span>
+						<span>橙皮碎</span>
+						<span>盐</span>
+						<span>黄油</span>
+						<span>糖霜</span>
+						<span>枫糖浆</span>
+	                	
 	                </div>
                 </div>
-                <div class="ingredients" style='clear: both'>
- 					<div class='recipes_subtitle'>配料</div>
-	                <div class="col-xs-6 text-right ingredients_right">
-	                	
-	                	
-					
-						<span>2杯(500毫升)</span>
-						<span>1条
-</span>
-						<span>2杯(500毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>1汤匙(15毫升)</span>
-						<span>1汤匙(15毫升)</span>
+                
 
 
 
 
 
 
-	                	
-	                	
-	                </div>
-	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>豆芽</span>
-	                	<span>香葱(打斜切片)</span>
-	                	<span>鲣鱼碎</span>
-	                	<span>腌姜</span>
-	                	<span>烘煎芝麻</span>
-	                	<span>酱油</span>
-	                	<span>伍斯特辣酱油</span>
-	                	<span>亚洲风味辣酱</span>
-	                </div>
-                </div>
+                
 
-			
 
 				<div class="step">
 
@@ -148,56 +120,41 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在碗中搅匀面粉和盐。在另一个碗，打蛋后加鸡汤，倒入面糊混合。加入椰菜、洋葱和培根。
-
-
-
-
-</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将一把细刀打横从面包边插入，沿着边缘轻轻切开形成口袋，注意不要直切到底。重复以上步骤直至切完其他面包。将草莓、香蕉、1汤匙(15毫升)糖和肉桂粉混合搅拌，均匀塞进每片面包中。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在防黏平底锅中，中高温烧热1汤匙(15毫升)油。倒入1/2杯(125毫升)面糊，用锅铲轻轻按下压平。煮3-4分钟或至底部变啡色，翻转煎多3-4分钟。用剩余面糊重复以上步骤，按需加更多油。
+						<div class="col-xs-10 col-xs-offset-1 step_body">在碗中将鸡蛋，牛奶，剩余的糖，香草精，橙皮和盐均匀搅拌，将每片面包浸入蛋液中15-20秒或直至渗透。
 
 						</div>
 							<hr class='hr1'>
 					</div>
 
-					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">配料：放上豆芽、葱花、鲣鱼碎、姜、芝麻、酱油、伍斯特辣酱油和辣酱。
-
-						</div>
-							<hr class='hr1'>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在大型防粘锅用中火加热黄油，慢煎西多士，翻转一次，煎7-10分钟或至金黄色。撒上糖霜点缀，伴以枫糖浆食用。</div>
+						<hr class='hr1'>
 					</div>
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">重复以上步骤，可煎多5份。
 
-						</div>
-							<hr class='hr1'>
-					</div>
+
 					
 					<hr>
+
 					
+
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用大阪烧酱代替伍斯特辣酱油，更具日式风味。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用低钠鸡汤代替鸡汤。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可随个人口味加入其他水果。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">可在水果馅中加入2盎司(60克)苦甜巧克力碎，味道更香滑浓郁。</div>
 						
 
 						<hr class='hr1'>
 						
 					</div>
-				
-
 				</div>
-
-	
                 
 			</div>
 			
@@ -205,23 +162,23 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Basic-Souffle">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-013-Final-web.jpg' />
-									<div class='name ' >基本舒芙蕾</div>
+		     				<a href="/breakfast-in-a-mug">
+									<img class='recipes_img' src='/images/recipes/breakfast-in-a-mug-small_r.jpg' />
+									<div class='name'>马克杯早餐</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Chiu-Chow-Omeletd">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
-									<div class='name ' >潮式煎蚝饼</div>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣鳄梨吐司</div>
 								</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/chinese-crepes">
-									<img class='recipes_img' src='/images/recipes/chinese-crepes-small_r.jpg' />
-									<div class='name ' >中式薄饼</div>
+		     				<a href="/ham-and-cheese-omelette-roll-ups">
+									<img class='recipes_img' src='/images/recipes/Ham-and-Cheese-Omelette-Roll-Ups-small_r.jpg' />
+									<div class='name'>奶酪火腿欧姆蛋卷</div>
 								</a>
 		     			</div>
 				</div>		
@@ -244,27 +201,36 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>300
+        		<td class='text-right'>370
  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>18克</td>
+        		<td class='text-right'>13克</td>
         	</tr>
-        	
+        	<tr>
+        		<td><b>饱和脂肪</b></td>
+        		<td class='text-right'>6克
+</td>
+        	</tr>
+        	<tr>
+        		<td><b>反式脂肪</b>  </td>
+        		<td class='text-right'>0.4克
+</td>
+        	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>1060毫克
+        		<td class='text-right'>330毫克
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>1克
+        		<td class='text-right'>30克
 </td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>15克
+        		<td class='text-right'>11克
 </td>
         	</tr>
         	<tr>
@@ -274,17 +240,15 @@
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>20克</td>
+        		<td class='text-right'>53克</td>
         	</tr>
         	<tr>
         		<td><b>胆固醇</b></td>
-        		<td class='text-right'>140毫克
-</td>
+        		<td class='text-right'>180毫克</td>
         	</tr>
         	
-        	
         </table>
-        <i>每食用份量</i>
+        <i>每1/4份</i>
       </div>
      
     </div>

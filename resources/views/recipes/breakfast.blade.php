@@ -73,6 +73,18 @@
 								</a>
 							</div>
 							<div class='col-sm-6 col-lg-4'>
+								<a href="/stuffed-french-toast-with-strawberries-and-banana">
+									<img class='recipes_img' src='/images/recipes/Stuffed-French-Toast_S.jpg' />
+									<div class='name'>草莓香蕉夹心法式吐司</div>
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
+								<a href="/cloud-eggs">
+									<img class='recipes_img' src='/images/recipes/Cloud-Eggs-CMS_S.jpg' />
+									<div class='name'>梦幻云朵蛋</div>
+								</a>
+							</div>
+							<div class='col-sm-6 col-lg-4'>
 								
 							</div>
 						</div>

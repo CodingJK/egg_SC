@@ -92,7 +92,7 @@
 	                <div class="col-xs-6 text-left ingredients_left">
 	                	
 	                	<span>水</span>
-	                	<span>牛油</span>
+	                	<span>黄油</span>
 	                	<span>面粉
 </span>
 	                	<span>鸡蛋</span>

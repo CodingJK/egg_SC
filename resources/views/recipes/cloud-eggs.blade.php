@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>大阪烧</span>
+			<span class='recipe_title'>梦幻云朵蛋</span>
 			<p class='title_body'>
-					大阪烧其实就是用椰菜、香葱和培根快速煎成的日式咸薄饼。大阪烧的意思就是随意把喜欢的东西烧来吃，所以你可用这个食谱做基础，加入任何喜欢的配料，炮制出属于你自己的大阪烧！
+					云朵蛋现在直卷微博流行风潮！像棉花一样轻盈蓬松，见到就叫人心动。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -45,15 +45,15 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Okonomiyaki-big.jpg" alt="">
+				<img src="/images/recipes/Cloud-Eggs-CMS_L.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 6位用</li>
+					<li class='recipe_worlds'>份量: 4位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间: 10分钟</li>
+					<li class='recipe_worlds'>准备时间: 15分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
 					<li class='recipe_worlds'>烹调时间: 10分钟</li>
 				</ul>
@@ -69,78 +69,29 @@
            
                 
  				<div class="ingredients" style='clear: both'>
- 					
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	
-	                	
-					
-						<span>3/4杯(175毫升)</span>
-						<span>1/2茶匙(2.5毫升)</span>
-						<span>1/2杯(125毫升)</span>
-						<span>4只</span>
-						<span>3杯(750毫升)</span>
-						<span>2条
-</span>
-						<span>4片</span>
+	                	<span>4只</span>
+						<span>适量</span>
 						<span>1/4杯(60毫升)</span>
+						<span>2片</span>
+						<span>1汤匙(15毫升)</span>
 
-
-
-
-
-	                	
-	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>多用途面粉
-</span>
-	                	<span>盐</span>
-	                	<span>鸡汤或水</span>
 	                	<span>鸡蛋</span>
-	                	<span>椰菜(切丝)</span>
-	                	<span>香葱(切碎)</span>
-	                	<span>培根(煮熟后压碎)</span>
-	                	<span>芥花籽油</span>
-
-	                </div>
-                </div>
-                <div class="ingredients" style='clear: both'>
- 					<div class='recipes_subtitle'>配料</div>
-	                <div class="col-xs-6 text-right ingredients_right">
+						<span>盐</span>
+						<span>帕马森奶酪碎</span>
+						<span>培根(煮熟后切碎)</span>
+						<span>新鲜香葱碎</span>
+						
 	                	
-	                	
-					
-						<span>2杯(500毫升)</span>
-						<span>1条
-</span>
-						<span>2杯(500毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>1汤匙(15毫升)</span>
-						<span>1汤匙(15毫升)</span>
-
-
-
-
-
-
-	                	
-	                	
-	                </div>
-	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>豆芽</span>
-	                	<span>香葱(打斜切片)</span>
-	                	<span>鲣鱼碎</span>
-	                	<span>腌姜</span>
-	                	<span>烘煎芝麻</span>
-	                	<span>酱油</span>
-	                	<span>伍斯特辣酱油</span>
-	                	<span>亚洲风味辣酱</span>
 	                </div>
                 </div>
 
-			
+                
+
+
+
 
 				<div class="step">
 
@@ -148,56 +99,42 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在碗中搅匀面粉和盐。在另一个碗，打蛋后加鸡汤，倒入面糊混合。加入椰菜、洋葱和培根。
-
-
-
-
-</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱至425°F (220°C)。分离鸡蛋，将蛋白放入大碗中，每个蛋黄放入小模子或细碗中。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在防黏平底锅中，中高温烧热1汤匙(15毫升)油。倒入1/2杯(125毫升)面糊，用锅铲轻轻按下压平。煮3-4分钟或至底部变啡色，翻转煎多3-4分钟。用剩余面糊重复以上步骤，按需加更多油。
-
+						<div class="col-xs-10 col-xs-offset-1 step_body">用电动搅拌器打散蛋白和盐至坚挺状。拌入奶酪、培根和香葱。在烤箱纸上分成4个球。用勺子在每个球的中间压一个小坑。
 						</div>
 							<hr class='hr1'>
 					</div>
 
-					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">配料：放上豆芽、葱花、鲣鱼碎、姜、芝麻、酱油、伍斯特辣酱油和辣酱。
-
-						</div>
-							<hr class='hr1'>
+						<div class="col-xs-10 col-xs-offset-1 step_body">烤6-8分钟或至金黄且凝固。将蛋黄放入每个坑中。再烤3-5分钟或至蛋黄熟至偏好程度即成。</div>
+						<hr class='hr1'>
 					</div>
-					<div class="steps col-xs-12  text-center">
-						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">重复以上步骤，可煎多5份。
 
-						</div>
-							<hr class='hr1'>
-					</div>
+					
+
+					
 					
 					<hr>
+
 					
+
 					<div class="steps col-xs-12  text-center">
 
 						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用大阪烧酱代替伍斯特辣酱油，更具日式风味。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用低钠鸡汤代替鸡汤。</div>
-						
+						<div class="col-xs-10 col-xs-offset-1 step_body">不妨试试将云朵蛋放在面包、英式松饼或贝果上烤。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">云朵蛋配薯饼，比起煎蛋或流心蛋口感更佳。</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">冷鸡蛋较容易分离。</div>
 
 						<hr class='hr1'>
 						
 					</div>
-				
-
 				</div>
-
-	
                 
 			</div>
 			
@@ -205,26 +142,26 @@
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Basic-Souffle">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-013-Final-web.jpg' />
-									<div class='name ' >基本舒芙蕾</div>
-								</a>
+		     				<a href="/Scrambled-Eggs">
+			     				<img class='recipes_img' src='/images/recipes/Eggs-SA-04-Final-web.jpg' />
+			     				<div class='name'>玉米培根炒蛋</div>
+			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Chiu-Chow-Omeletd">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
-									<div class='name ' >潮式煎蚝饼</div>
-								</a>
+		     				<a href="/breakfast-in-a-mug">
+			     				<img class='recipes_img' src='/images/recipes/breakfast-in-a-mug-small_r.jpg' />
+			     				<div class='name'>马克杯早餐</div>
+			     			</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/chinese-crepes">
-									<img class='recipes_img' src='/images/recipes/chinese-crepes-small_r.jpg' />
-									<div class='name ' >中式薄饼</div>
-								</a>
+		     				<a href="/spicy-avocado-eggs-on-toast">
+									<img class='recipes_img' src='/images/recipes/Spicy-Avocado-Eggs-on-Toast-Small_r.jpg' />
+									<div class='name'>辣鳄梨吐司</div>
+							</a>
 		     			</div>
-				</div>		
+				</div>			
 			</div>
 			</div>
 		</div>
@@ -244,47 +181,50 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>300
+        		<td class='text-right'>130
  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>18克</td>
+        		<td class='text-right'>9克</td>
         	</tr>
-        	
+        	<tr>
+        		<td><b>饱和脂肪</b></td>
+        		<td class='text-right'>3克
+</td>
+        	</tr>
+        	<tr>
+        		<td><b>反式脂肪</b>  </td>
+        		<td class='text-right'>0克
+</td>
+        	</tr>
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>1060毫克
+        		<td class='text-right'>330毫克
 </td>
         	</tr>
         	<tr>
         		<td><b>糖</b>  </td>
-        		<td class='text-right'>1克
+        		<td class='text-right'>0克
 </td>
         	</tr>
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>15克
+        		<td class='text-right'>11克
 </td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
-        		<td class='text-right'>2克
+        		<td class='text-right'>0克
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>20克</td>
+        		<td class='text-right'>0克</td>
         	</tr>
-        	<tr>
-        		<td><b>胆固醇</b></td>
-        		<td class='text-right'>140毫克
-</td>
-        	</tr>
-        	
         	
         </table>
-        <i>每食用份量</i>
+        <!-- <i>每食用份量</i> -->
       </div>
      
     </div>

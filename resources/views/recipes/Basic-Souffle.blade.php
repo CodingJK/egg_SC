@@ -110,7 +110,7 @@
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中号锅融化牛油，加入面粉、盐和胡椒粉搅拌。煮的同时不断搅动，直至面糊细滑多泡，立刻倒入牛奶。继续搅动直至面糊开始煮沸而且细滑粘稠。
+						<div class="col-xs-10 col-xs-offset-1 step_body">用小火在中号锅融化黄油，加入面粉、盐和胡椒粉搅拌。煮的同时不断搅动，直至面糊细滑多泡，立刻倒入牛奶。继续搅动直至面糊开始煮沸而且细滑粘稠。
 						</div>
 							<hr class='hr1'>
 					</div>

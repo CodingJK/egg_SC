@@ -84,7 +84,7 @@
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>牛油</span>
+	                	<span>黄油</span>
 						<span>鸡蛋</span>
 						<span>盐和胡椒粉</span>
 						<span>熟鳄梨(轻压成蓉)</span>

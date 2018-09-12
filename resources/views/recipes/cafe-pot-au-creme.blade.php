@@ -20,9 +20,9 @@
 			
 				
 			
-			<span class='recipe_title'>大阪烧</span>
+			<span class='recipe_title'>法式巧克力咖啡杯</span>
 			<p class='title_body'>
-					大阪烧其实就是用椰菜、香葱和培根快速煎成的日式咸薄饼。大阪烧的意思就是随意把喜欢的东西烧来吃，所以你可用这个食谱做基础，加入任何喜欢的配料，炮制出属于你自己的大阪烧！
+					派对甜品的最佳伙伴！早上或前一晚准备均可，省时省力。特别鸣谢Manitoba Egg Farmers提供食谱。
 			</p>
 
 			<div class="col-xs-8 col-xs-offset-2 text-center eggs101-social">
@@ -45,17 +45,17 @@
 			
 		
 			<div class="col-xs-12 ">
-				<img src="/images/recipes/Okonomiyaki-big.jpg" alt="">
+				<img src="/images/recipes/Cafe-Chocolate-Pot-au-Creme-CMS_L.jpg" alt="">
 			</div>
 
 			<div class="col-xs-12  text-center desc">
 				<ul class='container-fuild text-center'>
 					<li><img src="/images/icons/serves-icon.png" alt=""></li>
-					<li class='recipe_worlds'>份量: 6位用</li>
+					<li class='recipe_worlds'>份量: 8位用</li>
 					<li><img src="/images/icons/spoon-icon.png" alt=""></li>
-					<li class='recipe_worlds'>准备时间: 10分钟</li>
+					<li class='recipe_worlds'>准备时间: 15分钟</li>
 					<li><img src="/images/icons/soup-icon.png" alt=""></li>
-					<li class='recipe_worlds'>烹调时间: 10分钟</li>
+					<li class='recipe_worlds'>烹调时间: 40分钟</li>
 				</ul>
 			</div>
 
@@ -69,160 +69,164 @@
            
                 
  				<div class="ingredients" style='clear: both'>
- 					
+ 					<div class='recipes_subtitle'>巧克力奶油</div>
 	                <div class="col-xs-6 text-right ingredients_right">
 	                	
-	                	
-					
-						<span>3/4杯(175毫升)</span>
-						<span>1/2茶匙(2.5毫升)</span>
+	                	<span>1汤匙(15毫升)</span>
+						<span>1汤匙(15毫升)</span>
+						<span>5盎司(145克)</span>
+						<span>2杯(500毫升)</span>
+						<span>6只</span>
 						<span>1/2杯(125毫升)</span>
-						<span>4只</span>
-						<span>3杯(750毫升)</span>
-						<span>2条
-</span>
-						<span>4片</span>
-						<span>1/4杯(60毫升)</span>
-
-
-
+						<span>1/2杯(125毫升)</span>
+						<span>1茶匙(5毫升)</span>
 
 
 	                	
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>多用途面粉
-</span>
-	                	<span>盐</span>
-	                	<span>鸡汤或水</span>
-	                	<span>鸡蛋</span>
-	                	<span>椰菜(切丝)</span>
-	                	<span>香葱(切碎)</span>
-	                	<span>培根(煮熟后压碎)</span>
-	                	<span>芥花籽油</span>
-
+	                	
+	                	<span>速溶咖啡颗粒</span>
+						<span>热水</span>
+						<span>半甜巧克力</span>
+						<span>搅打奶油</span>
+						<span>鸡蛋，蛋黄蛋白分开</span>
+						<span>砂糖</span>
+						<span>2%牛奶</span>
+						<span>香草精</span>
+						
+	                	
 	                </div>
                 </div>
-                <div class="ingredients" style='clear: both'>
- 					<div class='recipes_subtitle'>配料</div>
+
+			<div class="ingredients" style='clear: both'>
+ 					<div class='recipes_subtitle'>蛋白脆饼</div>
 	                <div class="col-xs-6 text-right ingredients_right">
-	                	
-	                	
-					
-						<span>2杯(500毫升)</span>
-						<span>1条
-</span>
-						<span>2杯(500毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>3汤匙(45毫升)</span>
-						<span>1汤匙(15毫升)</span>
-						<span>1汤匙(15毫升)</span>
-
-
-
-
+	                	<span>2只</span>
+						<span>适量</span>
+						<span>1/2杯(125毫升)</span>
+						<span>&nbsp;</span>
+						
 
 
 	                	
 	                	
 	                </div>
 	                <div class="col-xs-6 text-left ingredients_left">
-	                	<span>豆芽</span>
-	                	<span>香葱(打斜切片)</span>
-	                	<span>鲣鱼碎</span>
-	                	<span>腌姜</span>
-	                	<span>烘煎芝麻</span>
-	                	<span>酱油</span>
-	                	<span>伍斯特辣酱油</span>
-	                	<span>亚洲风味辣酱</span>
+	                	<span>蛋白</span>
+	                	<span>塔塔粉</span>
+	                	<span>浆果糖</span>
+	                	<span>肉桂粉</span>
+	                	
+	                	
 	                </div>
-                </div>
+                </div>                
 
-			
 
-				<div class="step">
+                <div class="step">
 
 					<div class='recipes_subtitle'>步骤:</div>
-
+					<div class='recipes_subtitle'>巧克力奶油:</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 1</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在碗中搅匀面粉和盐。在另一个碗，打蛋后加鸡汤，倒入面糊混合。加入椰菜、洋葱和培根。
-
-
-
-
-</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">预热烤箱至350°F(180°C)。把厨房毛巾褶起，铺在大型焗盘上。将咖啡溶在热水中搅匀，备用。</div>
 						<hr class='hr1'>
 					</div>
 
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 2</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">在防黏平底锅中，中高温烧热1汤匙(15毫升)油。倒入1/2杯(125毫升)面糊，用锅铲轻轻按下压平。煮3-4分钟或至底部变啡色，翻转煎多3-4分钟。用剩余面糊重复以上步骤，按需加更多油。
+						<div class="col-xs-10 col-xs-offset-1 step_body">把碗放入热水中，或使用炖盅，将巧克力和1杯奶油搅匀，直至巧克力融化，取出。逐渐拌入剩余奶油和咖啡。
+
 
 						</div>
 							<hr class='hr1'>
 					</div>
 
-					
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 3</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">配料：放上豆芽、葱花、鲣鱼碎、姜、芝麻、酱油、伍斯特辣酱油和辣酱。
-
-						</div>
-							<hr class='hr1'>
+						<div class="col-xs-10 col-xs-offset-1 step_body">用大碗将6只蛋黄和1/2杯(125毫升)砂糖搅拌3-4分钟至变稠且浅色。拌入巧克力浆、牛奶和香草精。倒入8个4盎司的甜品碗中。</div>
+						<hr class='hr1'>
 					</div>
 					<div class="steps col-xs-12  text-center">
 						<div class="step_title col-xs-12">步骤 4</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">重复以上步骤，可煎多5份。
-
-						</div>
-							<hr class='hr1'>
+						<div class="col-xs-10 col-xs-offset-1 step_body">将甜品杯放在准备好的烤盘上，倒入热水至碗的一半高，用铝箔盖住。将烤盘放入预热的烤箱中。</div>
+						<hr class='hr1'>
 					</div>
+					<div class="steps col-xs-12  text-center">
+						<div class="step_title col-xs-12">步骤 5</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在热水中焗35-40分钟，直至边缘彻底凝固。</div>
+						<hr class='hr1'>
+					</div>
+					<div class="steps col-xs-12  text-center">
+						<div class="step_title col-xs-12">步骤 6</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">从水中取出放凉，然后冷藏2-3小时，让中心完全凝固。撒上肉桂粉，配以蛋白脆饼食用即可。</div>
+						<hr class='hr1'>
+					</div>
+					
+
+					
+
 					
 					<hr>
-					
-					<div class="steps col-xs-12  text-center">
 
-						<h1 class="col-xs-12"><b>小诀窍：</b></h1>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用大阪烧酱代替伍斯特辣酱油，更具日式风味。</div>
-						<div class="col-xs-10 col-xs-offset-1 step_body">可选用低钠鸡汤代替鸡汤。</div>
-						
-
-						<hr class='hr1'>
-						
-					</div>
 				
 
 				</div>
 
-	
+				<div class="step">
+
+					<div class='recipes_subtitle'>蛋白脆饼:</div>
+
+					<div class="steps col-xs-12  text-center">
+						<div class="step_title col-xs-12">步骤 1</div>
+						<div class="col-xs-10 col-xs-offset-1 step_body">在大型烤盘上铺一层烤箱纸，放置备用。在碗中发打蛋白和塔塔粉1分钟，直至微微隆起。逐次加入2汤匙(30毫升)砂糖，搅拌至光泽坚挺。用厨房汤匙，将一勺蛋白脆饼放在准备好的烤盘上。用200°F(100°C)烤1小时。取出放凉至室温。甜点可放在密封容器中三日。食谱可供制作10-12个蛋白脆饼。
+
+</div>
+						<hr class='hr1'>
+					</div>
+
+					
+					
+
+					
+
+					
+					<hr>
+
+				
+
+				</div>
                 
 			</div>
+
+                
+
+
+				
 			
 			<div class="col-xs-12 text-center related">
 				<h1>相关</h1>
 				<div class="container-fuild">
 					<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Basic-Souffle">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-013-Final-web.jpg' />
-									<div class='name ' >基本舒芙蕾</div>
-								</a>
+		     				<a href="/Bld-Swtnd-Milk">
+														<img class='recipes_img' src='/images/recipes/Eggs-SA-22-Final-web.jpg' />
+														<div class='name ' >凤凰奶露</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/Chiu-Chow-Omeletd">
-									<img class='recipes_img' src='/images/recipes/Eggs-SA-26-Final-web.jpg' />
-									<div class='name ' >潮式煎蚝饼</div>
-								</a>
+		     				<a href="/creme-caramel">
+														<img class='recipes_img' src='/images/recipes/Creme-Caramel-small_r.jpg' />
+														<div class='name ' >法式焦糖炖蛋</div>
+													</a>
 		     			</div>
 
 		     			<div class='col-sm-4 col-xs-12'>
-		     				<a href="/chinese-crepes">
-									<img class='recipes_img' src='/images/recipes/chinese-crepes-small_r.jpg' />
-									<div class='name ' >中式薄饼</div>
-								</a>
+		     				<a href="/maple-walnut-tarts">
+														<img class='recipes_img' src='/images/recipes/Maple-Walnut-Tarts-small_r.jpg' />
+														<div class='name ' >枫糖核桃馅饼</div>
+													</a>
 		     			</div>
 				</div>		
 			</div>
@@ -244,47 +248,37 @@
         <table class='table'>
         	<tr>
         		<td><b>卡路里</b></td>
-        		<td class='text-right'>300
+        		<td class='text-right'>396.2
  </td>
         	</tr>
         	<tr>
         		<td><b>脂肪</b></td>
-        		<td class='text-right'>18克</td>
+        		<td class='text-right'>31.5克</td>
         	</tr>
         	
         	<tr>
         		<td><b>钠</b></td>
-        		<td class='text-right'>1060毫克
+        		<td class='text-right'>37.5毫克
 </td>
         	</tr>
-        	<tr>
-        		<td><b>糖</b>  </td>
-        		<td class='text-right'>1克
-</td>
-        	</tr>
+        	
         	<tr>
         		<td><b>蛋白质</b>  </td>
-        		<td class='text-right'>15克
+        		<td class='text-right'>4.5克
 </td>
         	</tr>
         	<tr>
         		<td><b>纤维</b>  </td>
-        		<td class='text-right'>2克
+        		<td class='text-right'>1克
 </td>
         	</tr>
         	<tr>
         		<td><b>碳水化合物</b></td>
-        		<td class='text-right'>20克</td>
+        		<td class='text-right'>27.2克</td>
         	</tr>
-        	<tr>
-        		<td><b>胆固醇</b></td>
-        		<td class='text-right'>140毫克
-</td>
-        	</tr>
-        	
         	
         </table>
-        <i>每食用份量</i>
+        <!-- <i>每食用份量</i> -->
       </div>
      
     </div>
